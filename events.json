@@ -1,193 +1,10 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "14c8c4ae-2168-4cfb-8ee5-ab3e3c1bde49",
-  "generatedAt": "2026-09-06T11:15:00+02:00",
+  "deliveryId": "61466168-b2e2-42f5-b170-3ed1132e823a",
+  "generatedAt": "2026-09-07T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Just Move Festival fills Spoorpark — organ at Abdij van Berne",
+  "headline": "Earl Sweatshirt + MIKE double bill at 013 as Democracy Week opens; Circolo circus festival next week",
   "events": [
-    {
-      "id": "draaimolen-2026-09-04",
-      "title": "Draaimolen Festival — day 1",
-      "date": "2026-09-04",
-      "time": "12:00",
-      "venue": "MOB Complex",
-      "city": "Tilburg",
-      "category": "festival",
-      "status": "on-sale",
-      "note": "Electronic weekend opener."
-    },
-    {
-      "id": "illustrada-2026-09-05",
-      "title": "Illustrada",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "venue": "Spoorpark",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "free",
-      "price": "Free / park",
-      "note": "Illustration and visual-arts day in Spoorpark."
-    },
-    {
-      "id": "draaimolen-2026-09-05",
-      "title": "Draaimolen Festival — day 2",
-      "date": "2026-09-05",
-      "time": "12:00",
-      "end": "03:00",
-      "venue": "MOB Complex",
-      "city": "Tilburg",
-      "category": "festival",
-      "status": "on-sale",
-      "price": "Festival ticket",
-      "note": "Electronic: Donato Dozzy, Octo Octa, Job Jobse, Shinedoe, Kangding Ray and more.",
-      "url": "https://draaimolen.festival"
-    },
-    {
-      "id": "biezenmortel-2026-09-05",
-      "title": "Biezenmortel Bruist",
-      "date": "2026-09-05",
-      "time": "12:00",
-      "venue": "Biezenmortelsestraat",
-      "city": "Biezenmortel",
-      "category": "festival",
-      "status": "free",
-      "price": "Free street festival",
-      "note": "Village festival, last full day (4–6 Sep)."
-    },
-    {
-      "id": "breda-barst-2026-09-05",
-      "title": "Breda Barst + INTRO Festival",
-      "date": "2026-09-05",
-      "time": "13:00",
-      "venue": "Park Valkenberg",
-      "city": "Breda",
-      "category": "festival",
-      "status": "free",
-      "note": "Free local pop/rock festival. Last day. ~20 min from Tilburg."
-    },
-    {
-      "id": "high-tea-2026-09-05",
-      "title": "Subquake × High Tea",
-      "date": "2026-09-05",
-      "time": "14:00",
-      "end": "23:00",
-      "venue": "013 Poppodium — Main",
-      "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "price": "€19.99–€29.99",
-      "note": "Daytime drum & bass. Fox Stevenson, Mozey, Simula, SKIYE, Arcando.",
-      "url": "https://www.013.nl/programma/125669/subquake-x-high-tea"
-    },
-    {
-      "id": "heuvelse-kerk-2026-09-05",
-      "title": "Jong muzikaal talent — Nora Gommers & Rob Nederlof",
-      "date": "2026-09-05",
-      "time": "14:00",
-      "venue": "Heuvelse Kerk (Sint-Jozefkerk)",
-      "city": "Tilburg",
-      "category": "church",
-      "status": "free",
-      "price": "Free",
-      "note": "Harp + city organist. Debussy, Händel, Fauré, Mendelssohn.",
-      "url": "https://www.orgelkringmiddenbrabant.nl/"
-    },
-    {
-      "id": "boris-brejcha-2026-09-05",
-      "title": "Boris Brejcha & Friends",
-      "date": "2026-09-05",
-      "time": "16:00",
-      "venue": "Breepark Outdoor",
-      "city": "Breda",
-      "category": "music",
-      "status": "on-sale",
-      "note": "Extended techno set. Day trip."
-    },
-    {
-      "id": "little-devil-2026-09-05",
-      "title": "No Way + FLATLINE + Blue Vultures",
-      "date": "2026-09-05",
-      "time": "19:30",
-      "venue": "Little Devil",
-      "city": "Tilburg",
-      "category": "nightlife",
-      "status": "on-sale",
-      "note": "Indie / rock club night."
-    },
-    {
-      "id": "samael-2026-09-05",
-      "title": "Samael",
-      "date": "2026-09-05",
-      "time": "20:00",
-      "venue": "Cultuurfabriek Hall of Fame",
-      "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "note": "Swiss metal."
-    },
-    {
-      "id": "spanish-heat-2026-09-05",
-      "title": "Spanish Heat",
-      "date": "2026-09-05",
-      "time": "22:00",
-      "venue": "013 Poppodium",
-      "city": "Tilburg",
-      "category": "nightlife",
-      "status": "sold-out",
-      "price": "Sold out",
-      "note": "Latin / reggaeton club night."
-    },
-    {
-      "id": "brabants-mooiste-2026-09-06",
-      "title": "Brabants Mooiste",
-      "date": "2026-09-06",
-      "time": "08:00",
-      "venue": "De Lind",
-      "city": "Oisterwijk",
-      "category": "family",
-      "status": "on-sale",
-      "note": "Cycling classic through the Kampina. Easy hop from Tilburg."
-    },
-    {
-      "id": "just-move-2026-09-06",
-      "title": "Just Move Festival",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "end": "17:00",
-      "venue": "Spoorpark",
-      "city": "Tilburg",
-      "category": "festival",
-      "status": "free",
-      "price": "Free",
-      "note": "35+ sports and movement activities for all ages. Stamp card for prizes.",
-      "url": "https://www.justmovefestival.nl/"
-    },
-    {
-      "id": "biezenmortel-2026-09-06",
-      "title": "Biezenmortel Bruist — last day",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "end": "21:00",
-      "venue": "Biezenmortelsestraat",
-      "city": "Biezenmortel",
-      "category": "festival",
-      "status": "free",
-      "price": "Free / all ages",
-      "note": "Village wrap-up: Bourgondisch Genieten. Fri/Sat needed tickets; Sunday is free."
-    },
-    {
-      "id": "heeswijk-orgel-2026-09-06",
-      "title": "Christian Alejandro Almada — orgel",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "venue": "Abdij van Berne",
-      "city": "Heeswijk",
-      "category": "church",
-      "status": "on-sale",
-      "price": "€10",
-      "note": "Eben, Bach, Vierne, Piazzolla, Ginastera. Short hop from Tilburg.",
-      "url": "https://www.brabantorgel.nl/concertagenda/"
-    },
     {
       "id": "popcorn-2026-09-07",
       "title": "POPCORN Social Club",
@@ -209,7 +26,43 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "Home on the Range — NL exclusive double bill."
+      "note": "Home on the Range Tour — NL exclusive double bill with joint album.",
+      "url": "https://www.013.nl/"
+    },
+    {
+      "id": "politieke-proeverij-2026-09-07",
+      "title": "De Politieke Proeverij",
+      "date": "2026-09-07",
+      "time": "11:45",
+      "end": "13:30",
+      "venue": "Reinevaarstraat 55",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "free",
+      "note": "Week van de Democratie lunch event."
+    },
+    {
+      "id": "meet-judge-2026-09-08",
+      "title": "Meet the Judge",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "end": "21:00",
+      "venue": "LocHal",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "free",
+      "note": "Kennismaken met de rechtspraak — Week van de Democratie / Week van de Rechtsstaat."
+    },
+    {
+      "id": "studium-generale-2026-09-08",
+      "title": "Studium Generale — De Impact van 9/11",
+      "date": "2026-09-08",
+      "time": "16:00",
+      "venue": "Black Box, Esplanadegebouw TiU",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "free",
+      "note": "Lecture by sociologist Thijs van Doormalen."
     },
     {
       "id": "dag-mama-2026-09-09",
@@ -257,11 +110,23 @@
       "note": "Dance / performance. Première the next evening."
     },
     {
+      "id": "pjo-2026-09-10",
+      "title": "PJO – New Trees On Old Ground (rehearsal + dinner)",
+      "date": "2026-09-10",
+      "time": "16:00",
+      "venue": "Paradox",
+      "city": "Tilburg",
+      "category": "music",
+      "status": "on-sale",
+      "price": "€60",
+      "note": "Paradox Jazz Orchestra session with public."
+    },
+    {
       "id": "art-experience-2026-09-11",
       "title": "The Art Experience",
       "date": "2026-09-11",
-      "time": "11:00",
       "endDate": "2026-09-13",
+      "time": "11:00",
       "venue": "Koepelhal",
       "city": "Tilburg",
       "category": "family",
@@ -276,7 +141,8 @@
       "venue": "Muzentuin",
       "city": "Tilburg",
       "category": "music",
-      "status": "on-sale"
+      "status": "on-sale",
+      "note": "Live music in the garden."
     },
     {
       "id": "vertical-blue-2026-09-11",
@@ -288,6 +154,30 @@
       "category": "theater",
       "status": "on-sale",
       "note": "Dance première, Body of Art."
+    },
+    {
+      "id": "pjo-recording-2026-09-11",
+      "title": "PJO – New Trees On Old Ground (recording session)",
+      "date": "2026-09-11",
+      "time": "20:00",
+      "venue": "Paradox",
+      "city": "Tilburg",
+      "category": "music",
+      "status": "on-sale",
+      "price": "€20",
+      "note": "Public recording with Paradox Jazz Orchestra."
+    },
+    {
+      "id": "berkel-enschot-bruist-2026-09-12",
+      "title": "Berkel-Enschot Bruist",
+      "date": "2026-09-12",
+      "endDate": "2026-09-13",
+      "time": "12:00",
+      "venue": "Koningsoord",
+      "city": "Berkel-Enschot",
+      "category": "festival",
+      "status": "free",
+      "note": "Village festival nearby."
     },
     {
       "id": "aleph-2026-09-12",
@@ -313,17 +203,6 @@
       "note": "Throwback party to the old Spoel days."
     },
     {
-      "id": "terror-2026-09-12",
-      "title": "Terror Syndrome · Patient Zero",
-      "date": "2026-09-12",
-      "time": "21:00",
-      "venue": "Hall of Fame",
-      "city": "Tilburg",
-      "category": "nightlife",
-      "status": "on-sale",
-      "note": "Hardcore / gabber lineup."
-    },
-    {
       "id": "pauluskerk-2026-09-13",
       "title": "Rob Nederlof — orgelconcert",
       "date": "2026-09-13",
@@ -332,26 +211,38 @@
       "city": "Tilburg",
       "category": "church",
       "status": "free",
-      "price": "Free / donation",
-      "note": "City organist, Sunday afternoon."
+      "price": "Free / vrijwillige bijdrage",
+      "note": "City organist Sunday afternoon concert.",
+      "url": "https://www.brabantorgel.nl/concertagenda/"
     },
     {
-      "id": "drekka-2026-09-13",
-      "title": "Drekka + b°tong",
+      "id": "spoorzone-ontspoort-2026-09-13",
+      "title": "Spoorzone Ontspoort",
       "date": "2026-09-13",
-      "time": "20:00",
-      "venue": "De Nieuwe Vorst",
+      "time": "12:00",
+      "venue": "Spoorzone",
       "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "note": "Experimental music."
+      "category": "festival",
+      "status": "free",
+      "note": "Neighbourhood festival in Spoorzone locations."
+    },
+    {
+      "id": "knoflookfeest-2026-09-13",
+      "title": "Theresia Stinkend Gezellige Knoflookfeest",
+      "date": "2026-09-13",
+      "time": "12:00",
+      "venue": "Theresiaplein",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "free",
+      "note": "Garlic festival in the neighbourhood."
     },
     {
       "id": "circolo-2026-09-16",
       "title": "Festival Circolo",
       "date": "2026-09-16",
       "endDate": "2026-09-20",
-      "time": "10:00",
+      "time": "13:00",
       "venue": "Spoorpark",
       "city": "Tilburg",
       "category": "theater",
@@ -371,47 +262,16 @@
       "note": "NL exclusive."
     },
     {
-      "id": "bang-2026-09-16",
-      "title": "Bang — Hanneke van der Paardt",
-      "date": "2026-09-16",
-      "time": "20:30",
-      "venue": "De Nieuwe Vorst",
-      "city": "Tilburg",
-      "category": "theater",
-      "status": "on-sale"
-    },
-    {
-      "id": "quizm-2026-09-17",
-      "title": "Quiz'm",
-      "date": "2026-09-17",
-      "time": "20:00",
-      "venue": "013 Poppodium",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "sold-out",
-      "note": "Music quiz — sold out."
-    },
-    {
-      "id": "6lack-2026-09-17",
-      "title": "6lack — 10 Years Of 6lack",
-      "date": "2026-09-17",
-      "time": "20:00",
-      "venue": "013 Poppodium",
+      "id": "music-film-festival-2026-09-18",
+      "title": "Music Film Festival",
+      "date": "2026-09-18",
+      "endDate": "2026-09-20",
+      "time": "19:00",
+      "venue": "Pieter Vreedeplein / Paradox",
       "city": "Tilburg",
       "category": "music",
-      "status": "cancelled",
-      "note": "Cancelled."
-    },
-    {
-      "id": "hor-2026-09-18",
-      "title": "HÖR",
-      "date": "2026-09-18",
-      "time": "22:00",
-      "venue": "013 Poppodium",
-      "city": "Tilburg",
-      "category": "nightlife",
       "status": "on-sale",
-      "note": "Berlin bathroom-club takeover."
+      "note": "Film & concert evenings incl. Teus Nobel, Little North, Radiohop."
     },
     {
       "id": "housewarming-2026-09-19",
@@ -437,18 +297,6 @@
       "note": "Country. NL exclusive."
     },
     {
-      "id": "ten-miles-2026-09-26",
-      "title": "Tilburg Ten Miles",
-      "date": "2026-09-26",
-      "endDate": "2026-09-27",
-      "time": "09:00",
-      "venue": "Stadsforum & Spoorlaan",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "on-sale",
-      "note": "City road race through centre and Spoorlaan."
-    },
-    {
       "id": "queen-musical-2026-09-30",
       "title": "We Will Rock You — The Queen Musical",
       "date": "2026-09-30",
@@ -459,18 +307,6 @@
       "category": "theater",
       "status": "on-sale",
       "note": "Travelling Queen musical."
-    },
-    {
-      "id": "tilburgse-feesten-2026-10-03",
-      "title": "Tilburgse Feesten",
-      "date": "2026-10-03",
-      "endDate": "2026-10-04",
-      "time": "12:00",
-      "venue": "Horecapleinen binnenstad",
-      "city": "Tilburg",
-      "category": "festival",
-      "status": "free",
-      "note": "Outdoor terraces and live music across the inner city."
     }
   ]
 }
