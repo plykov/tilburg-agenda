@@ -1,9 +1,9 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "7b2c8e41-9f06-4d3a-a1c5-2e8f4b6d0a19",
-  "generatedAt": "2026-09-08T19:05:00+02:00",
+  "deliveryId": "c4e91a27-6b8d-4f11-9e3a-0d7c2b5a8f14",
+  "generatedAt": "2026-09-08T19:26:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:05 Amsterdam",
+  "source": "Grok verified permalinks 19:26 Amsterdam",
   "headline": {
     "nl": "Pauwelsdag en boscafés van de gemeente; Omroep over blessure Willem II en dodelijk ongeval Letschertweg",
     "en": "Municipality on Pauwelsdag and forest cafés; broadcasters on Willem II injury and fatal Letschertweg crash",
@@ -18,8 +18,16 @@
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-09-08T00:00:00+02:00",
-      "title": { "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden", "en": "Pauwelsdag 2026: step off the usual paths", "ru": "Pauwelsdag 2026: сойдите с привычных троп" },
-      "teaser": { "nl": "Zondag 13 september activiteiten tussen Tilburg en de Loonse en Drunense Duinen.", "en": "Sunday 13 September: walks, tours and workshops between Tilburg and the Loonse en Drunense Duinen.", "ru": "Воскресенье 13 сентября: прогулки и мастер-классы между Тилбургом и дюнами Loonse en Drunense." },
+      "title": {
+        "nl": "Pauwelsdag 2026: treed eens buiten de gebaande paden",
+        "en": "Pauwelsdag 2026: step off the usual paths",
+        "ru": "Pauwelsdag 2026: сойдите с привычных троп"
+      },
+      "teaser": {
+        "nl": "Zondag 13 september activiteiten tussen Tilburg en de Loonse en Drunense Duinen.",
+        "en": "Sunday 13 September: walks, tours and workshops between Tilburg and the Loonse en Drunense Duinen.",
+        "ru": "Воскресенье 13 сентября: прогулки и мастер-классы между Тилбургом и дюнами Loonse en Drunense."
+      },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/pauwelsdag-2026-treed-eens-buiten-de-gebaande-paden/",
       "paywall": false,
@@ -32,8 +40,16 @@
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-09-08T00:00:00+02:00",
-      "title": { "nl": "Boscafés over werkzaamheden in Stadsbos013", "en": "Forest cafés on works in Stadsbos013", "ru": "Лесные кафе о работах в Stadsbos013" },
-      "teaser": { "nl": "Zondag 20 september toelichting op bomenkap in De Gaas, Reeshofbos en Wilmabos.", "en": "Sunday 20 September briefings on tree works in De Gaas, Reeshofbos and Wilmabos.", "ru": "20 сентября — разъяснения по работам с деревьями в De Gaas, Reeshofbos и Wilmabos." },
+      "title": {
+        "nl": "Boscafés over werkzaamheden in Stadsbos013",
+        "en": "Forest cafés on works in Stadsbos013",
+        "ru": "Лесные кафе о работах в Stadsbos013"
+      },
+      "teaser": {
+        "nl": "Zondag 20 september toelichting op bomenkap in De Gaas, Reeshofbos en Wilmabos.",
+        "en": "Sunday 20 September briefings on tree works in De Gaas, Reeshofbos and Wilmabos.",
+        "ru": "20 сентября — разъяснения по работам с деревьями в De Gaas, Reeshofbos и Wilmabos."
+      },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/boscafes-over-werkzaamheden-in-stadsbos013/",
       "paywall": false,
@@ -46,8 +62,16 @@
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-09-07T00:00:00+02:00",
-      "title": { "nl": "Luchtmachtoefening Falcon Leap", "en": "Air force exercise Falcon Leap", "ru": "Учения ВВС Falcon Leap" },
-      "teaser": { "nl": "7–18 september laagvliegen 13:00–17:00 en 19:00–23:00.", "en": "7–18 September low flights 13:00–17:00 and 19:00–23:00.", "ru": "7–18 сентября низкие полёты 13:00–17:00 и 19:00–23:00." },
+      "title": {
+        "nl": "Luchtmachtoefening Falcon Leap",
+        "en": "Air force exercise Falcon Leap",
+        "ru": "Учения ВВС Falcon Leap"
+      },
+      "teaser": {
+        "nl": "7–18 september laagvliegen 13:00–17:00 en 19:00–23:00.",
+        "en": "7–18 September low flights 13:00–17:00 and 19:00–23:00.",
+        "ru": "7–18 сентября низкие полёты 13:00–17:00 и 19:00–23:00."
+      },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/luchtmachtoefening-falcon-leap/",
       "paywall": false,
@@ -60,8 +84,16 @@
       "sourceName": "Gemeente Tilburg",
       "category": "gemeente",
       "publishedAt": "2026-09-04T00:00:00+02:00",
-      "title": { "nl": "Nog vuurwerk in huis? Lever het op 9 september in bij de milieustraat", "en": "Fireworks still at home? Hand them in at the milieustraat on 9 September", "ru": "Остался фейерверк? Сдайте 9 сентября на milieustraat" },
-      "teaser": { "nl": "Woensdag 9 september inleverpunt Caledoniastraat. F1 blijft toegestaan.", "en": "Wednesday 9 September drop-off at Caledoniastraat. F1 fireworks stay legal.", "ru": "Среда 9 сентября приём на Caledoniastraat. F1 остаётся разрешён." },
+      "title": {
+        "nl": "Nog vuurwerk in huis? Lever het op 9 september in bij de milieustraat",
+        "en": "Fireworks still at home? Hand them in at the milieustraat on 9 September",
+        "ru": "Остался фейерверк? Сдайте 9 сентября на milieustraat"
+      },
+      "teaser": {
+        "nl": "Woensdag 9 september inleverpunt Caledoniastraat. F1 blijft toegestaan.",
+        "en": "Wednesday 9 September drop-off at Caledoniastraat. F1 fireworks stay legal.",
+        "ru": "Среда 9 сентября приём на Caledoniastraat. F1 остаётся разрешён."
+      },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/nog-vuurwerk-in-huis-lever-het-op-9-september-veilig-in-bij-de-milieustraat/",
       "paywall": false,
@@ -75,9 +107,17 @@
       "sourceName": "Omroep Tilburg",
       "category": "omroep",
       "publishedAt": "2026-09-08T12:00:00+02:00",
-      "title": { "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant" },
-      "teaser": { "nl": "Verdediger Justin Hoogma loopt een zware knieblessure op en valt maanden uit." },
-      "langNote": "source-nl",
+      "title": {
+        "nl": "Willem II opnieuw getroffen door blessureleed: Justin Hoogma maanden aan de kant",
+        "en": "Willem II hit by injury again: Justin Hoogma out for months",
+        "ru": "Willem II снова теряет игрока из-за травмы: Джастин Хогма вне игры на месяцы"
+      },
+      "teaser": {
+        "nl": "Verdediger Justin Hoogma loopt een zware knieblessure op en valt maanden uit.",
+        "en": "Defender Justin Hoogma suffers a serious knee injury and will be out for months.",
+        "ru": "Защитник Джастин Хогма получил тяжёлую травму колена и выбыл на несколько месяцев."
+      },
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/sport/willem-ii-opnieuw-getroffen-door-blessureleed-justin-hoogma-maanden-aan-de-kant/",
       "paywall": false,
       "city": "Tilburg",
@@ -89,9 +129,17 @@
       "sourceName": "Omroep Tilburg",
       "category": "incident",
       "publishedAt": "2026-09-08T10:00:00+02:00",
-      "title": { "nl": "Pinner gezocht na babbeltruc in Tilburg" },
-      "teaser": { "nl": "Slachtoffer belde met iemand die zei dat er problemen waren met de internetverbinding." },
-      "langNote": "source-nl",
+      "title": {
+        "nl": "Pinner gezocht na babbeltruc in Tilburg",
+        "en": "Skimmer sought after a phone scam in Tilburg",
+        "ru": "Ищут мошенника после телефонной аферы в Тилбурге"
+      },
+      "teaser": {
+        "nl": "Slachtoffer belde met iemand die zei dat er problemen waren met de internetverbinding.",
+        "en": "The victim called someone who claimed there were problems with the internet connection.",
+        "ru": "Жертва позвонила человеку, который сказал, что есть проблемы с интернет-соединением."
+      },
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/pinner-gezocht-na-babbeltruc-in-tilburg/",
       "paywall": false,
       "city": "Tilburg",
@@ -103,9 +151,17 @@
       "sourceName": "Omroep Tilburg",
       "category": "incident",
       "publishedAt": "2026-09-08T09:00:00+02:00",
-      "title": { "nl": "64-jarige man overleden bij ernstig ongeluk op Burgemeester Letschertweg" },
-      "teaser": { "nl": "Botsing tussen auto en vrachtwagen. Slachtoffer uit Tilburg." },
-      "langNote": "source-nl",
+      "title": {
+        "nl": "64-jarige man overleden bij ernstig ongeluk op Burgemeester Letschertweg",
+        "en": "64-year-old man dies in serious crash on Burgemeester Letschertweg",
+        "ru": "64-летний мужчина погиб в серьёзном ДТП на Burgemeester Letschertweg"
+      },
+      "teaser": {
+        "nl": "Botsing tussen auto en vrachtwagen. Slachtoffer uit Tilburg.",
+        "en": "Collision between a car and a lorry. The victim was from Tilburg.",
+        "ru": "Столкновение легкового автомобиля и грузовика. Погибший — из Тилбурга."
+      },
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/zwaargewonde-bij-ernstig-ongeluk-op-burgemeester-letschertweg/",
       "paywall": false,
       "city": "Tilburg",
@@ -118,9 +174,17 @@
       "sourceName": "Omroep Tilburg",
       "category": "cultuur",
       "publishedAt": "2026-09-08T11:00:00+02:00",
-      "title": { "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal" },
-      "teaser": { "nl": "Kunstbeurs in de Koepelhal, 11 tot en met 13 september." },
-      "langNote": "source-nl",
+      "title": {
+        "nl": "The Art Experience brengt kunst en beleving naar de Koepelhal",
+        "en": "The Art Experience brings art and atmosphere to the Koepelhal",
+        "ru": "The Art Experience привозит искусство и впечатления в Koepelhal"
+      },
+      "teaser": {
+        "nl": "Kunstbeurs in de Koepelhal, 11 tot en met 13 september.",
+        "en": "Art fair in the Koepelhal, 11 through 13 September.",
+        "ru": "Ярмарка искусства в Koepelhal, с 11 по 13 сентября."
+      },
+      "langNote": "ui-translated",
       "url": "https://www.omroeptilburg.nl/regio/tilburg/the-art-experience-brengt-kunst-en-beleving-naar-de-koepelhal/",
       "paywall": false,
       "city": "Tilburg",
