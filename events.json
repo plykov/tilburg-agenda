@@ -1,43 +1,21 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "7e8634f4-9f17-461d-bb75-2abb66ad7cc5",
-  "generatedAt": "2026-09-08T08:00:00+02:00",
+  "deliveryId": "66219ef6-de27-4356-b21e-c11ecdfbbed7",
+  "generatedAt": "2026-09-08T08:15:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Quiet Tuesday after hip-hop night; Democracy Week continues, Open Monumentendag & Circolo loom",
+  "headline": "Quiet Tuesday after Earl Sweatshirt; Democracy Week, Vertical Blue & Open Monumentendag ahead",
   "events": [
-    {
-      "id": "studium-generale-2026-09-08",
-      "title": "Studium Generale — De Impact van 9/11",
-      "date": "2026-09-08",
-      "time": "16:00",
-      "venue": "Black Box, Esplanadegebouw TiU",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "free",
-      "note": "Lecture by sociologist Thijs van Doormalen on 25 years after 9/11."
-    },
-    {
-      "id": "meet-judge-2026-09-08",
-      "title": "Meet the Judge",
-      "date": "2026-09-08",
-      "time": "19:00",
-      "end": "21:00",
-      "venue": "LocHal",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "free",
-      "note": "Kennismaken met de rechtspraak — Week van de Democratie / Week van de Rechtsstaat."
-    },
     {
       "id": "dag-mama-2026-09-09",
       "title": "Dag Mama — Dementie in Theater",
       "date": "2026-09-09",
       "time": "19:30",
-      "venue": "Schouwburg & Concertzaal",
+      "venue": "Schouwburg & Concertzaal Tilburg",
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Theater about dementia."
+      "note": "Theater over dementie.",
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
       "id": "open-air-cinema-2026-09-09",
@@ -55,26 +33,26 @@
       "title": "Democratie, tot het pijn doet",
       "date": "2026-09-10",
       "time": "19:30",
-      "venue": "De Nieuwe Vorst / LocHal",
+      "venue": "De Nieuwe Vorst",
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Week of Democracy lecture / debate."
+      "note": "Week van de Democratie lezing/debat."
     },
     {
       "id": "vertical-blue-tryout-2026-09-10",
-      "title": "Vertical Blue (try-out) — Annemijn Rijk",
+      "title": "Vertical Blue (try-out) — Annemijn Rijk / Body of Art",
       "date": "2026-09-10",
       "time": "20:30",
       "venue": "De Nieuwe Vorst",
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Dance / performance. Première the next evening."
+      "note": "Immersieve dans/performance. Première 11 sep."
     },
     {
       "id": "pjo-2026-09-10",
-      "title": "PJO – New Trees On Old Ground (rehearsal + dinner)",
+      "title": "PJO – New Trees On Old Ground (repetitie + diner)",
       "date": "2026-09-10",
       "time": "16:00",
       "venue": "Paradox",
@@ -82,25 +60,23 @@
       "category": "music",
       "status": "on-sale",
       "price": "€60",
-      "note": "Paradox Jazz Orchestra session with public."
+      "note": "Paradox Jazz Orchestra met publiek."
     },
     {
       "id": "art-experience-2026-09-11",
       "title": "The Art Experience",
       "date": "2026-09-11",
       "endDate": "2026-09-13",
-      "time": "11:00",
       "venue": "Koepelhal",
       "city": "Tilburg",
       "category": "family",
       "status": "on-sale",
-      "note": "Multi-day art event 11–13 Sep."
+      "note": "Multi-day art event."
     },
     {
       "id": "preau-2026-09-11",
       "title": "Preau Millage",
       "date": "2026-09-11",
-      "time": "19:00",
       "venue": "Muzentuin",
       "city": "Tilburg",
       "category": "music",
@@ -116,11 +92,11 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Dance première, Body of Art."
+      "note": "Danspremière Body of Art."
     },
     {
       "id": "pjo-recording-2026-09-11",
-      "title": "PJO – New Trees On Old Ground (recording session)",
+      "title": "PJO – New Trees On Old Ground (opnamesessie)",
       "date": "2026-09-11",
       "time": "20:00",
       "venue": "Paradox",
@@ -128,23 +104,22 @@
       "category": "music",
       "status": "on-sale",
       "price": "€20",
-      "note": "Public recording with Paradox Jazz Orchestra."
+      "note": "Publieke opname Paradox Jazz Orchestra."
     },
     {
       "id": "berkel-enschot-bruist-2026-09-12",
       "title": "Berkel-Enschot Bruist",
       "date": "2026-09-12",
       "endDate": "2026-09-13",
-      "time": "12:00",
       "venue": "Koningsoord",
       "city": "Berkel-Enschot",
       "category": "festival",
       "status": "free",
-      "note": "Village festival nearby."
+      "note": "Dorpsfestival."
     },
     {
       "id": "aleph-2026-09-12",
-      "title": "Aleph Quintet",
+      "title": "Aleph Quintet (BE/FR)",
       "date": "2026-09-12",
       "time": "20:30",
       "venue": "Paradox",
@@ -152,7 +127,7 @@
       "category": "music",
       "status": "on-sale",
       "price": "€20",
-      "note": "Modern creative jazz (BE/FR)."
+      "note": "Modern creative jazz."
     },
     {
       "id": "spoel-2026-09-12",
@@ -163,19 +138,18 @@
       "city": "Tilburg",
       "category": "nightlife",
       "status": "on-sale",
-      "note": "Throwback party to the old Spoel days."
+      "note": "Throwback party."
     },
     {
       "id": "open-monumentendag-2026-09-12",
       "title": "Open Monumentendag",
       "date": "2026-09-12",
       "endDate": "2026-09-13",
-      "time": "10:00",
       "venue": "Multiple locations",
       "city": "Tilburg",
       "category": "family",
       "status": "free",
-      "note": "42 monuments + Spoorzone Ontspoort open. Theme: Veerkrachtig erfgoed."
+      "note": "Open monuments + Spoorzone Ontspoort."
     },
     {
       "id": "pauluskerk-2026-09-13",
@@ -187,42 +161,39 @@
       "category": "church",
       "status": "free",
       "price": "Free / vrijwillige bijdrage",
-      "note": "City organist Sunday afternoon concert.",
+      "note": "Stadtsorganist zondagmiddagconcert.",
       "url": "https://www.brabantorgel.nl/concertagenda/"
     },
     {
       "id": "spoorzone-ontspoort-2026-09-13",
       "title": "Spoorzone Ontspoort",
       "date": "2026-09-13",
-      "time": "12:00",
       "venue": "Spoorzone",
       "city": "Tilburg",
       "category": "festival",
       "status": "free",
-      "note": "Neighbourhood festival in Spoorzone locations, linked to Open Monumentendag."
+      "note": "Buurtfestival gekoppeld aan Open Monumentendag."
     },
     {
       "id": "knoflookfeest-2026-09-13",
       "title": "Theresia Stinkend Gezellige Knoflookfeest",
       "date": "2026-09-13",
-      "time": "12:00",
       "venue": "Theresiaplein",
       "city": "Tilburg",
       "category": "family",
       "status": "free",
-      "note": "Garlic festival in the neighbourhood."
+      "note": "Knoflookfeest in de wijk."
     },
     {
       "id": "circolo-2026-09-16",
       "title": "Festival Circolo",
       "date": "2026-09-16",
       "endDate": "2026-09-20",
-      "time": "13:00",
       "venue": "Spoorpark",
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Largest circus festival in the Netherlands.",
+      "note": "Grootste circusfestival van Nederland.",
       "url": "https://festivalcircolo.nl/"
     },
     {
@@ -234,19 +205,18 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "NL exclusive rage rap."
+      "note": "NL exclusive."
     },
     {
       "id": "music-film-festival-2026-09-18",
       "title": "Music Film Festival",
       "date": "2026-09-18",
       "endDate": "2026-09-20",
-      "time": "19:00",
       "venue": "Pieter Vreedeplein / Paradox",
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "Film & concert evenings incl. Teus Nobel, Little North."
+      "note": "Film & concert avonden."
     },
     {
       "id": "housewarming-2026-09-19",
@@ -258,7 +228,7 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "free",
-      "note": "Free reopening after renovation: shows, workshops, music."
+      "note": "Gratis heropening na verbouwing."
     },
     {
       "id": "megan-2026-09-19",
@@ -269,7 +239,7 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "Country. NL exclusive."
+      "note": "Country, NL exclusive."
     },
     {
       "id": "queen-musical-2026-09-30",
@@ -277,11 +247,11 @@
       "date": "2026-09-30",
       "endDate": "2026-10-04",
       "time": "20:15",
-      "venue": "Schouwburg & Concertzaal",
+      "venue": "Schouwburg & Concertzaal Tilburg",
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Travelling Queen musical."
+      "note": "Queen musical."
     }
   ]
 }
