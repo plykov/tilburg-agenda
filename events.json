@@ -1,45 +1,20 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "61466168-b2e2-42f5-b170-3ed1132e823a",
-  "generatedAt": "2026-09-07T08:00:00+02:00",
+  "deliveryId": "7e8634f4-9f17-461d-bb75-2abb66ad7cc5",
+  "generatedAt": "2026-09-08T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Earl Sweatshirt + MIKE double bill at 013 as Democracy Week opens; Circolo circus festival next week",
+  "headline": "Quiet Tuesday after hip-hop night; Democracy Week continues, Open Monumentendag & Circolo loom",
   "events": [
     {
-      "id": "popcorn-2026-09-07",
-      "title": "POPCORN Social Club",
-      "date": "2026-09-07",
-      "time": "19:00",
-      "end": "20:30",
-      "venue": "Factorium",
+      "id": "studium-generale-2026-09-08",
+      "title": "Studium Generale — De Impact van 9/11",
+      "date": "2026-09-08",
+      "time": "16:00",
+      "venue": "Black Box, Esplanadegebouw TiU",
       "city": "Tilburg",
       "category": "family",
       "status": "free",
-      "note": "Youth talent / culture hangout."
-    },
-    {
-      "id": "earl-mike-2026-09-07",
-      "title": "Earl Sweatshirt + MIKE",
-      "date": "2026-09-07",
-      "time": "20:00",
-      "venue": "013 Poppodium",
-      "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "note": "Home on the Range Tour — NL exclusive double bill with joint album.",
-      "url": "https://www.013.nl/"
-    },
-    {
-      "id": "politieke-proeverij-2026-09-07",
-      "title": "De Politieke Proeverij",
-      "date": "2026-09-07",
-      "time": "11:45",
-      "end": "13:30",
-      "venue": "Reinevaarstraat 55",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "free",
-      "note": "Week van de Democratie lunch event."
+      "note": "Lecture by sociologist Thijs van Doormalen on 25 years after 9/11."
     },
     {
       "id": "meet-judge-2026-09-08",
@@ -54,17 +29,6 @@
       "note": "Kennismaken met de rechtspraak — Week van de Democratie / Week van de Rechtsstaat."
     },
     {
-      "id": "studium-generale-2026-09-08",
-      "title": "Studium Generale — De Impact van 9/11",
-      "date": "2026-09-08",
-      "time": "16:00",
-      "venue": "Black Box, Esplanadegebouw TiU",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "free",
-      "note": "Lecture by sociologist Thijs van Doormalen."
-    },
-    {
       "id": "dag-mama-2026-09-09",
       "title": "Dag Mama — Dementie in Theater",
       "date": "2026-09-09",
@@ -76,23 +40,22 @@
       "note": "Theater about dementia."
     },
     {
-      "id": "circolo-nb-2026-09-10",
-      "title": "Festival Circolo — neighbourhood edition",
-      "date": "2026-09-10",
-      "endDate": "2026-09-13",
-      "time": "12:00",
-      "venue": "Ypelaer Park",
-      "city": "Tilburg-Noord",
-      "category": "theater",
-      "status": "free",
-      "note": "Circus grounds for and by the neighbourhood."
+      "id": "open-air-cinema-2026-09-09",
+      "title": "Open Air Cinema — Spirited Away",
+      "date": "2026-09-09",
+      "time": "20:00",
+      "venue": "Tilburg University",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "on-sale",
+      "note": "Cinema under the Stars."
     },
     {
       "id": "democratie-2026-09-10",
       "title": "Democratie, tot het pijn doet",
       "date": "2026-09-10",
       "time": "19:30",
-      "venue": "De Nieuwe Vorst",
+      "venue": "De Nieuwe Vorst / LocHal",
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
@@ -203,6 +166,18 @@
       "note": "Throwback party to the old Spoel days."
     },
     {
+      "id": "open-monumentendag-2026-09-12",
+      "title": "Open Monumentendag",
+      "date": "2026-09-12",
+      "endDate": "2026-09-13",
+      "time": "10:00",
+      "venue": "Multiple locations",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "free",
+      "note": "42 monuments + Spoorzone Ontspoort open. Theme: Veerkrachtig erfgoed."
+    },
+    {
       "id": "pauluskerk-2026-09-13",
       "title": "Rob Nederlof — orgelconcert",
       "date": "2026-09-13",
@@ -224,7 +199,7 @@
       "city": "Tilburg",
       "category": "festival",
       "status": "free",
-      "note": "Neighbourhood festival in Spoorzone locations."
+      "note": "Neighbourhood festival in Spoorzone locations, linked to Open Monumentendag."
     },
     {
       "id": "knoflookfeest-2026-09-13",
@@ -247,19 +222,19 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Largest circus festival in the Netherlands. Grounds free; kids 50% off show tickets.",
+      "note": "Largest circus festival in the Netherlands.",
       "url": "https://festivalcircolo.nl/"
     },
     {
       "id": "osamason-2026-09-16",
       "title": "OsamaSon — PSYKTURNAL TOUR",
       "date": "2026-09-16",
-      "time": "20:00",
+      "time": "20:30",
       "venue": "013 Poppodium",
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "NL exclusive."
+      "note": "NL exclusive rage rap."
     },
     {
       "id": "music-film-festival-2026-09-18",
@@ -271,7 +246,7 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "Film & concert evenings incl. Teus Nobel, Little North, Radiohop."
+      "note": "Film & concert evenings incl. Teus Nobel, Little North."
     },
     {
       "id": "housewarming-2026-09-19",
