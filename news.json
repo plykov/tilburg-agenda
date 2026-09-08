@@ -1,0 +1,13 @@
+{
+  "schema": "tilburg.news.v1",
+  "deliveryId": "c4e91a2b-7d30-4f11-9a8e-0b6c2d5e8f10",
+  "generatedAt": "2026-09-08T18:50:00+02:00",
+  "timezone": "Europe/Amsterdam",
+  "source": "Grok seed brief 18:50 Amsterdam",
+  "headline": {
+    "nl": "Pauwelsdag en boscafes van de gemeente; Omroep over blessure Willem II en ongeval Letschertweg"
+  },
+  "headlineLangNote": "source-nl",
+  "itemCount": 0,
+  "items": []
+}
