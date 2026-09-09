@@ -1,10 +1,23 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "66219ef6-de27-4356-b21e-c11ecdfbbed7",
-  "generatedAt": "2026-09-08T08:15:00+02:00",
+  "deliveryId": "ccfd9f30-211c-4d97-bcfd-8779d0498a92",
+  "generatedAt": "2026-09-09T08:11:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Quiet Tuesday after Earl Sweatshirt; Democracy Week, Vertical Blue & Open Monumentendag ahead",
+  "headline": "Raven NWOBHM at Little Devil tonight; Vertical Blue, Circolo and Open Monumentendag next",
   "events": [
+    {
+      "id": "raven-2026-09-09",
+      "title": "Raven (UK)",
+      "date": "2026-09-09",
+      "time": "20:00",
+      "venue": "Little Devil",
+      "city": "Tilburg",
+      "category": "music",
+      "status": "on-sale",
+      "price": "€17.50 vvk / €20 door",
+      "note": "British heavy metal / NWOBHM legends on Can't Take Away the Fire tour.",
+      "url": "https://www.littledevil.nl/"
+    },
     {
       "id": "dag-mama-2026-09-09",
       "title": "Dag Mama — Dementie in Theater",
@@ -18,17 +31,6 @@
       "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
-      "id": "open-air-cinema-2026-09-09",
-      "title": "Open Air Cinema — Spirited Away",
-      "date": "2026-09-09",
-      "time": "20:00",
-      "venue": "Tilburg University",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "on-sale",
-      "note": "Cinema under the Stars."
-    },
-    {
       "id": "democratie-2026-09-10",
       "title": "Democratie, tot het pijn doet",
       "date": "2026-09-10",
@@ -37,7 +39,8 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Week van de Democratie lezing/debat."
+      "note": "Week van de Democratie lezing/debat.",
+      "url": "https://denieuwevorst.nl/programma"
     },
     {
       "id": "vertical-blue-tryout-2026-09-10",
@@ -48,7 +51,8 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Immersieve dans/performance. Première 11 sep."
+      "note": "Immersieve dans/performance. Première 11 sep.",
+      "url": "https://denieuwevorst.nl/programma"
     },
     {
       "id": "pjo-2026-09-10",
@@ -60,28 +64,8 @@
       "category": "music",
       "status": "on-sale",
       "price": "€60",
-      "note": "Paradox Jazz Orchestra met publiek."
-    },
-    {
-      "id": "art-experience-2026-09-11",
-      "title": "The Art Experience",
-      "date": "2026-09-11",
-      "endDate": "2026-09-13",
-      "venue": "Koepelhal",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "on-sale",
-      "note": "Multi-day art event."
-    },
-    {
-      "id": "preau-2026-09-11",
-      "title": "Preau Millage",
-      "date": "2026-09-11",
-      "venue": "Muzentuin",
-      "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "note": "Live music in the garden."
+      "note": "Paradox Jazz Orchestra met publiek.",
+      "url": "https://paradoxtilburg.nl/"
     },
     {
       "id": "vertical-blue-2026-09-11",
@@ -92,7 +76,8 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Danspremière Body of Art."
+      "note": "Danspremière Body of Art.",
+      "url": "https://denieuwevorst.nl/programma"
     },
     {
       "id": "pjo-recording-2026-09-11",
@@ -104,7 +89,30 @@
       "category": "music",
       "status": "on-sale",
       "price": "€20",
-      "note": "Publieke opname Paradox Jazz Orchestra."
+      "note": "Publieke opname Paradox Jazz Orchestra.",
+      "url": "https://paradoxtilburg.nl/"
+    },
+    {
+      "id": "preau-2026-09-11",
+      "title": "Preau Millage",
+      "date": "2026-09-11",
+      "venue": "Muzentuin",
+      "city": "Tilburg",
+      "category": "music",
+      "status": "on-sale",
+      "note": "Live music in the garden.",
+      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
+    },
+    {
+      "id": "art-experience-2026-09-11",
+      "title": "The Art Experience",
+      "date": "2026-09-11",
+      "endDate": "2026-09-13",
+      "venue": "Koepelhal",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "on-sale",
+      "note": "Multi-day art event."
     },
     {
       "id": "berkel-enschot-bruist-2026-09-12",
@@ -127,7 +135,8 @@
       "category": "music",
       "status": "on-sale",
       "price": "€20",
-      "note": "Modern creative jazz."
+      "note": "Modern creative jazz.",
+      "url": "https://paradoxtilburg.nl/"
     },
     {
       "id": "spoel-2026-09-12",
@@ -138,7 +147,8 @@
       "city": "Tilburg",
       "category": "nightlife",
       "status": "on-sale",
-      "note": "Throwback party."
+      "note": "Throwback party.",
+      "url": "https://www.013.nl/"
     },
     {
       "id": "open-monumentendag-2026-09-12",
@@ -149,7 +159,7 @@
       "city": "Tilburg",
       "category": "family",
       "status": "free",
-      "note": "Open monuments + Spoorzone Ontspoort."
+      "note": "Open monuments + Spoorzone Ontspoort. Theme: Veerkrachtig erfgoed."
     },
     {
       "id": "pauluskerk-2026-09-13",
@@ -161,7 +171,7 @@
       "category": "church",
       "status": "free",
       "price": "Free / vrijwillige bijdrage",
-      "note": "Stadtsorganist zondagmiddagconcert.",
+      "note": "Stadsorganist zondagmiddagconcert.",
       "url": "https://www.brabantorgel.nl/concertagenda/"
     },
     {
@@ -205,7 +215,8 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "NL exclusive."
+      "note": "NL exclusive.",
+      "url": "https://www.013.nl/"
     },
     {
       "id": "music-film-festival-2026-09-18",
@@ -228,7 +239,8 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "free",
-      "note": "Gratis heropening na verbouwing."
+      "note": "Gratis heropening na verbouwing.",
+      "url": "https://denieuwevorst.nl/programma"
     },
     {
       "id": "megan-2026-09-19",
@@ -239,7 +251,8 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "Country, NL exclusive."
+      "note": "Country, NL exclusive.",
+      "url": "https://www.013.nl/"
     },
     {
       "id": "queen-musical-2026-09-30",
