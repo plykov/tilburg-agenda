@@ -1,35 +1,10 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "ccfd9f30-211c-4d97-bcfd-8779d0498a92",
-  "generatedAt": "2026-09-09T08:11:00+02:00",
+  "deliveryId": "1e2d1096-0358-441b-b451-e0965a4ac1dc",
+  "generatedAt": "2026-09-10T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Raven NWOBHM at Little Devil tonight; Vertical Blue, Circolo and Open Monumentendag next",
+  "headline": "Vertical Blue try-out + democracy debate tonight; Circolo neighborhood edition starts; Open Monumentendag weekend ahead",
   "events": [
-    {
-      "id": "raven-2026-09-09",
-      "title": "Raven (UK)",
-      "date": "2026-09-09",
-      "time": "20:00",
-      "venue": "Little Devil",
-      "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "price": "€17.50 vvk / €20 door",
-      "note": "British heavy metal / NWOBHM legends on Can't Take Away the Fire tour.",
-      "url": "https://www.littledevil.nl/"
-    },
-    {
-      "id": "dag-mama-2026-09-09",
-      "title": "Dag Mama — Dementie in Theater",
-      "date": "2026-09-09",
-      "time": "19:30",
-      "venue": "Schouwburg & Concertzaal Tilburg",
-      "city": "Tilburg",
-      "category": "theater",
-      "status": "on-sale",
-      "note": "Theater over dementie.",
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
-    },
     {
       "id": "democratie-2026-09-10",
       "title": "Democratie, tot het pijn doet",
@@ -64,8 +39,32 @@
       "category": "music",
       "status": "on-sale",
       "price": "€60",
-      "note": "Paradox Jazz Orchestra met publiek.",
+      "note": "Paradox Jazz Orchestra repetitie met publiek + diner.",
       "url": "https://paradoxtilburg.nl/"
+    },
+    {
+      "id": "pubquiz-benee-2026-09-10",
+      "title": "PubQuiz bij Benee",
+      "date": "2026-09-10",
+      "time": "20:00",
+      "venue": "Schouwburg & Concertzaal Tilburg",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "on-sale",
+      "note": "Pubquiz in stadscafé Benee.",
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
+    {
+      "id": "democrazy-ict-2026-09-10",
+      "title": "Democrazy: Democracy Across Borders",
+      "date": "2026-09-10",
+      "time": "20:00",
+      "venue": "International Center Tilburg",
+      "city": "Tilburg",
+      "category": "theater",
+      "status": "free",
+      "note": "Week of Democracy conversation for internationals & locals.",
+      "url": "https://www.ictilburg.com/our-events"
     },
     {
       "id": "vertical-blue-2026-09-11",
