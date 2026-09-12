@@ -1,9 +1,9 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "e667502b-f666-48c1-ad2e-5fed7df369b1",
-  "generatedAt": "2026-09-12T15:40:00+02:00",
+  "deliveryId": "005209ec-74ad-4dc1-a21e-6517efad4a27",
+  "generatedAt": "2026-09-12T16:05:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Chopin at Het Cenakel tomorrow — sold out",
+  "headline": "Open Monumentendag today · Chopin at Het Cenakel tomorrow — sold out",
   "events": [
     {
       "id": "draaimolen-2026-09-04",
@@ -290,6 +290,17 @@
       "note": "Dance première, Body of Art."
     },
     {
+      "id": "illustrada-2026-09-12",
+      "title": "Festival Illustrada",
+      "date": "2026-09-12",
+      "time": "12:30",
+      "venue": "Burgemeester Brokxlaan / Spoorpark area",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "free",
+      "note": "Collaborative large-scale drawing / art event."
+    },
+    {
       "id": "little-devil-2026-09-12",
       "title": "Uitzendbureau + De Stoeptegels + Bloedkoker",
       "date": "2026-09-12",
@@ -301,6 +312,17 @@
       "note": "Indie / punk club night."
     },
     {
+      "id": "vroegzat-2026-09-12",
+      "title": "VroegZat",
+      "date": "2026-09-12",
+      "time": "19:30",
+      "venue": "Schouwburg & Concertzaal Tilburg",
+      "city": "Tilburg",
+      "category": "nightlife",
+      "status": "on-sale",
+      "note": "Early party night."
+    },
+    {
       "id": "aleph-2026-09-12",
       "title": "Aleph Quintet",
       "date": "2026-09-12",
@@ -310,7 +332,8 @@
       "category": "music",
       "status": "on-sale",
       "price": "€20",
-      "note": "Modern creative jazz (BE/FR)."
+      "note": "Modern creative jazz (BE/FR).",
+      "url": "https://paradoxtilburg.nl/"
     },
     {
       "id": "spoel-2026-09-12",
@@ -321,7 +344,10 @@
       "city": "Tilburg",
       "category": "nightlife",
       "status": "on-sale",
-      "note": "Throwback party to the old Spoel days."
+      "note": "Throwback party to the old Spoel days.",
+      "url": "https://www.013.nl/programma/132560/de-spoel-next",
+      "end": "03:00",
+      "price": "€17,50"
     },
     {
       "id": "terror-2026-09-12",
@@ -333,6 +359,29 @@
       "category": "nightlife",
       "status": "on-sale",
       "note": "Hardcore / gabber lineup."
+    },
+    {
+      "id": "berkel-enschot-bruist-2026-09-12",
+      "title": "Berkel-Enschot Bruist",
+      "date": "2026-09-12",
+      "endDate": "2026-09-13",
+      "venue": "Koningsoord",
+      "city": "Berkel-Enschot",
+      "category": "festival",
+      "status": "free",
+      "note": "Dorpsfestival: local talent, art, workshops, food."
+    },
+    {
+      "id": "open-monumentendag-2026-09-12",
+      "title": "Open Monumentendag",
+      "date": "2026-09-12",
+      "endDate": "2026-09-13",
+      "venue": "Multiple locations (42 monuments)",
+      "city": "Tilburg",
+      "category": "family",
+      "status": "free",
+      "note": "Theme Veerkrachtig erfgoed; organ concerts, tours, Spoorzone link.",
+      "url": "https://www.tilburg.nl/openmonumentendag/"
     },
     {
       "id": "chopin-cenakel-2026-09-13",
@@ -358,7 +407,8 @@
       "category": "church",
       "status": "free",
       "price": "Free / donation",
-      "note": "City organist, Sunday afternoon."
+      "note": "City organist, Sunday afternoon.",
+      "url": "https://www.brabantorgel.nl/concertagenda/"
     },
     {
       "id": "drekka-2026-09-13",
@@ -380,7 +430,17 @@
       "category": "festival",
       "status": "free",
       "price": "Free street festival",
-      "note": "Folk collective at Theresia’s garlic festival (Stinkend Gezellig)."
+      "note": "Legiana Collective at Theresia’s garlic festival (Stinkend Gezellig)."
+    },
+    {
+      "id": "spoorzone-ontspoort-2026-09-13",
+      "title": "Spoorzone Ontspoort",
+      "date": "2026-09-13",
+      "venue": "Spoorzone / D'n Ateljee",
+      "city": "Tilburg",
+      "category": "festival",
+      "status": "free",
+      "note": "Neighbourhood festival linked to Open Monumentendag."
     },
     {
       "id": "circolo-2026-09-16",
@@ -404,7 +464,8 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "NL exclusive."
+      "note": "NL exclusive.",
+      "url": "https://www.013.nl/"
     },
     {
       "id": "bang-2026-09-16",
@@ -450,6 +511,17 @@
       "note": "Berlin bathroom-club takeover."
     },
     {
+      "id": "music-film-festival-2026-09-18",
+      "title": "Music Film Festival",
+      "date": "2026-09-18",
+      "endDate": "2026-09-20",
+      "venue": "Pieter Vreedeplein / Paradox",
+      "city": "Tilburg",
+      "category": "music",
+      "status": "on-sale",
+      "note": "Film + live concerts (Teus Nobel, Little North, RADIOHOP)."
+    },
+    {
       "id": "housewarming-2026-09-19",
       "title": "Housewarming Weekend De Nieuwe Vorst",
       "date": "2026-09-19",
@@ -459,7 +531,8 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "free",
-      "note": "Free reopening after renovation: shows, workshops, music."
+      "note": "Free reopening after renovation: shows, workshops, music.",
+      "url": "https://denieuwevorst.nl/programma"
     },
     {
       "id": "megan-2026-09-19",
@@ -470,7 +543,8 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "Country. NL exclusive."
+      "note": "Country. NL exclusive.",
+      "url": "https://www.013.nl/"
     },
     {
       "id": "korendag-cenakel-2026-09-20",
