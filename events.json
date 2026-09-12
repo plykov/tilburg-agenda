@@ -1,69 +1,46 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "a7f3c9e2-4b8d-4e1a-9f6c-2d5e8b0a1c4f",
-  "generatedAt": "2026-09-11T08:00:00+02:00",
+  "deliveryId": "64b37dad-93b4-4da6-955a-dd64a65aeafd",
+  "generatedAt": "2026-09-12T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Preau Millage craft-beer garden + Vertical Blue dance premi\u00e8re + Paradox Jazz Orchestra recording tonight; Circolo circus festival next week.",
+  "headline": "Open Monumentendag + Berkel-Enschot Bruist + De Spoel NEXT reunion at 013 + Aleph Quintet jazz; Circolo circus starts Wednesday.",
   "events": [
     {
-      "id": "preau-2026-09-11",
-      "title": "Preau Millage",
-      "date": "2026-09-11",
-      "venue": "Muzentuin",
+      "id": "open-monumentendag-2026-09-12",
+      "title": "Open Monumentendag",
+      "date": "2026-09-12",
+      "endDate": "2026-09-13",
+      "venue": "Multiple locations (42 monuments)",
       "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "price": "~\u20ac26",
-      "note": "Craft-beer festival with DJs and food trucks.",
-      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
+      "category": "family",
+      "status": "free",
+      "note": "Theme Veerkrachtig erfgoed; organ concerts, tours, Spoorzone link.",
+      "url": "https://www.tilburg.nl/openmonumentendag/"
     },
     {
-      "id": "vertical-blue-2026-09-11",
-      "title": "Vertical Blue (premi\u00e8re) \u2014 Annemijn Rijk / Body of Art",
-      "date": "2026-09-11",
-      "time": "20:30",
-      "venue": "De Nieuwe Vorst",
-      "city": "Tilburg",
-      "category": "theater",
-      "status": "on-sale",
-      "note": "Immersive dance/performance premi\u00e8re.",
-      "url": "https://denieuwevorst.nl/programma"
+      "id": "berkel-enschot-bruist-2026-09-12",
+      "title": "Berkel-Enschot Bruist",
+      "date": "2026-09-12",
+      "endDate": "2026-09-13",
+      "venue": "Koningsoord",
+      "city": "Berkel-Enschot",
+      "category": "festival",
+      "status": "free",
+      "note": "Dorpsfestival: local talent, art, workshops, food."
     },
     {
-      "id": "pjo-recording-2026-09-11",
-      "title": "PJO \u2013 New Trees On Old Ground (opnamesessie)",
-      "date": "2026-09-11",
-      "time": "20:00",
-      "venue": "Paradox",
-      "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "price": "\u20ac20",
-      "note": "Public recording session Paradox Jazz Orchestra.",
-      "url": "https://paradoxtilburg.nl/"
-    },
-    {
-      "id": "sex-mask-2026-09-11",
-      "title": "Sex Mask",
-      "date": "2026-09-11",
-      "time": "20:00",
-      "venue": "Hall of Fame",
+      "id": "spoel-2026-09-12",
+      "title": "De Spoel NEXT",
+      "date": "2026-09-12",
+      "time": "21:00",
+      "end": "03:00",
+      "venue": "013 Poppodium",
       "city": "Tilburg",
       "category": "nightlife",
       "status": "on-sale",
-      "note": "Club night.",
-      "url": "https://www.halloffame.nl/"
-    },
-    {
-      "id": "art-experience-2026-09-11",
-      "title": "The Art Experience",
-      "date": "2026-09-11",
-      "endDate": "2026-09-13",
-      "venue": "Koepelhal",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "on-sale",
-      "note": "Multi-day art event."
+      "price": "\u20ac17,50",
+      "note": "Annual throwback to legendary Tilburg club De Spoel.",
+      "url": "https://www.013.nl/programma/132560/de-spoel-next"
     },
     {
       "id": "aleph-2026-09-12",
@@ -79,37 +56,37 @@
       "url": "https://paradoxtilburg.nl/"
     },
     {
-      "id": "spoel-2026-09-12",
-      "title": "De Spoel NEXT",
+      "id": "speedcore-2026-09-12",
+      "title": "Speedcore Italia / Terror Syndrome",
       "date": "2026-09-12",
-      "venue": "013 Poppodium",
+      "time": "20:00",
+      "venue": "Hall of Fame",
       "city": "Tilburg",
       "category": "nightlife",
       "status": "on-sale",
-      "note": "Throwback party.",
-      "url": "https://www.013.nl/"
+      "note": "Hardcore / speedcore club night."
     },
     {
-      "id": "berkel-enschot-bruist-2026-09-12",
-      "title": "Berkel-Enschot Bruist",
+      "id": "illustrada-2026-09-12",
+      "title": "Festival Illustrada",
       "date": "2026-09-12",
-      "endDate": "2026-09-13",
-      "venue": "Koningsoord",
-      "city": "Berkel-Enschot",
-      "category": "festival",
-      "status": "free",
-      "note": "Dorpsfestival with local talent."
-    },
-    {
-      "id": "open-monumentendag-2026-09-12",
-      "title": "Open Monumentendag",
-      "date": "2026-09-12",
-      "endDate": "2026-09-13",
-      "venue": "Multiple locations",
+      "time": "12:30",
+      "venue": "Burgemeester Brokxlaan / Spoorpark area",
       "city": "Tilburg",
       "category": "family",
       "status": "free",
-      "note": "Open monuments + organ concerts; theme Veerkrachtig erfgoed."
+      "note": "Collaborative large-scale drawing / art event."
+    },
+    {
+      "id": "vroegzat-2026-09-12",
+      "title": "VroegZat",
+      "date": "2026-09-12",
+      "time": "19:30",
+      "venue": "Schouwburg & Concertzaal Tilburg",
+      "city": "Tilburg",
+      "category": "nightlife",
+      "status": "on-sale",
+      "note": "Early party night."
     },
     {
       "id": "pauluskerk-2026-09-13",
@@ -128,7 +105,7 @@
       "id": "spoorzone-ontspoort-2026-09-13",
       "title": "Spoorzone Ontspoort",
       "date": "2026-09-13",
-      "venue": "Spoorzone",
+      "venue": "Spoorzone / D'n Ateljee",
       "city": "Tilburg",
       "category": "festival",
       "status": "free",
@@ -142,7 +119,7 @@
       "city": "Tilburg",
       "category": "family",
       "status": "free",
-      "note": "Garlic festival in the neighbourhood."
+      "note": "Garlic festival."
     },
     {
       "id": "circolo-2026-09-16",
@@ -153,7 +130,7 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Major Dutch circus/theater festival.",
+      "note": "Largest Dutch contemporary circus festival.",
       "url": "https://festivalcircolo.nl/"
     },
     {
@@ -164,7 +141,7 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "NL exclusive.",
+      "note": "NL exclusive rap show.",
       "url": "https://www.013.nl/"
     },
     {
@@ -176,7 +153,7 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "Film & concert evenings."
+      "note": "Film + live concerts (Teus Nobel, Little North, RADIOHOP)."
     },
     {
       "id": "housewarming-2026-09-19",
@@ -188,7 +165,7 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "free",
-      "note": "Free reopening after renovation.",
+      "note": "Free reopening celebration after renovation.",
       "url": "https://denieuwevorst.nl/programma"
     },
     {
