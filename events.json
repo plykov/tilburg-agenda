@@ -1,96 +1,10 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "cfe4fb5d-912c-46f2-9928-0c5a426f2d82",
-  "generatedAt": "2026-09-13T08:00:00+02:00",
+  "deliveryId": "06f0720f-eae7-4f01-b8bf-de8430e4572f",
+  "generatedAt": "2026-09-14T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Open Monumentendag + Spoorzone Ontspoort + Knoflookfeest · Chopin at Cenakel sold out",
+  "headline": "Quiet Monday after Open Monumentendag · Circolo circus festival opens Wednesday",
   "events": [
-    {
-      "id": "open-monumentendag-2026-09-13",
-      "title": "Open Monumentendag",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
-      "time": "11:00",
-      "venue": "Multiple locations (42 monuments)",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "free",
-      "price": "Free",
-      "note": "Theme Veerkrachtig erfgoed; churches, industrial sites, Spoorzone link.",
-      "url": "https://www.tilburg.nl/openmonumentendag/"
-    },
-    {
-      "id": "spoorzone-ontspoort-2026-09-13",
-      "title": "Spoorzone Ontspoort",
-      "date": "2026-09-13",
-      "time": "12:00",
-      "end": "17:00",
-      "venue": "Spoorzone / LocHal / Hall of Fame / Koepelhal",
-      "city": "Tilburg",
-      "category": "festival",
-      "status": "free",
-      "price": "Free",
-      "note": "Workshops, live music, Railrun, art at The Art Experience; linked to Open Monumentendag.",
-      "url": "https://tilburg.com/agenda/spoorzone-ontspoort/"
-    },
-    {
-      "id": "berkel-enschot-bruist-2026-09-13",
-      "title": "Berkel-Enschot Bruist — last day",
-      "date": "2026-09-13",
-      "venue": "Koningsoord",
-      "city": "Berkel-Enschot",
-      "category": "festival",
-      "status": "free",
-      "price": "Free",
-      "note": "Village festival: local talent, art market, workshops, food."
-    },
-    {
-      "id": "knoflookfeest-2026-09-13",
-      "title": "Theresia Stinkend Gezellige Knoflookfeest + Legiana Collective",
-      "date": "2026-09-13",
-      "time": "14:00",
-      "venue": "Theresiaplein",
-      "city": "Tilburg",
-      "category": "festival",
-      "status": "free",
-      "price": "Free",
-      "note": "Garlic street festival with folk act Legiana Collective."
-    },
-    {
-      "id": "situation-room-2026-09-13",
-      "title": "Situation Room x Under Construction",
-      "date": "2026-09-13",
-      "time": "14:00",
-      "venue": "De Nieuwe Vorst",
-      "city": "Tilburg",
-      "category": "music",
-      "status": "on-sale",
-      "note": "Experimental/improv/noise afternoon."
-    },
-    {
-      "id": "chopin-cenakel-2026-09-13",
-      "title": "Best of Chopin — Alexandre Lutz García",
-      "date": "2026-09-13",
-      "time": "15:30",
-      "end": "16:45",
-      "venue": "Concertzaal Het Cenakel",
-      "city": "Tilburg",
-      "category": "church",
-      "status": "sold-out",
-      "price": "Sold out",
-      "note": "Nocturnes, Ballade no.1, Scherzo no.2 on Steinway; both tiers sold out on HipSy.",
-      "url": "https://hipsy.nl/event/204483-best-of-chopin-tilburg"
-    },
-    {
-      "id": "art-experience-2026-09-13",
-      "title": "The Art Experience — last day",
-      "date": "2026-09-13",
-      "venue": "Koepelhal",
-      "city": "Tilburg",
-      "category": "family",
-      "status": "on-sale",
-      "note": "Multi-day art event closing today."
-    },
     {
       "id": "circolo-2026-09-16",
       "title": "Festival Circolo",
@@ -123,7 +37,32 @@
       "venue": "De Nieuwe Vorst",
       "city": "Tilburg",
       "category": "theater",
-      "status": "on-sale"
+      "status": "on-sale",
+      "url": "https://denieuwevorst.nl/programma"
+    },
+    {
+      "id": "ruud-voesten-2026-09-16",
+      "title": "Ruud Voesten's Ambrosia",
+      "date": "2026-09-16",
+      "time": "20:30",
+      "venue": "Paradox",
+      "city": "Tilburg",
+      "category": "music",
+      "status": "on-sale",
+      "price": "€18",
+      "note": "Modern creative jazz.",
+      "url": "https://www.paradoxtilburg.nl/"
+    },
+    {
+      "id": "quizm-2026-09-17",
+      "title": "Quiz'm",
+      "date": "2026-09-17",
+      "time": "20:00",
+      "venue": "013 Poppodium",
+      "city": "Tilburg",
+      "category": "music",
+      "status": "sold-out",
+      "note": "Music quiz; sold out."
     },
     {
       "id": "hor-2026-09-18",
@@ -171,6 +110,29 @@
       "status": "on-sale",
       "note": "Country; NL exclusive.",
       "url": "https://www.013.nl/"
+    },
+    {
+      "id": "wibi-2026-09-19",
+      "title": "Wibi Soerjadi Jubileumconcert",
+      "date": "2026-09-19",
+      "time": "20:00",
+      "venue": "Schouwburg & Concertzaal Tilburg",
+      "city": "Tilburg",
+      "category": "church",
+      "status": "on-sale",
+      "note": "Piano jubilee.",
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
+    {
+      "id": "korendag-2026-09-20",
+      "title": "Korendag — Maand van de Koren",
+      "date": "2026-09-20",
+      "venue": "Het Cenakel",
+      "city": "Tilburg",
+      "category": "church",
+      "status": "on-sale",
+      "note": "Choir day in chapel series.",
+      "url": "https://www.cenakel.nl/"
     },
     {
       "id": "racoon-2026-09-20",
