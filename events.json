@@ -1,10 +1,22 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "06f0720f-eae7-4f01-b8bf-de8430e4572f",
-  "generatedAt": "2026-09-14T08:00:00+02:00",
+  "deliveryId": "a3f8c2e1-9b4d-4e7a-8f1c-2d5e6b9a0c3f",
+  "generatedAt": "2026-09-15T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
-  "headline": "Quiet Monday after Open Monumentendag · Circolo circus festival opens Wednesday",
+  "headline": "Circolo circus opens tomorrow · Les Limbes tonight at Schouwburg",
   "events": [
+    {
+      "id": "les-limbes-2026-09-15",
+      "title": "Circolo | Etienne Saglio — Les Limbes",
+      "date": "2026-09-15",
+      "time": "20:15",
+      "venue": "Schouwburg & Concertzaal Tilburg",
+      "city": "Tilburg",
+      "category": "theater",
+      "status": "on-sale",
+      "note": "Illusion + theater; Circolo prelude.",
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
     {
       "id": "circolo-2026-09-16",
       "title": "Festival Circolo",
@@ -14,7 +26,7 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
-      "note": "Largest circus festival NL; grounds free, kids 50% off shows.",
+      "note": "Largest circus festival NL; grounds free, shows ticketed.",
       "url": "https://festivalcircolo.nl/"
     },
     {
@@ -26,7 +38,7 @@
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "NL exclusive rap.",
+      "note": "NL exclusive rage rap.",
       "url": "https://www.013.nl/"
     },
     {
@@ -38,6 +50,7 @@
       "city": "Tilburg",
       "category": "theater",
       "status": "on-sale",
+      "note": "Monologue on fear and becoming.",
       "url": "https://denieuwevorst.nl/programma"
     },
     {
@@ -54,6 +67,18 @@
       "url": "https://www.paradoxtilburg.nl/"
     },
     {
+      "id": "shut-up-write-2026-09-16",
+      "title": "Shut Up & Write",
+      "date": "2026-09-16",
+      "time": "19:30",
+      "venue": "De Nieuwe Vorst",
+      "city": "Tilburg",
+      "category": "theater",
+      "status": "on-sale",
+      "note": "Focused writing session.",
+      "url": "https://denieuwevorst.nl/programma"
+    },
+    {
       "id": "quizm-2026-09-17",
       "title": "Quiz'm",
       "date": "2026-09-17",
@@ -68,23 +93,22 @@
       "id": "hor-2026-09-18",
       "title": "HÖR",
       "date": "2026-09-18",
-      "time": "22:00",
       "venue": "013 Poppodium",
       "city": "Tilburg",
       "category": "nightlife",
       "status": "on-sale",
-      "note": "Berlin bathroom-club takeover."
+      "note": "Berlin club takeover."
     },
     {
       "id": "music-film-festival-2026-09-18",
       "title": "Music Film Festival",
       "date": "2026-09-18",
       "endDate": "2026-09-20",
-      "venue": "Pieter Vreedeplein / Paradox",
+      "venue": "Pieter Vreedeplein / Paradox / Schouwburg",
       "city": "Tilburg",
       "category": "music",
       "status": "on-sale",
-      "note": "Film + live (Teus Nobel, Little North, RADIOHOP)."
+      "note": "Films + live (Teus Nobel, Little North, RADIOHOP)."
     },
     {
       "id": "housewarming-2026-09-19",
@@ -131,7 +155,7 @@
       "city": "Tilburg",
       "category": "church",
       "status": "on-sale",
-      "note": "Choir day in chapel series.",
+      "note": "Choir day in chapel.",
       "url": "https://www.cenakel.nl/"
     },
     {
