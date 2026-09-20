@@ -1,25 +1,25 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "cf8b1cdd-89bc-45dc-ae43-aa397ab4a8cd",
-  "generatedAt": "2026-09-19T08:15:00+02:00",
+  "deliveryId": "e8a996ce-e75c-4695-a229-e046fc5ddfa8",
+  "generatedAt": "2026-09-20T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Festival Circolo final days at Spoorpark; Wibi Soerjadi jubilee and free De Nieuwe Vorst housewarming",
-    "ru": "Последние дни Festival Circolo в Spoorpark; юбилей Виби Сурьяди и бесплатное новоселье De Nieuwe Vorst"
+    "en": "Festival Circolo closes, Racoon sold out at 013, free Choir Day at Cenakel and De Nieuwe Vorst housewarming",
+    "ru": "Фестиваль Circolo завершается, Racoon распродан в 013, бесплатный День хоров в Сенакеле и домwarming De Nieuwe Vorst"
   },
   "events": [
     {
-      "id": "circolo-2026-09-16",
+      "id": "festival-circolo-2026-09-20",
       "title": {
-        "en": "Festival Circolo",
-        "ru": "Фестиваль Circolo"
+        "en": "Festival Circolo (final day)",
+        "ru": "Фестиваль Circolo (последний день)"
       },
-      "date": "2026-09-16",
+      "date": "2026-09-20",
       "endDate": "2026-09-20",
       "time": "10:00",
       "venue": {
         "en": "Spoorpark",
-        "ru": "Spoorpark"
+        "ru": "Спурпарк"
       },
       "city": {
         "en": "Tilburg",
@@ -27,201 +27,69 @@
       },
       "category": "festival",
       "status": "on-sale",
-      "price": {
-        "en": "tickets via festivalcircolo.nl",
-        "ru": "билеты на festivalcircolo.nl"
-      },
       "note": {
-        "en": "Contemporary circus village, outdoor and free activities through Sunday",
-        "ru": "Деревня современного цирка, уличные и бесплатные активности до воскресенья"
+        "en": "Contemporary circus festival final day; outdoor and tent shows",
+        "ru": "Последний день фестиваля современного цирка; уличные и шатровые шоу"
       },
       "url": "https://festivalcircolo.nl"
     },
     {
-      "id": "music-film-festival-2026-09-18",
+      "id": "korendag-cenakel-2026-09-20",
       "title": {
-        "en": "Music Film Festival",
-        "ru": "Музыкальный кинофестиваль"
+        "en": "Choir Day — Month of Choirs",
+        "ru": "День хоров — Месяц хоров"
       },
-      "date": "2026-09-18",
-      "endDate": "2026-09-20",
+      "date": "2026-09-20",
+      "time": "13:00",
+      "end": "17:00",
       "venue": {
-        "en": "Pieter Vreedeplein / Paradox",
-        "ru": "Площадь Питера Фреде / Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "festival",
-      "status": "on-sale",
-      "note": {
-        "en": "Music films with live concerts",
-        "ru": "Музыкальные фильмы с живыми концертами"
-      },
-      "url": "https://paradoxtilburg.nl/"
-    },
-    {
-      "id": "housewarming-nieuwe-vorst-2026-09-19",
-      "title": {
-        "en": "Housewarming Weekend De Nieuwe Vorst",
-        "ru": "Новоселье De Nieuwe Vorst"
-      },
-      "date": "2026-09-19",
-      "endDate": "2026-09-20",
-      "time": "14:30",
-      "venue": {
-        "en": "De Nieuwe Vorst",
-        "ru": "De Nieuwe Vorst"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Reopening after renovation; free performances, workshops, music",
-        "ru": "Открытие после ремонта; бесплатные спектакли, мастер-классы, музыка"
-      },
-      "url": "https://denieuwevorst.nl/programma"
-    },
-    {
-      "id": "megan-moroney-2026-09-19",
-      "title": {
-        "en": "Megan Moroney — The Cloud 9 Tour",
-        "ru": "Megan Moroney — тур The Cloud 9"
-      },
-      "date": "2026-09-19",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Country glitter, Netherlands exclusive",
-        "ru": "Кантри, единственный концерт в Нидерландах"
-      },
-      "url": "https://www.013.nl/"
-    },
-    {
-      "id": "little-north-2026-09-19",
-      "title": {
-        "en": "Music Film Festival: Legacy // Little North",
-        "ru": "Музыкальный кинофестиваль: Legacy // Little North"
-      },
-      "date": "2026-09-19",
-      "time": "19:00",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€23",
-        "ru": "€23"
-      },
-      "note": {
-        "en": "Film and contemporary jazz concert",
-        "ru": "Фильм и концерт современного джаза"
-      },
-      "url": "https://paradoxtilburg.nl/"
-    },
-    {
-      "id": "wibi-soerjadi-2026-09-19",
-      "title": {
-        "en": "Wibi Soerjadi Jubilee Concert",
-        "ru": "Юбилейный концерт Виби Сурьяди"
-      },
-      "date": "2026-09-19",
-      "time": "20:00",
-      "end": "21:50",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
+        "en": "Het Cenakel",
+        "ru": "Хет Сенакел"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
       "category": "church",
-      "status": "on-sale",
+      "status": "free",
       "price": {
-        "en": "€24.50",
-        "ru": "€24.50"
+        "en": "Free",
+        "ru": "Бесплатно"
       },
       "note": {
-        "en": "45-year piano career celebration with film music",
-        "ru": "Празднование 45-летней карьеры пианиста с киномузыкой"
+        "en": "Tilburg choirs perform classical to pop; free entry",
+        "ru": "Хоры Тилбурга выступают от классики до попа; вход свободный"
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/wibi-soerjadi-jubileumconcert"
+      "url": "https://www.cenakel.nl/agenda/542-korendag/2026-09-20-18-29"
     },
     {
-      "id": "survivalrun-udenhout-2026-09-19",
+      "id": "tilburg-in-koor-013-2026-09-20",
       "title": {
-        "en": "Survivalrun Udenhout 2026",
-        "ru": "Survivalrun Уденхаут 2026"
+        "en": "Tilburg in Choir",
+        "ru": "Тилбург в хоре"
       },
-      "date": "2026-09-19",
-      "endDate": "2026-09-20",
-      "venue": {
-        "en": "Route Udenhout",
-        "ru": "Маршрут Уденхаут"
-      },
-      "city": {
-        "en": "Udenhout",
-        "ru": "Уденхаут"
-      },
-      "category": "family",
-      "status": "on-sale",
-      "note": {
-        "en": "Obstacle run",
-        "ru": "Забег с препятствиями"
-      },
-      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
-    },
-    {
-      "id": "plan-nine-2026-09-19",
-      "title": {
-        "en": "Plan Nine",
-        "ru": "Plan Nine"
-      },
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "venue": {
         "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "ru": "013 Попподиум"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "cancelled",
+      "status": "free",
       "note": {
-        "en": "Cancelled",
-        "ru": "Отменено"
+        "en": "Discover Tilburg’s choral scene",
+        "ru": "Откройте хоровую сцену Тилбурга"
       },
-      "url": "https://www.013.nl/"
+      "url": "https://www.013.nl"
     },
     {
-      "id": "pop-up-festival-2026-09-20",
+      "id": "pop-up-festival-013-2026-09-20",
       "title": {
-        "en": "Het Pop-Up Festival",
-        "ru": "Het Pop-Up Festival"
+        "en": "The Pop-Up Festival",
+        "ru": "Поп-ап фестиваль"
       },
       "date": "2026-09-20",
       "time": "13:00",
@@ -236,13 +104,13 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Best southern Dutch musical talent",
-        "ru": "Лучшие музыкальные таланты юга Нидерландов"
+        "en": "Best southern musical talent rooted in Brabant",
+        "ru": "Лучшие южные музыкальные таланты из Брабанта"
       },
-      "url": "https://www.013.nl/"
+      "url": "https://www.013.nl"
     },
     {
-      "id": "racoon-2026-09-20",
+      "id": "racoon-013-2026-09-20",
       "title": {
         "en": "Racoon",
         "ru": "Racoon"
@@ -250,7 +118,7 @@
       "date": "2026-09-20",
       "venue": {
         "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "ru": "013 Попподиум"
       },
       "city": {
         "en": "Tilburg",
@@ -258,23 +126,27 @@
       },
       "category": "music",
       "status": "sold-out",
-      "note": {
-        "en": "Dutch pop-rock — sold out",
-        "ru": "Нидерландский поп-рок — распродано"
+      "price": {
+        "en": "Sold out",
+        "ru": "Распродано"
       },
-      "url": "https://www.013.nl/"
+      "note": {
+        "en": "Iconic Dutch pop-rock",
+        "ru": "Культовая голландская поп-рок группа"
+      },
+      "url": "https://www.013.nl"
     },
     {
-      "id": "radiohop-2026-09-20",
+      "id": "radiohop-paradox-2026-09-20",
       "title": {
-        "en": "Music Film Festival: Miles Davis // RADIOHOP",
-        "ru": "Музыкальный кинофестиваль: Miles Davis // RADIOHOP"
+        "en": "Music Film Festival: Miles Davis // Radiohop",
+        "ru": "Кинофестиваль музыки: Майлз Дэвис // Radiohop"
       },
       "date": "2026-09-20",
       "time": "19:00",
       "venue": {
         "en": "Paradox",
-        "ru": "Paradox"
+        "ru": "Парадокс"
       },
       "city": {
         "en": "Tilburg",
@@ -287,44 +159,72 @@
         "ru": "€23"
       },
       "note": {
-        "en": "Film and jazz concert",
-        "ru": "Фильм и джазовый концерт"
+        "en": "Film & concert, electronics / funk & jazzrock",
+        "ru": "Фильм и концерт, электроника / фанк и джазрок"
       },
-      "url": "https://paradoxtilburg.nl/"
+      "url": "https://www.paradoxtilburg.nl"
     },
     {
-      "id": "tilburg-in-koor-2026-09-20",
+      "id": "housewarming-nieuwe-vorst-2026-09-20",
       "title": {
-        "en": "Tilburg in Choir",
-        "ru": "Тилбург в хоре"
+        "en": "Housewarming Weekend at De Nieuwe Vorst",
+        "ru": "Домwarming уикенд в De Nieuwe Vorst"
       },
       "date": "2026-09-20",
+      "endDate": "2026-09-20",
       "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "en": "De Nieuwe Vorst",
+        "ru": "Де Ньиве Ворст"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "church",
-      "status": "on-sale",
-      "note": {
-        "en": "Discover Tilburg's musical choirs",
-        "ru": "Откройте хоровое пение Тилбурга"
+      "category": "theater",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
       },
-      "url": "https://www.013.nl/"
+      "note": {
+        "en": "Reopening after renovation; free performances and workshops",
+        "ru": "Повторное открытие после ремонта; бесплатные спектакли и воркшопы"
+      },
+      "url": "https://www.denieuwevorst.nl"
     },
     {
-      "id": "ella-mai-2026-09-21",
+      "id": "survivalrun-udenhout-2026-09-20",
       "title": {
-        "en": "Ella Mai — Do You Still Love Me Tour",
-        "ru": "Ella Mai — тур Do You Still Love Me"
+        "en": "Survivalrun Udenhout",
+        "ru": "Сурвайвалран Уденхаут"
+      },
+      "date": "2026-09-20",
+      "venue": {
+        "en": "Route Udenhout",
+        "ru": "Маршрут Уденхаут"
+      },
+      "city": {
+        "en": "Udenhout",
+        "ru": "Уденхаут"
+      },
+      "category": "family",
+      "status": "on-sale",
+      "note": {
+        "en": "Obstacle run final day",
+        "ru": "Последний день полосы препятствий"
+      },
+      "url": "https://survivalrunudenhout.nl"
+    },
+    {
+      "id": "ella-mai-013-2026-09-21",
+      "title": {
+        "en": "Ella Mai",
+        "ru": "Ella Mai"
       },
       "date": "2026-09-21",
       "venue": {
         "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "ru": "013 Попподиум"
       },
       "city": {
         "en": "Tilburg",
@@ -333,13 +233,13 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Last tickets, modern R&B",
-        "ru": "Последние билеты, современный R&B"
+        "en": "Do You Still Love Me Tour; last tickets",
+        "ru": "Тур Do You Still Love Me; последние билеты"
       },
-      "url": "https://www.013.nl/"
+      "url": "https://www.013.nl"
     },
     {
-      "id": "beartooth-2026-09-22",
+      "id": "beartooth-013-2026-09-22",
       "title": {
         "en": "Beartooth",
         "ru": "Beartooth"
@@ -347,7 +247,7 @@
       "date": "2026-09-22",
       "venue": {
         "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "ru": "013 Попподиум"
       },
       "city": {
         "en": "Tilburg",
@@ -356,13 +256,13 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Hard rock, Netherlands exclusive",
-        "ru": "Хард-рок, единственный концерт в Нидерландах"
+        "en": "Pure Ecstasy Europe tour; NL exclusive",
+        "ru": "Тур Pure Ecstasy Europe; эксклюзив для NL"
       },
-      "url": "https://www.013.nl/"
+      "url": "https://www.013.nl"
     },
     {
-      "id": "peter-bernstein-2026-09-22",
+      "id": "peter-bernstein-paradox-2026-09-22",
       "title": {
         "en": "Peter Bernstein Quartet ft. Sullivan Fortner",
         "ru": "Квартет Питера Бернстайна с Салливаном Фортнером"
@@ -371,7 +271,7 @@
       "time": "20:30",
       "venue": {
         "en": "Paradox",
-        "ru": "Paradox"
+        "ru": "Парадокс"
       },
       "city": {
         "en": "Tilburg",
@@ -385,9 +285,33 @@
       },
       "note": {
         "en": "Straight-ahead jazz",
-        "ru": "Классический джаз"
+        "ru": "Прямой джаз"
       },
-      "url": "https://paradoxtilburg.nl/"
+      "url": "https://www.paradoxtilburg.nl"
+    },
+    {
+      "id": "einaudi-waalwijk-2026-09-27",
+      "title": {
+        "en": "Under Einaudi’s Wings",
+        "ru": "Под крыльями Эйнауди"
+      },
+      "date": "2026-09-27",
+      "time": "15:30",
+      "venue": {
+        "en": "Theater De Leest",
+        "ru": "Театр Де Леест"
+      },
+      "city": {
+        "en": "Waalwijk",
+        "ru": "Ваалвейк"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "Neo-classical violin & piano",
+        "ru": "Неоклассика, скрипка и фортепиано"
+      },
+      "url": "https://hipsy.nl"
     }
   ]
 }
