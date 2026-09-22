@@ -1,22 +1,22 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "a7f3c9e2-4b1d-8e6f-9c2a-5d8e1b4f7a03",
-  "generatedAt": "2026-09-21T08:00:00+02:00",
+  "deliveryId": "6fde18e6-f365-4272-a7c1-e35051ec8481",
+  "generatedAt": "2026-09-22T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Ella Mai last tickets at 013; Beartooth and Sullivan Fortner tomorrow; Einaudi in Waalwijk next Sunday",
-    "ru": "Ella Mai последние билеты в 013; Beartooth и Салливан Фортнер завтра; Эйнауди в Ваалвейке в следующее воскресенье"
+    "en": "Beartooth metalcore at 013 and sold-out Sullivan Fortner jazz at Paradox headline Tuesday; Elizabeth Goh classical talent at Schouwburg",
+    "ru": "Beartooth металкор в 013 и распроданный джаз Салливана Фортнера в Парадоксе возглавляют вторник; Элизабет Го классический талант в Схаубурге"
   },
   "events": [
     {
-      "id": "ella-mai-013-2026-09-21",
+      "id": "beartooth-013-2026-09-22",
       "title": {
-        "en": "Ella Mai — Do You Still Love Me Tour",
-        "ru": "Ella Mai — тур Do You Still Love Me"
+        "en": "Beartooth — Pure Ecstasy Tour (with Silverstein, Kingdom of Giants)",
+        "ru": "Beartooth — тур Pure Ecstasy (с Silverstein, Kingdom of Giants)"
       },
-      "date": "2026-09-21",
-      "time": "19:00",
-      "end": "22:30",
+      "date": "2026-09-22",
+      "time": "18:30",
+      "end": "23:00",
       "venue": {
         "en": "013 Poppodium",
         "ru": "013 Попподиум"
@@ -28,41 +28,17 @@
       "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "from €44.80 (last tickets)",
-        "ru": "от €44.80 (последние билеты)"
+        "en": "€45.80",
+        "ru": "€45.80"
       },
       "note": {
-        "en": "Intimate modern R&B; last tickets remaining",
-        "ru": "Интимный современный R&B; остались последние билеты"
+        "en": "NL exclusive hardcore/metalcore; doors 18:30",
+        "ru": "Эксклюзивный хардкор/металкор для NL; двери 18:30"
       },
-      "url": "https://www.013.nl/en/events/127826/ella-mai"
+      "url": "https://www.013.nl/en/events/132547/beartooth"
     },
     {
-      "id": "beartooth-013-2026-09-22",
-      "title": {
-        "en": "Beartooth — Pure Ecstasy Tour",
-        "ru": "Beartooth — тур Pure Ecstasy"
-      },
-      "date": "2026-09-22",
-      "time": "18:30",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Попподиум"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "NL exclusive hardcore/metalcore show",
-        "ru": "Эксклюзивный хардкор/металкор-шоу для Нидерландов"
-      },
-      "url": "https://www.013.nl"
-    },
-    {
-      "id": "sullivan-fortner-paradox-2026-09-22",
+      "id": "peter-bernstein-sullivan-fortner-paradox-2026-09-22",
       "title": {
         "en": "Peter Bernstein Quartet ft. Sullivan Fortner",
         "ru": "Квартет Питера Бернстайна с Салливаном Фортнером"
@@ -78,63 +54,141 @@
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "on-sale",
+      "status": "sold-out",
+      "price": {
+        "en": "€23 (sold out)",
+        "ru": "€23 (распродано)"
+      },
       "note": {
-        "en": "Straight-ahead jazz with top US players",
-        "ru": "Прямой джаз с топ-музыкантами из США"
+        "en": "Straight-ahead jazz; doors 19:30",
+        "ru": "Прямой джаз; двери 19:30"
       },
       "url": "https://www.paradoxtilburg.nl"
     },
     {
-      "id": "culs-cult-stonks-2026-09-23",
+      "id": "elizabeth-goh-schouwburg-2026-09-22",
       "title": {
-        "en": "Cul's Cult: Stonks + racehorsepablo",
-        "ru": "Cul's Cult: Stonks + racehorsepablo"
+        "en": "Elizabeth Goh — The Little Blue Notebook",
+        "ru": "Элизабет Го — Маленький синий блокнот"
       },
-      "date": "2026-09-23",
+      "date": "2026-09-22",
+      "time": "20:20",
       "venue": {
-        "en": "Cul (013 on location)",
-        "ru": "Cul (013 на локации)"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "nightlife",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
+      "category": "church",
+      "status": "on-sale",
       "note": {
-        "en": "Free punk/garage night",
-        "ru": "Бесплатная панк/гаражная ночь"
+        "en": "Dutch Classical Talent piano & toy piano recital",
+        "ru": "Dutch Classical Talent, фортепиано и игрушечное фортепиано"
       },
-      "url": "https://www.013.nl"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/elizabeth-goh-the-little-blue-notebook"
     },
     {
-      "id": "tilburg-ten-miles-2026-09-26",
+      "id": "plug-play-dance-jam-factorium-2026-09-22",
       "title": {
-        "en": "Tilburg Ten Miles",
-        "ru": "Тилбург Тен Майлз"
+        "en": "Plug & Play Open Dance Jam",
+        "ru": "Plug & Play открытый танцевальный джем"
       },
-      "date": "2026-09-26",
-      "endDate": "2026-09-27",
+      "date": "2026-09-22",
+      "time": "20:00",
+      "end": "22:30",
       "venue": {
-        "en": "Stadsforum & route",
-        "ru": "Стадсфорум и маршрут"
+        "en": "Factorium",
+        "ru": "Факториум"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
       "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Weekly freestyle dance jam",
+        "ru": "Еженедельный фристайл-джем"
+      },
+      "url": "https://www.factorium.nl/agenda"
+    },
+    {
+      "id": "papa-zonder-handleiding-xl-2026-09-23",
+      "title": {
+        "en": "Papa Without a Manual XL",
+        "ru": "Папа без инструкции XL"
+      },
+      "date": "2026-09-23",
+      "time": "20:00",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Running and walking event through the city",
-        "ru": "Беговой и пешеходный ивент по городу"
+        "en": "Comedy with Onias Landveld, Jörgen Raymann et al",
+        "ru": "Комедия с Ониасом Ландвелдом, Йоргеном Райманом и др."
       },
-      "url": "https://www.tilburgtenmiles.nl"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl"
+    },
+    {
+      "id": "min-taka-hall-of-fame-2026-09-23",
+      "title": {
+        "en": "Min Taka",
+        "ru": "Min Taka"
+      },
+      "date": "2026-09-23",
+      "time": "19:30",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Холл оф Фэйм"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Live at Hall of Fame",
+        "ru": "Концерт в Холл оф Фэйм"
+      },
+      "url": "https://www.hall-fame.nl"
+    },
+    {
+      "id": "buikzwam-nieuwe-vorst-2026-09-23",
+      "title": {
+        "en": "Buikzwam by Kompagnie Kistemaker",
+        "ru": "Buikzwam от Kompagnie Kistemaker"
+      },
+      "date": "2026-09-23",
+      "time": "20:30",
+      "venue": {
+        "en": "Theater De Nieuwe Vorst",
+        "ru": "Театр Де Ниуве Ворст"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Theater performance",
+        "ru": "Театральная постановка"
+      },
+      "url": "https://denieuwevorst.nl"
     },
     {
       "id": "einaudi-waalwijk-2026-09-27",
@@ -155,15 +209,35 @@
       },
       "category": "church",
       "status": "on-sale",
-      "price": {
-        "en": "€31.50",
-        "ru": "€31.50"
-      },
       "note": {
-        "en": "Neo-classical violin & piano by Anoek Brokaar & Frank Oppedijk",
-        "ru": "Неоклассика, скрипка и фортепиано — Анук Брокар и Франк Оппедейк"
+        "en": "Neo-classical violin & piano; HipSy / De Leest",
+        "ru": "Неоклассика, скрипка и фортепиано; HipSy / De Leest"
       },
       "url": "https://www.deleest.nl/programma/onder-einaudi-s-vleugels-fsbk"
+    },
+    {
+      "id": "tilburg-ten-miles-2026-09-26",
+      "title": {
+        "en": "Tilburg Ten Miles",
+        "ru": "Тилбург Тен Майлз"
+      },
+      "date": "2026-09-26",
+      "endDate": "2026-09-27",
+      "venue": {
+        "en": "Stadsforum & route",
+        "ru": "Стадсфорум и маршрут"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "on-sale",
+      "note": {
+        "en": "City running and walking event",
+        "ru": "Городской беговой и пешеходный ивент"
+      },
+      "url": "https://www.tilburgtenmiles.nl"
     },
     {
       "id": "we-will-rock-you-2026-09-30",
@@ -185,8 +259,8 @@
       "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Queen musical runs through 4 Oct",
-        "ru": "Мюзикл Queen до 4 октября"
+        "en": "Queen musical",
+        "ru": "Мюзикл Queen"
       },
       "url": "https://www.schouwburgconcertzaaltilburg.nl"
     }
