@@ -1,52 +1,52 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "15a6ae82-7851-4d2d-9104-a98bb03cd36d",
-  "generatedAt": "2026-09-23T08:01:00+02:00",
+  "deliveryId": "a8f3c1e9-2b4d-4f7a-9c6e-1d8b5a3f7e2c",
+  "generatedAt": "2026-09-28T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Quiet Wednesday: free punk at Cul, comedy at Schouwburg, theater at De Nieuwe Vorst; Paradox CCC cancelled",
-    "ru": "Тихая среда: бесплатный панк в Cul, комедия в Schouwburg, театр в De Nieuwe Vorst; Paradox CCC отменён"
+    "en": "Quiet Monday after Ten Miles weekend; open vocal-group rehearsal tonight; Queen musical We Will Rock You opens Wednesday",
+    "ru": "Тихий понедельник после уикэнда Ten Miles; открытая репетиция вокальной группы сегодня вечером; мюзикл Queen We Will Rock You стартует в среду"
   },
   "events": [
     {
-      "id": "culs-cult-stonks-2026-09-23",
+      "id": "open-repetitie-des-unique-2026-09-28",
       "title": {
-        "en": "Cul's Cult: Stonks + racehorsepablo",
-        "ru": "Cul's Cult: Stonks + racehorsepablo"
+        "en": "Open Rehearsal Vocal Group Des Unique",
+        "ru": "Открытая репетиция вокальной группы Des Unique"
       },
-      "date": "2026-09-23",
-      "time": "20:00",
+      "date": "2026-09-28",
+      "time": "19:30",
       "venue": {
-        "en": "Cul (013 on location)",
-        "ru": "Cul (013 на локации)"
+        "en": "MFA Zuiderkwartier",
+        "ru": "MFA Zuiderkwartier"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "music",
+      "category": "church",
       "status": "free",
       "price": {
         "en": "Free",
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Free punk/garage night",
-        "ru": "Бесплатный панк/гараж вечер"
+        "en": "Youth/choir talent open rehearsal",
+        "ru": "Открытая репетиция молодёжного/хорового таланта"
       },
-      "url": "https://www.013.nl/"
+      "url": "https://allevents.in/tilburg/september"
     },
     {
-      "id": "min-taka-hall-of-fame-2026-09-23",
+      "id": "daft-funk-live-013-2026-09-29",
       "title": {
-        "en": "Min Taka",
-        "ru": "Min Taka"
+        "en": "Daft Funk Live",
+        "ru": "Daft Funk Live"
       },
-      "date": "2026-09-23",
-      "time": "19:30",
+      "date": "2026-09-29",
+      "time": "20:30",
       "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
       },
       "city": {
         "en": "Tilburg",
@@ -55,19 +55,19 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Live at Hall of Fame",
-        "ru": "Живой концерт в Hall of Fame"
+        "en": "Live tribute to Daft Punk",
+        "ru": "Живой трибьют Daft Punk"
       },
-      "url": "https://hall-fame.nl/"
+      "url": "https://www.013.nl/"
     },
     {
-      "id": "elizabeth-goh-schouwburg-2026-09-23",
+      "id": "iris-rulkens-van-harte-2026-09-29",
       "title": {
-        "en": "Elizabeth Goh: The little blue notebook",
-        "ru": "Elizabeth Goh: Маленький синий блокнот"
+        "en": "Iris Rulkens: Van Harte! (try-out)",
+        "ru": "Iris Rulkens: Van Harte! (пробу)"
       },
-      "date": "2026-09-23",
-      "time": "20:00",
+      "date": "2026-09-29",
+      "time": "20:30",
       "venue": {
         "en": "Schouwburg & Concertzaal Tilburg",
         "ru": "Схаубург и концертный зал Тилбурга"
@@ -78,15 +78,20 @@
       },
       "category": "theater",
       "status": "on-sale",
+      "note": {
+        "en": "Cabaret try-out, waiting list",
+        "ru": "Кабаре-пробу, лист ожидания"
+      },
       "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
-      "id": "papa-zonder-handleiding-xl-2026-09-23",
+      "id": "we-will-rock-you-2026-09-30",
       "title": {
-        "en": "Papa Without Manual XL",
-        "ru": "Папа без инструкции XL"
+        "en": "We Will Rock You — the Queen Musical",
+        "ru": "We Will Rock You — мюзикл Queen"
       },
-      "date": "2026-09-23",
+      "date": "2026-09-30",
+      "endDate": "2026-10-04",
       "time": "20:15",
       "venue": {
         "en": "Schouwburg & Concertzaal Tilburg",
@@ -98,44 +103,24 @@
       },
       "category": "theater",
       "status": "on-sale",
-      "note": {
-        "en": "Comedy with Onias Landveld, Jörgen Raymann e.a.",
-        "ru": "Комедия с Onias Landveld, Jörgen Raymann и др."
+      "price": {
+        "en": "from €62",
+        "ru": "от €62"
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+      "note": {
+        "en": "Official Queen musical with Dutch cast; multiple shows",
+        "ru": "Официальный мюзикл Queen с голландским составом; несколько показов"
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/de-queen-musical-we-will-rock-you"
     },
     {
-      "id": "buikzwam-nieuwe-vorst-2026-09-23",
+      "id": "paradox-jazz-orchestra-2026-09-30",
       "title": {
-        "en": "Buikzwam",
-        "ru": "Buikzwam"
+        "en": "PaRaDoX Jazz Orchestra: Music of the Kenny Clarke / Francy Boland Big Band",
+        "ru": "PaRaDoX Jazz Orchestra: музыка Kenny Clarke / Francy Boland Big Band"
       },
-      "date": "2026-09-23",
-      "time": "20:30",
-      "venue": {
-        "en": "De Nieuwe Vorst",
-        "ru": "De Nieuwe Vorst"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "By Kompagnie Kistemaker",
-        "ru": "От Kompagnie Kistemaker"
-      },
-      "url": "https://denieuwevorst.nl/programma"
-    },
-    {
-      "id": "ccc-inc-paradox-2026-09-23",
-      "title": {
-        "en": "CCC inc. 60 years (cancelled)",
-        "ru": "CCC inc. 60 лет (отменено)"
-      },
-      "date": "2026-09-23",
-      "time": "20:30",
+      "date": "2026-09-30",
+      "time": "19:00",
       "venue": {
         "en": "Paradox",
         "ru": "Paradox"
@@ -145,12 +130,36 @@
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "cancelled",
+      "status": "sold-out",
       "note": {
-        "en": "Cancelled",
-        "ru": "Отменено"
+        "en": "Sold out",
+        "ru": "Распродано"
       },
-      "url": "https://www.paradoxtilburg.nl/"
+      "url": "https://www.paradoxtilburg.nl/agenda/"
+    },
+    {
+      "id": "i-prevail-013-2026-10-01",
+      "title": {
+        "en": "I Prevail",
+        "ru": "I Prevail"
+      },
+      "date": "2026-10-01",
+      "time": "18:00",
+      "venue": {
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "note": {
+        "en": "Metalcore with Polaris and Gore.; sold out",
+        "ru": "Металкор с Polaris и Gore.; распродано"
+      },
+      "url": "https://www.013.nl/"
     }
   ]
 }
