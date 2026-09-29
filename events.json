@@ -1,41 +1,13 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "a8f3c1e9-2b4d-4f7a-9c6e-1d8b5a3f7e2c",
-  "generatedAt": "2026-09-28T08:00:00+02:00",
+  "deliveryId": "dbd59d69-4114-4fdb-8693-75518a987f74",
+  "generatedAt": "2026-09-29T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Quiet Monday after Ten Miles weekend; open vocal-group rehearsal tonight; Queen musical We Will Rock You opens Wednesday",
-    "ru": "Тихий понедельник после уикэнда Ten Miles; открытая репетиция вокальной группы сегодня вечером; мюзикл Queen We Will Rock You стартует в среду"
+    "en": "Daft Funk Live tribute at 013 tonight; Iris Rulkens try-out; Queen musical We Will Rock You opens tomorrow",
+    "ru": "Трибьют Daft Funk Live в 013 сегодня вечером; проба Iris Rulkens; мюзикл Queen We Will Rock You стартует завтра"
   },
   "events": [
-    {
-      "id": "open-repetitie-des-unique-2026-09-28",
-      "title": {
-        "en": "Open Rehearsal Vocal Group Des Unique",
-        "ru": "Открытая репетиция вокальной группы Des Unique"
-      },
-      "date": "2026-09-28",
-      "time": "19:30",
-      "venue": {
-        "en": "MFA Zuiderkwartier",
-        "ru": "MFA Zuiderkwartier"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Youth/choir talent open rehearsal",
-        "ru": "Открытая репетиция молодёжного/хорового таланта"
-      },
-      "url": "https://allevents.in/tilburg/september"
-    },
     {
       "id": "daft-funk-live-013-2026-09-29",
       "title": {
@@ -54,11 +26,15 @@
       },
       "category": "music",
       "status": "on-sale",
-      "note": {
-        "en": "Live tribute to Daft Punk",
-        "ru": "Живой трибьют Daft Punk"
+      "price": {
+        "en": "€32.80",
+        "ru": "€32.80"
       },
-      "url": "https://www.013.nl/"
+      "note": {
+        "en": "Live tribute to Daft Punk; doors 19:00",
+        "ru": "Живой трибьют Daft Punk; двери 19:00"
+      },
+      "url": "https://www.013.nl/en/events/123780/daft-funk"
     },
     {
       "id": "iris-rulkens-van-harte-2026-09-29",
@@ -79,8 +55,8 @@
       "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Cabaret try-out, waiting list",
-        "ru": "Кабаре-пробу, лист ожидания"
+        "en": "Cabaret try-out; waiting list",
+        "ru": "Кабаре-пробу; лист ожидания"
       },
       "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
@@ -103,21 +79,41 @@
       },
       "category": "theater",
       "status": "on-sale",
-      "price": {
-        "en": "from €62",
-        "ru": "от €62"
-      },
       "note": {
-        "en": "Official Queen musical with Dutch cast; multiple shows",
-        "ru": "Официальный мюзикл Queen с голландским составом; несколько показов"
+        "en": "Official Queen musical; multiple shows through 4 Oct",
+        "ru": "Официальный мюзикл Queen; несколько показов до 4 октября"
       },
       "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/de-queen-musical-we-will-rock-you"
     },
     {
+      "id": "lucas-arthur-jussen-2026-09-30",
+      "title": {
+        "en": "Lucas & Arthur Jussen: Chamber Music Souvenir",
+        "ru": "Lucas & Arthur Jussen: Камерная музыка Souvenir"
+      },
+      "date": "2026-09-30",
+      "time": "20:00",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "Piano duo chamber music; waiting list",
+        "ru": "Фортепианный дуэт, камерная музыка; лист ожидания"
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
+    {
       "id": "paradox-jazz-orchestra-2026-09-30",
       "title": {
-        "en": "PaRaDoX Jazz Orchestra: Music of the Kenny Clarke / Francy Boland Big Band",
-        "ru": "PaRaDoX Jazz Orchestra: музыка Kenny Clarke / Francy Boland Big Band"
+        "en": "Paradox Jazz Orchestra: Ode to Kenny Clarke/Francy Boland Big Band",
+        "ru": "Paradox Jazz Orchestra: Ода Kenny Clarke/Francy Boland Big Band"
       },
       "date": "2026-09-30",
       "time": "19:00",
@@ -130,12 +126,36 @@
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "sold-out",
+      "status": "on-sale",
       "note": {
-        "en": "Sold out",
-        "ru": "Распродано"
+        "en": "Big band jazz",
+        "ru": "Биг-бэнд джаз"
       },
-      "url": "https://www.paradoxtilburg.nl/agenda/"
+      "url": "https://paradoxtilburg.nl/"
+    },
+    {
+      "id": "thijs-van-de-meeberg-baby-reindeer-2026-09-30",
+      "title": {
+        "en": "Thijs van de Meeberg: Baby Reindeer",
+        "ru": "Thijs van de Meeberg: Baby Reindeer"
+      },
+      "date": "2026-09-30",
+      "time": "20:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Stage adaptation",
+        "ru": "Сценическая адаптация"
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
       "id": "i-prevail-013-2026-10-01",
@@ -156,10 +176,58 @@
       "category": "music",
       "status": "sold-out",
       "note": {
-        "en": "Metalcore with Polaris and Gore.; sold out",
-        "ru": "Металкор с Polaris и Gore.; распродано"
+        "en": "Metalcore with Polaris and Gore; sold out",
+        "ru": "Металкор с Polaris и Gore; распродано"
       },
       "url": "https://www.013.nl/"
+    },
+    {
+      "id": "tino-martin-013-2026-10-02",
+      "title": {
+        "en": "Tino Martin: Live with Band",
+        "ru": "Tino Martin: Live with Band"
+      },
+      "date": "2026-10-02",
+      "time": "20:00",
+      "venue": {
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Dutch hits with band",
+        "ru": "Голландские хиты с группой"
+      },
+      "url": "https://www.013.nl/"
+    },
+    {
+      "id": "smet-skazka-quartet-cenakel-2026-10-11",
+      "title": {
+        "en": "S.M.E.T. Chamber Music: Skazka Quartet",
+        "ru": "S.M.E.T. Камерная музыка: Skazka Quartet"
+      },
+      "date": "2026-10-11",
+      "time": "13:00",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Het Cenakel"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "Sunday afternoon chamber music",
+        "ru": "Воскресная камерная музыка"
+      },
+      "url": "https://www.cenakel.nl/agenda"
     }
   ]
 }
