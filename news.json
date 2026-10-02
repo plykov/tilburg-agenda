@@ -1,39 +1,173 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "e034e195-9f40-4c94-a31e-af6f7ad45f67",
-  "generatedAt": "2026-10-01T19:18:00+02:00",
+  "deliveryId": "b611728c-1e34-4f12-abfc-65394c1d9681",
+  "generatedAt": "2026-10-02T19:09:00+02:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:18 Amsterdam",
+  "source": "Grok verified permalinks 19:09 Amsterdam",
   "headline": {
-    "nl": "Tilburg startplaats EK wielrennen 2028; man zwaargewond bij machineongeluk",
-    "en": "Tilburg to host the start of the 2028 European road cycling championships; man seriously injured in machine accident",
-    "ru": "Тилбург — старт шоссейного чемпионата Европы 2028; мужчина тяжело ранен на станке"
+    "nl": "Motorrijder zwaargewond op de N260; chaos op Spoorlaan–Heuvelring",
+    "en": "Motorcyclist seriously injured on the N260; chaos at Spoorlaan–Heuvelring",
+    "ru": "Мотоциклист тяжело ранен на N260; хаос на пересечении Spoorlaan и Heuvelring"
   },
   "headlineLangNote": "ui-translated",
-  "itemCount": 9,
+  "itemCount": 11,
   "items": [
     {
-      "id": "omroep-tilburg-2026-10-01-machineongeluk-boterberg",
+      "id": "omroep-tilburg-2026-10-02-motor-n260",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "incident",
-      "publishedAt": "2026-10-01T11:00:00+02:00",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
       "title": {
-        "nl": "Man zwaargewond nadat zijn been bekneld raakt in machine",
-        "en": "Man seriously injured after his leg is trapped in a machine",
-        "ru": "Мужчина тяжело ранен: нога застряла в станке"
+        "nl": "Motorrijder ernstig gewond op de N260 in Tilburg",
+        "en": "Motorcyclist seriously injured on the N260 in Tilburg",
+        "ru": "Мотоциклист тяжело ранен на N260 в Тилбурге"
       },
       "teaser": {
-        "nl": "Bij een bedrijf aan de Boterberg raakte donderdagochtend een man zwaargewond toen zijn been in een machine kwam. Brandweer bevrijdde hem; politie en arbeidsinspectie onderzoeken het ongeval.",
-        "en": "A man was seriously injured on Thursday morning at a company on Boterberg when his leg was caught in a machine. Firefighters freed him; police and the labour inspectorate are investigating.",
-        "ru": "В четверг утром на предприятии на Boterberg мужчина тяжело ранили: нога попала в станок. Пожарные освободили его; полиция и инспекция труда расследуют случай."
+        "nl": "Donderdagavond raakte een motorrijder zeer ernstig gewond op de Burgemeester Letschertweg (N260). Hij kwam vanuit Tilburg-Noord tegen een betonband en is in zorgwekkende toestand naar het ziekenhuis gebracht.",
+        "en": "On Thursday evening a motorcyclist was very seriously injured on Burgemeester Letschertweg (N260). Coming from Tilburg-Noord he hit a concrete kerb and was taken to hospital in a worrying condition.",
+        "ru": "В четверг вечером мотоциклист тяжело пострадал на Burgemeester Letschertweg (N260). Он ехал со стороны Tilburg-Noord, ударился о бетонный бордюр и в тяжёлом состоянии доставлен в больницу."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/man-zwaargewond-nadat-zijn-been-bekneld-raakt-in-machine/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/motorrijder-ernstig-gewond-op-de-n260-in-tilburg/",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Boterberg",
-      "tags": ["bedrijfsongeval"]
+      "area": "Burgemeester Letschertweg",
+      "tags": ["verkeer", "ongeval"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-02-spoorlaan-heuvelring",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "Wegwerkzaamheden zetten verkeer op z'n kop in Tilburg: 'Snap er niks van'",
+        "en": "Roadworks turn traffic upside down in Tilburg: 'I do not understand it'",
+        "ru": "Дорожные работы перевернули движение в Тилбурге: «Ничего не понимаю»"
+      },
+      "teaser": {
+        "nl": "Op de kruising Spoorlaan–Heuvelring is de situatie onduidelijk door werkzaamheden voor de Parkring. De gemeente zegt dit weekend tijdelijke aanpassingen te willen doen.",
+        "en": "The Spoorlaan–Heuvelring junction is unclear because of works for the Parkring. The municipality says it wants temporary fixes this weekend.",
+        "ru": "На перекрёстке Spoorlaan–Heuvelring из-за работ под Parkring непонятно, куда ехать. Муниципалитет хочет временные правки в эти выходные."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/wegwerkzaamheden-zetten-verkeer-op-zn-kop-in-tilburg-snap-er-niks-van/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Spoorlaan / Heuvelring",
+      "tags": ["verkeer", "Parkring"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-02-nk-snelwandelen",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "cultuur",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "NK snelwandelen krijgt in Tilburg voor het eerst marathonafstand",
+        "en": "Dutch race-walking championships in Tilburg add the marathon distance for the first time",
+        "ru": "Чемпионат Нидерландов по спортивной ходьбе в Тилбурге впервые на марафонской дистанции"
+      },
+      "teaser": {
+        "nl": "Zondag is het NK snelwandelen voor de 27ste keer in Tilburg, op het parcours van Wielervereniging Pijnenburg. Mannen lopen voor het eerst de marathon; vrouwen een halve marathon.",
+        "en": "On Sunday the Dutch race-walking championships are in Tilburg for the 27th time, on the Wielervereniging Pijnenburg circuit. Men race the marathon for the first time; women a half marathon.",
+        "ru": "В воскресенье чемпионат Нидерландов по спортивной ходьбе в 27-й раз в Тилбурге, на круге Wielervereniging Pijnenburg. Мужчины впервые идут марафон, женщины — полумарафон."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/nk-snelwandelen-krijgt-in-tilburg-voor-het-eerst-marathonafstand/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "NK"]
+    },
+    {
+      "id": "omroep-tilburg-2026-10-02-huisvesting-arbeidsmigranten",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-10-02T12:00:00+02:00",
+      "title": {
+        "nl": "Huisvesting arbeidsmigranten in de regio voldoet op tientallen plekken niet aan de regels",
+        "en": "Migrant-worker housing in the region fails the rules at dozens of sites",
+        "ru": "Жильё трудовых мигрантов в регионе на десятках адресов не соответствует правилам"
+      },
+      "teaser": {
+        "nl": "BIT Hart van Brabant controleerde 21–25 september 107 locaties in acht gemeenten. Bij twintig panden was de brandveiligheid niet op orde; tijdens een controle is een voortvluchtige Poolse man aangehouden.",
+        "en": "BIT Hart van Brabant checked 107 sites in eight municipalities on 21–25 September. Fire safety failed at twenty buildings; a Polish man wanted by the courts was arrested during one check.",
+        "ru": "BIT Hart van Brabant 21–25 сентября проверил 107 адресов в восьми муниципалитетах. В двадцати зданиях не было пожарной безопасности; на одной проверке задержали разыскиваемого поляка."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/huisvesting-arbeidsmigranten-in-de-regio-voldoet-op-tientallen-plekken-niet-aan-de-regels/",
+      "paywall": false,
+      "city": "Regio",
+      "tags": ["handhaving", "arbeidsmigranten"]
+    },
+    {
+      "id": "omroep-brabant-2026-10-01-tijgermug",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-10-01T17:00:00+02:00",
+      "title": {
+        "nl": "Na Uden en Mierlo duikt tijgermug ook op in Tilburg: bewoners krijgen brief",
+        "en": "After Uden and Mierlo, the tiger mosquito also turns up in Tilburg: residents get a letter",
+        "ru": "После Удена и Мирло тигровая комариха найдена и в Тилбурге: жителям разослали письмо"
+      },
+      "teaser": {
+        "nl": "De Aziatische tijgermug is half september gevonden rond de Magazijnstraat. De NVWA bestrijdt tot uiterlijk november en vraagt bewoners stilstaand water te verwijderen.",
+        "en": "The Asian tiger mosquito was found around Magazijnstraat in mid-September. The NVWA is treating the area until November at the latest and asks residents to remove standing water.",
+        "ru": "Азиатского тигрового комара нашли в середине сентября у Magazijnstraat. NVWA обрабатывает район до ноября и просит убирать стоячую воду."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6029451/na-uden-en-mierlo-duikt-tijgermug-ook-op-in-tilburg-bewoners-krijgen-brief",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Magazijnstraat",
+      "tags": ["NVWA", "tijgermug"]
+    },
+    {
+      "id": "gemeente-2026-10-01-isolatiesubsidie",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Nieuwe isolatiesubsidie: meer inwoners komen in aanmerking",
+        "en": "New insulation grant: more residents qualify",
+        "ru": "Новая субсидия на утепление: больше жителей имеют право"
+      },
+      "teaser": {
+        "nl": "De Subsidieregeling Isolatie 2026-2028 verhoogt de WOZ-grens naar 477.000 euro en het bedrag naar 2.250 euro per woning. Zelf isoleren en VvE's vallen nu ook onder de regeling.",
+        "en": "The 2026-2028 insulation scheme raises the WOZ cap to 477,000 euro and the grant to 2,250 euro per home. DIY insulation and owners' associations are now covered.",
+        "ru": "Программа утепления 2026–2028 поднимает потолок WOZ до 477 000 евро и сумму до 2 250 евро на дом. Самостоятельное утепление и ТСЖ теперь тоже входят."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/nieuwe-isolatiesubsidie-meer-inwoners-komen-in-aanmerking-1/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["subsidie", "isolatie"]
+    },
+    {
+      "id": "gemeente-2026-10-01-startbouwregeling",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-10-01T12:00:00+02:00",
+      "title": {
+        "nl": "Startbouwregeling Tilburg helpt woningbouw op gang",
+        "en": "Tilburg start-construction scheme is meant to get housing builds moving",
+        "ru": "Схема Startbouwregeling в Тилбурге должна запустить жилищное строительство"
+      },
+      "teaser": {
+        "nl": "Projecten voor sociale huur, middeldure huur en betaalbare koop die financieel vastzitten kunnen subsidie aanvragen als de bouw binnen een jaar na verlening kan starten. Publicatie in het Gemeenteblad is 1 oktober 2026.",
+        "en": "Social, mid-rent and affordable owner-occupier projects that are stuck financially can apply if building can start within a year of the grant. Publication in the Gemeenteblad is 1 October 2026.",
+        "ru": "Проекты социального, среднего арендного и доступного жилья, застрявшие по деньгам, могут подать заявку, если стройка стартует в течение года после субсидии. Публикация в Gemeenteblad — 1 октября 2026."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/startbouwregeling-tilburg-helpt-woningbouw-op-gang/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["woningbouw", "subsidie"]
     },
     {
       "id": "omroep-tilburg-2026-10-01-ek-wielrennen-2028",
@@ -58,49 +192,27 @@
       "tags": ["wielrennen", "EK 2028"]
     },
     {
-      "id": "omroep-tilburg-2026-10-01-pink-ribbon-sportpiazza",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-10-01T10:00:00+02:00",
-      "title": {
-        "nl": "SportPiazza Tilburg viert Pink Ribbon met volledig roze sportschool",
-        "en": "SportPiazza Tilburg marks Pink Ribbon with an all-pink gym",
-        "ru": "SportPiazza Tilburg отмечает Pink Ribbon: зал на вечер стал розовым"
-      },
-      "teaser": {
-        "nl": "Donderdag is bij SportPiazza de Pink Ribbon Release Party. Inloop vanaf 18.00 uur; de sportschool is voor één avond roze, met donatiebox voor borstkankeronderzoek.",
-        "en": "SportPiazza hosts a Pink Ribbon Release Party on Thursday. Doors from 18:00; the gym turns pink for one evening, with a donation box for breast-cancer research.",
-        "ru": "В четверг в SportPiazza проходит Pink Ribbon Release Party. Вход с 18:00; зал на один вечер розовый, с ящиком для пожертвований на исследования рака груди."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/headline/sportpiazza-tilburg-viert-pink-ribbon-met-volledig-roze-sportschool/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["Pink Ribbon", "sport"]
-    },
-    {
-      "id": "omroep-tilburg-2026-10-01-heling-oisterwijk",
+      "id": "omroep-tilburg-2026-10-01-machineongeluk-boterberg",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "incident",
-      "publishedAt": "2026-10-01T09:30:00+02:00",
+      "publishedAt": "2026-10-01T11:00:00+02:00",
       "title": {
-        "nl": "Politie vindt auto vol nieuw gereedschap: 33-jarige man aangehouden",
-        "en": "Police find a car full of new tools: 33-year-old man arrested",
-        "ru": "Полиция нашла машину с новым инструментом: задержан 33-летний"
+        "nl": "Man zwaargewond nadat zijn been bekneld raakt in machine",
+        "en": "Man seriously injured after his leg is trapped in a machine",
+        "ru": "Мужчина тяжело ранен: нога застряла в станке"
       },
       "teaser": {
-        "nl": "Woensdagochtend is een 33-jarige man aangehouden op verdenking van heling na een controle aan de Vennelaan in Oisterwijk. In de huurauto met Duits kenteken lag nieuw gereedschap; ondernemers die spullen missen worden opgeroepen zich te melden.",
-        "en": "A 33-year-old man was arrested on Wednesday morning on suspicion of handling stolen goods after a check on Vennelaan in Oisterwijk. New tools were in the German-plated hire car; traders missing stock are asked to come forward.",
-        "ru": "В среду утром на Vennelaan в Ойстервейке задержали 33-летнего по подозрению в сбыте краденого. В арендованной машине с немецким номером лежал новый инструмент; предпринимателей с пропажами просят сообщить."
+        "nl": "Bij een bedrijf aan de Boterberg raakte donderdagochtend een man zwaargewond toen zijn been in een machine kwam. Brandweer bevrijdde hem; politie en arbeidsinspectie onderzoeken het ongeval.",
+        "en": "A man was seriously injured on Thursday morning at a company on Boterberg when his leg was caught in a machine. Firefighters freed him; police and the labour inspectorate are investigating.",
+        "ru": "В четверг утром на предприятии на Boterberg мужчина тяжело пострадал: нога попала в станок. Пожарные освободили его; полиция и инспекция труда расследуют случай."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/oisterwijk/politie-vindt-auto-vol-nieuw-gereedschap-33-jarige-man-aangehouden/",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/man-zwaargewond-nadat-zijn-been-bekneld-raakt-in-machine/",
       "paywall": false,
-      "city": "Oisterwijk",
-      "area": "Vennelaan",
-      "tags": ["politie", "heling"]
+      "city": "Tilburg",
+      "area": "Boterberg",
+      "tags": ["bedrijfsongeval"]
     },
     {
       "id": "gemeente-2026-09-30-ronde-van-nederland",
@@ -126,29 +238,6 @@
       "tags": ["wielrennen", "Eneco Tour"]
     },
     {
-      "id": "omroep-tilburg-2026-09-30-fietspaaltjes",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-09-30T09:00:00+02:00",
-      "title": {
-        "nl": "Tilburg verwijdert honderd gevaarlijke fietspaaltjes",
-        "en": "Tilburg removes a hundred dangerous cycle-path bollards",
-        "ru": "Тилбург убирает сотню опасных столбиков на велодорожках"
-      },
-      "teaser": {
-        "nl": "De gemeente haalt ongeveer honderd fietspaaltjes weg, te beginnen in Reeshof en De Blaak. FietsForum Tilburg wijst op ongelukken, waaronder vorig jaar een dodelijke afloop.",
-        "en": "The municipality is removing about a hundred cycle bollards, starting in Reeshof and De Blaak. FietsForum Tilburg points to crashes, including a fatal incident last year.",
-        "ru": "Муниципалитет убирает около ста столбиков, начиная с Reeshof и De Blaak. FietsForum Tilburg указывает на аварии, включая смертельный случай в прошлом году."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/tilburg-verwijdert-honderd-gevaarlijke-fietspaaltjes-zelfs-een-met-dodelijke-afloop/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Reeshof",
-      "tags": ["fiets", "verkeer"]
-    },
-    {
       "id": "gemeente-2026-09-25-de-vaart",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
@@ -170,51 +259,6 @@
       "city": "Tilburg",
       "area": "Lovense Kanaaldijk",
       "tags": ["opvang"]
-    },
-    {
-      "id": "gemeente-2026-09-25-autobatterijen-fabriekskwartier",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-25T11:00:00+02:00",
-      "title": {
-        "nl": "Tweede leven voor oude autobatterijen bij bouw Fabriekskwartier",
-        "en": "Second life for used car batteries at Fabriekskwartier construction site",
-        "ru": "Вторая жизнь автомобильных батарей на стройке Fabriekskwartier"
-      },
-      "teaser": {
-        "nl": "Negen gebruikte autobatterijen slaan s nachts stroom op en voeden overdag een hijskraan. Zo wordt het net ontlast en kan de woningbouw doorgaan bij beperkte netcapaciteit.",
-        "en": "Nine used car batteries store power at night and feed a crane by day. That eases the grid so housing construction can continue when network capacity is tight.",
-        "ru": "Девять б/у автомобильных батарей ночью копят электричество и днём питают кран. Это разгружает сеть и позволяет строить жильё при ограниченной мощности."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/tweede-leven-voor-oude-autobatterijen-bij-bouw-fabriekskwartier/",
-      "paywall": false,
-      "city": "Tilburg",
-      "area": "Fabriekskwartier",
-      "tags": ["bouw", "energie"]
-    },
-    {
-      "id": "gemeente-2026-09-24-subsidie-evenementen",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-09-24T12:00:00+02:00",
-      "title": {
-        "nl": "Subsidie voor kleinschalige evenementen aan te vragen vanaf 1 oktober",
-        "en": "Grants for small events open from 1 October",
-        "ru": "Субсидии на небольшие мероприятия можно подать с 1 октября"
-      },
-      "teaser": {
-        "nl": "Vanaf donderdag 1 oktober 10.00 uur openen twee regelingen: kleinschalige evenementen tijdens de jaarwisseling (maximaal 5000 euro) en kleinschalige evenementen in 2027. Aanvragen voor 2027 lopen tot 1 november.",
-        "en": "From Thursday 1 October at 10:00 two schemes open: small New Year events (maximum 5000 euro) and small events in 2027. Applications for 2027 run until 1 November.",
-        "ru": "С четверга 1 октября в 10:00 открываются две программы: небольшие новогодние мероприятия (до 5000 евро) и небольшие события 2027 года. Заявки на 2027 год принимают до 1 ноября."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/subsidie-voor-kleinschalige-evenementen-vanaf-1-oktober-aan-te-vragen/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["subsidie", "evenementen"]
     }
   ]
 }
