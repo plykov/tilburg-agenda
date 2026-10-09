@@ -1,1 +1,78 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.agenda.v1",
+  "deliveryId": "500795ae-83a2-47fa-9ff0-5076e117ff9e",
+  "generatedAt": "2026-10-09T08:06:00+02:00",
+  "source": "Grok daily automation 08:00 Amsterdam",
+  "headline": {
+    "en": "Friday opens Tilburg Dance Days and the free Drowned Land premiere at the Goirkese church; Sunday’s Skazka Quartet at Het Cenakel is the intimate-hall booking.",
+    "ru": "В пятницу стартуют Дни танца Тилбурга и бесплатная премьера «Затопленная земля» в Горкесекерк; в воскресенье камерный квартет Skazka в Het Cenakel — тот зал, который надо бронировать."
+  },
+  "events": [
+    {
+      "id": "dansdagen-tilburg-2026-10-09",
+      "title": { "en": "Tilburg Dance Days", "ru": "Дни танца Тилбурга" },
+      "date": "2026-10-09",
+      "endDate": "2026-10-11",
+      "time": "11:00",
+      "venue": { "en": "Schouwburg & Concertzaal Tilburg, Factorium, De Nieuwe Vorst, Stadsforum", "ru": "Схаубург и концертный зал Тилбурга, Factorium, De Nieuwe Vorst, Стадсфорум" },
+      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "category": "festival",
+      "status": "on-sale",
+      "note": { "en": "First edition, regional Dutch Dance Days. Free DansDome and Guided Rave; ticketed shows elsewhere.", "ru": "Первый выпуск, региональные Нидерландские дни танца. Бесплатные DansDome и Guided Rave; спектакли по билетам." },
+      "url": "https://www.visit-tilburg.com/events/dansdagen-tilburg"
+    },
+    {
+      "id": "skazka-cenakel-2026-10-11",
+      "title": { "en": "S.M.E.T. chamber music: Skazka Quartet", "ru": "Камерная музыка S.M.E.T.: квартет Skazka" },
+      "date": "2026-10-11",
+      "time": "12:30",
+      "venue": { "en": "Het Cenakel", "ru": "Het Cenakel" },
+      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "category": "church",
+      "status": "on-sale",
+      "price": { "en": "€18 incl. coffee or tea; students €10; under 12 free", "ru": "€18 с кофе или чаем; студенты €10; до 12 лет бесплатно" },
+      "note": { "en": "Debussy and Ravel string quartets. Reserve via cenakel.nl.", "ru": "Струнные квартеты Дебюсси и Равеля. Бронь через cenakel.nl." },
+      "url": "https://www.cenakel.nl/agenda/544-s-m-e-t-kamermuziek-19/2026-10-11-12-30"
+    },
+    {
+      "id": "verdronken-land-goirkese-2026-10-09",
+      "title": { "en": "Drowned Land — world premiere", "ru": "Затопленная земля — мировая премьера" },
+      "date": "2026-10-09",
+      "time": "20:00",
+      "venue": { "en": "Sint-Dionysiuskerk (Goirkese church)", "ru": "Синт-Дионисискерк (Горкесекерк)" },
+      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "category": "church",
+      "status": "free",
+      "price": { "en": "Free, voluntary contribution", "ru": "Бесплатно, добровольный взнос" },
+      "note": { "en": "Rob Nederlof, organ, with voice, clarinet and percussion. Fons Mommers.", "ru": "Роб Недерлоф, орган, с голосом, кларнетом и ударными. Фонс Моммерс." },
+      "url": "https://www.brabantorgel.nl/concertagenda/"
+    },
+    {
+      "id": "bokkeryers-little-devil-2026-10-09",
+      "title": { "en": "Bokkeryers", "ru": "Bokkeryers" },
+      "date": "2026-10-09",
+      "time": "20:00",
+      "end": "22:30",
+      "venue": { "en": "Little Devil", "ru": "Little Devil" },
+      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "category": "music",
+      "status": "on-sale",
+      "price": { "en": "€19.30 incl. service", "ru": "€19,30 с сервисным сбором" },
+      "note": { "en": "013 on location. Doors 19:00. Support: Larrikino.", "ru": "Выездной концерт 013. Двери в 19:00. На разогреве Larrikino." },
+      "url": "https://www.013.nl/programma/132811/bokkeryers"
+    },
+    {
+      "id": "gyo-kretz-rooi-harten-2026-11-07",
+      "title": { "en": "Gyo Kretz — candlelight solo", "ru": "Gyo Kretz — сольный концерт при свечах" },
+      "date": "2026-11-07",
+      "time": "20:00",
+      "end": "22:00",
+      "venue": { "en": "Rooi Harten Klooster (WAU Effect)", "ru": "Монастырь Rooi Harten (WAU Effect)" },
+      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "category": "church",
+      "status": "on-sale",
+      "note": { "en": "HipSy lists only 2 tickets left.", "ru": "HipSy пишет, что осталось 2 билета." },
+      "url": "https://hipsy.nl/events?query=Rooi+Harten"
+    }
+  ]
+}
