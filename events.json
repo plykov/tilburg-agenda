@@ -1,178 +1,373 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "a5631bc9-d646-4bf2-aa1d-394ceb7718f1",
-  "generatedAt": "2026-10-13T08:05:00+02:00",
+  "deliveryId": "19e90d80-f90c-4308-bb5d-289f3999e8a7",
+  "generatedAt": "2026-10-14T08:06:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Polyphonic drum'n'bass orchestra at 013 and intimate Scriabin-Sporck chamber at Het Cenakel lead Tuesday; free jazz session at Paradox.",
-    "ru": "Оркестр драм-н-баса Polyphonic в 013 и интимный камерный концерт Скрябин-Спорк в Хет Сенакел возглавляют вторник; бесплатная джаз-сессия в Paradox."
+    "en": "Käärijä brings Eurodisco chaos to 013 while Tom Lanoye channels the fox in the Schouwburg and Club Gewalt immerses De Nieuwe Vorst in NOISE.",
+    "ru": "Кяярия приносит евродиско-хаос в 013, пока Том Ланойе воплощает лиса в Схаубурге, а Club Gewalt погружает Де Ньюве Ворст в NOISE."
   },
   "events": [
     {
-      "id": "polyphonic-013-2026-10-13",
-      "title": { "en": "Polyphonic Orchestra", "ru": "Polyphonic Orchestra" },
-      "date": "2026-10-13",
-      "time": "20:45",
-      "end": "22:45",
-      "venue": { "en": "013", "ru": "013" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
-      "category": "music",
-      "status": "on-sale",
-      "price": { "en": "€28.30", "ru": "€28,30" },
-      "note": { "en": "10-piece drum 'n bass with live violin, brass, covers from Mozart to Chase & Status. Support Maeli. Doors 19:00.", "ru": "10-человечный драм-н-бас с живой скрипкой, духовыми, каверы от Моцарта до Chase & Status. Саппорт Maeli. Двери в 19:00." },
-      "url": "https://www.013.nl/en/events/125728/polyphonic"
-    },
-    {
-      "id": "tussen-scriabin-sporck-cenakel-2026-10-13",
-      "title": { "en": "Between Scriabin and Sporck", "ru": "Между Скрябиным и Спорком" },
-      "date": "2026-10-13",
-      "time": "20:00",
-      "venue": { "en": "Het Cenakel", "ru": "Het Cenakel" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
-      "category": "church",
-      "status": "on-sale",
-      "price": { "en": "€20", "ru": "€20" },
-      "note": { "en": "Piano and violin chamber: Scriabin late works (Sonata 6, Vers la Flamme), Sporck premières (Entrain, Calmo), Fazıl Say. Reserve via email.", "ru": "Камерная музыка для фортепиано и скрипки: поздний Скрябин (Соната 6, Vers la Flamme), премьеры Спорка (Entrain, Calmo), Фазиль Сай. Бронь по email." },
-      "url": "https://www.cenakel.nl/agenda/543-tussen-scriabin-en-sporck/2026-10-13-20-00"
-    },
-    {
-      "id": "jazzsessie-paradox-2026-10-13",
-      "title": { "en": "Jazz session with Ema Catarina Lucas", "ru": "Джаз-сессия с Ema Catarina Lucas" },
-      "date": "2026-10-13",
-      "time": "20:30",
-      "venue": { "en": "Paradox", "ru": "Paradox" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
-      "category": "music",
-      "status": "free",
-      "price": { "en": "Free", "ru": "Бесплатно" },
-      "note": { "en": "Vocal jazz session led by Ema Catarina Lucas. Doors 19:30.", "ru": "Вокальная джаз-сессия под руководством Ema Catarina Lucas. Двери в 19:30." },
-      "url": "https://www.paradoxtilburg.nl/programma/jazzsessie-108/"
-    },
-    {
-      "id": "plug-play-factorium-2026-10-13",
-      "title": { "en": "Plug & Play Open Dance Jam", "ru": "Plug & Play открытый танцевальный джем" },
-      "date": "2026-10-13",
-      "time": "20:00",
-      "end": "22:30",
-      "venue": { "en": "Factorium", "ru": "Factorium" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
-      "category": "family",
-      "status": "free",
-      "price": { "en": "Free", "ru": "Бесплатно" },
-      "note": { "en": "Open freestyle dance jam in the foyer. Weekly Tuesday series.", "ru": "Открытый фристайл танцевальный джем в фойе. Еженедельная серия по вторникам." },
-      "url": "https://tilburg.com/agenda/plug-play-open-dance-jam-bij-factorium-7/"
-    },
-    {
       "id": "kaarija-013-2026-10-14",
-      "title": { "en": "Käärijä — Eurodiskotour", "ru": "Käärijä — Eurodiskotour" },
+      "title": {
+        "en": "Käärijä Eurodiskotour",
+        "ru": "Кяярия Евродискотур"
+      },
       "date": "2026-10-14",
-      "time": "20:00",
-      "venue": { "en": "013", "ru": "013" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "time": "19:00",
+      "end": "22:30",
+      "venue": {
+        "en": "013 Poppodium",
+        "ru": "013 Попподиум"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
       "category": "music",
       "status": "on-sale",
-      "note": { "en": "Finnish Eurovision breakout with Cha Cha Cha. NL exclusive. Doors 19:00.", "ru": "Финский прорыв Евровидения с Cha Cha Cha. Эксклюзив NL. Двери в 19:00." },
-      "url": "https://www.013.nl/en"
+      "price": {
+        "en": "€30.30",
+        "ru": "€30.30"
+      },
+      "note": {
+        "en": "Finnish Eurovision breakout with Cha Cha Cha; support Little Sis Nora. NL exclusive show.",
+        "ru": "Финский прорыв Евровидения с Cha Cha Cha; разогрев Little Sis Nora. Единственное шоу в Нидерландах."
+      },
+      "url": "https://www.013.nl/en/events/128113/k%C3%A4%C3%A4rij%C3%A4"
     },
     {
-      "id": "lunchconcert-glenn-de-roo-2026-10-14",
-      "title": { "en": "Lunch concert — Glenn de Roo", "ru": "Обеденный концерт — Glenn de Roo" },
+      "id": "cato-van-dijck-anton-goudsmit-paradox-2026-10-14",
+      "title": {
+        "en": "Cato van Dijck & Anton Goudsmit",
+        "ru": "Като ван Дейк и Антон Гудсмит"
+      },
+      "date": "2026-10-14",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Парадокс"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€18",
+        "ru": "€18"
+      },
+      "note": {
+        "en": "Indie-pop energy meets playful virtuosic guitar; roots, soul, jazz and folk improvisation.",
+        "ru": "Энергия инди-попа встречается с игривой виртуозной гитарой; рутс, соул, джаз и фолк-импровизация."
+      },
+      "url": "https://www.paradoxtilburg.nl/programma/cato-van-dijck-anton-goudsmit/"
+    },
+    {
+      "id": "reinaard-de-solo-tom-lanoye-schouwburg-2026-10-14",
+      "title": {
+        "en": "ReinAard — the Solo",
+        "ru": "Рейнаард — соло"
+      },
+      "date": "2026-10-14",
+      "time": "20:15",
+      "venue": {
+        "en": "Schouwburg Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "From €21",
+        "ru": "От €21"
+      },
+      "note": {
+        "en": "Tom Lanoye brings his bestseller adaptation of Van den vos Reynaerde to life with voice, mic and a bottle of water.",
+        "ru": "Том Ланойе оживляет свою бестселлерную адаптацию «Ван ден вос Рейнаерде» голосом, микрофоном и бутылкой воды."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/reinaard-de-solo-tom-lanoye"
+    },
+    {
+      "id": "noise-club-gewalt-de-nieuwe-vorst-2026-10-14",
+      "title": {
+        "en": "NOISE",
+        "ru": "NOISE"
+      },
+      "date": "2026-10-14",
+      "time": "20:30",
+      "end": "22:00",
+      "venue": {
+        "en": "De Nieuwe Vorst",
+        "ru": "Де Ньюве Ворст"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "€19",
+        "ru": "€19"
+      },
+      "note": {
+        "en": "Immersive performance opera by Club Gewalt exploring how to function amid constant apocalyptic noise and polycrisis.",
+        "ru": "Иммерсивная перформанс-опера Club Gewalt о том, как функционировать среди постоянной апокалиптической шумовой поликризиса."
+      },
+      "url": "https://clubgewalt.nl/en/project/noise/"
+    },
+    {
+      "id": "glenn-de-roo-lunchconcert-schouwburg-2026-10-14",
+      "title": {
+        "en": "Glenn de Roo Lunchconcert",
+        "ru": "Ланчконцерт Гленна де Роо"
+      },
       "date": "2026-10-14",
       "time": "12:00",
-      "venue": { "en": "Schouwburg & Concertzaal Tilburg", "ru": "Схаубург и концертный зал Тилбурга" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
-      "category": "music",
+      "venue": {
+        "en": "Schouwburg Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
       "status": "free",
-      "price": { "en": "Free", "ru": "Бесплатно" },
-      "note": { "en": "Free lunchtime performance.", "ru": "Бесплатное выступление в обеденное время." },
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Classical guitar lunch concert by Glenn de Roo; Spanish, South American and film music.",
+        "ru": "Ланчконцерт классической гитары Гленна де Роо; испанская, южноамериканская и киномузыка."
+      },
       "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/lunchconcert-glenn-de-roo"
     },
     {
-      "id": "club-gewalt-noise-2026-10-14",
-      "title": { "en": "NOISE — Club Gewalt", "ru": "NOISE — Club Gewalt" },
-      "date": "2026-10-14",
-      "time": "20:30",
-      "venue": { "en": "De Nieuwe Vorst", "ru": "De Nieuwe Vorst" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
-      "category": "theater",
-      "status": "on-sale",
-      "note": { "en": "Music theater performance.", "ru": "Музыкально-театральное представление." },
-      "url": "https://denieuwevorst.nl/programma"
+      "id": "eneco-tour-tilburg-time-trial-2026-10-15",
+      "title": {
+        "en": "Eneco Tour Individual Time Trial",
+        "ru": "Индивидуальная гонка на время Eneco Tour"
+      },
+      "date": "2026-10-15",
+      "time": "10:00",
+      "end": "16:00",
+      "venue": {
+        "en": "Stappegoorweg / Olympiaplein",
+        "ru": "Степпегорвег / Олимпиаплеин"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "festival",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "13.6 km flat ITT for men and women; bike festival and kids race at Olympiaplein. Free roadside viewing.",
+        "ru": "13,6 км плоская ИТТ для мужчин и женщин; велофестиваль и детская гонка на Олимпиаплеин. Бесплатный просмотр вдоль трассы."
+      },
+      "url": "https://enecotour.com/"
     },
     {
       "id": "allie-x-013-2026-10-15",
-      "title": { "en": "Allie X — Serial Diva Tour", "ru": "Allie X — Serial Diva Tour" },
+      "title": {
+        "en": "Allie X Serial Diva Tour",
+        "ru": "Allie X Serial Diva Tour"
+      },
       "date": "2026-10-15",
-      "time": "20:00",
-      "venue": { "en": "013", "ru": "013" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "time": "19:00",
+      "end": "22:30",
+      "venue": {
+        "en": "013 Poppodium",
+        "ru": "013 Попподиум"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
       "category": "music",
       "status": "on-sale",
-      "note": { "en": "Dark synthpop.", "ru": "Тёмный синтпоп." },
-      "url": "https://www.013.nl/en"
+      "price": {
+        "en": "€28.30",
+        "ru": "€28.30"
+      },
+      "note": {
+        "en": "Dark synthpop and chamber-pop from the Canadian Serial Diva; theatrical and unpredictable.",
+        "ru": "Тёмный синт-поп и камерный поп от канадской Serial Diva; театрально и непредсказуемо."
+      },
+      "url": "https://www.013.nl/en/events/128942/allie-x"
     },
     {
-      "id": "eric-vloeimans-2026-10-15",
-      "title": { "en": "Eric Vloeimans — Takes on Licks & Brains", "ru": "Eric Vloeimans — Takes on Licks & Brains" },
+      "id": "filosofische-gesprekken-liefde-jan-verweij-2026-10-15",
+      "title": {
+        "en": "Philosophical Conversations: Love",
+        "ru": "Философские беседы: Любовь"
+      },
+      "date": "2026-10-15",
+      "time": "11:00",
+      "venue": {
+        "en": "Schouwburg Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "€12.50",
+        "ru": "€12.50"
+      },
+      "note": {
+        "en": "Interactive lecture by Jan Verweij on love, inspired by the theatre programme. Coffee afterwards at Benee included.",
+        "ru": "Интерактивная лекция Яна Вервея о любви, вдохновлённая театральной программой. Кофе после в Benee включён."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/filosofische-gesprekken-liefde-jan-verweij"
+    },
+    {
+      "id": "eric-vloeimans-licks-brains-schouwburg-2026-10-15",
+      "title": {
+        "en": "Eric Vloeimans Takes on Licks & Brains",
+        "ru": "Эрик Влуманс берётся за Licks & Brains"
+      },
       "date": "2026-10-15",
       "time": "20:00",
-      "venue": { "en": "Schouwburg & Concertzaal Tilburg", "ru": "Схаубург и концертный зал Тилбурга" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "venue": {
+        "en": "Schouwburg Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
       "category": "music",
       "status": "on-sale",
-      "note": { "en": "Jazz trumpet with Licks & Brains. Also at Paradox.", "ru": "Джазовая труба с Licks & Brains. Также в Paradox." },
+      "note": {
+        "en": "Trumpet master with funk-jazzrock outfit Licks & Brains.",
+        "ru": "Мастер трубы с фанк-джазроковым составом Licks & Brains."
+      },
       "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/eric-vloeimans-takes-on-licks-brains"
     },
     {
       "id": "soft-machine-paradox-2026-10-16",
-      "title": { "en": "Soft Machine", "ru": "Soft Machine" },
+      "title": {
+        "en": "Soft Machine",
+        "ru": "Soft Machine"
+      },
       "date": "2026-10-16",
       "time": "20:30",
-      "venue": { "en": "Paradox", "ru": "Paradox" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "venue": {
+        "en": "Paradox",
+        "ru": "Парадокс"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
       "category": "music",
       "status": "sold-out",
-      "price": { "en": "€28", "ru": "€28" },
-      "note": { "en": "UK progressive jazz-rock legends. Sold out.", "ru": "Легенды британского прогрессивного джаз-рока. Распродано." },
-      "url": "https://www.paradoxtilburg.nl/programma/soft-machine-uk-3/"
+      "price": {
+        "en": "€28 Sold out",
+        "ru": "€28 Распродано"
+      },
+      "note": {
+        "en": "Legendary UK progressive/jazz-rock pioneers.",
+        "ru": "Легендарные британские пионеры прогрессива/джаз-рока."
+      },
+      "url": "https://www.paradoxtilburg.nl/"
     },
     {
-      "id": "spaceship-ensemble-cenakel-2026-10-20",
-      "title": { "en": "Spaceship Ensemble — De Link", "ru": "Spaceship Ensemble — De Link" },
-      "date": "2026-10-20",
-      "time": "20:00",
-      "venue": { "en": "Het Cenakel", "ru": "Het Cenakel" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "id": "philzuid-elgar-stravinsky-schouwburg-2026-10-18",
+      "title": {
+        "en": "Philzuid: Elgar’s Cello Concerto and Stravinsky’s The Firebird",
+        "ru": "Филзюд: Виолончельный концерт Элгара и Жар-птица Стравинского"
+      },
+      "date": "2026-10-18",
+      "time": "14:30",
+      "venue": {
+        "en": "Schouwburg Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
       "category": "church",
       "status": "on-sale",
-      "note": { "en": "Playful theatrical contemporary ensemble with harp, clarinet, guitar. Cybernetic Resonances.", "ru": "Игривый театральный современный ансамбль с арфой, кларнетом, гитарой. Cybernetic Resonances." },
+      "price": {
+        "en": "From €12.50",
+        "ru": "От €12.50"
+      },
+      "note": {
+        "en": "Southern Netherlands orchestra with cellist Liav Kerbel and conductor Emilia Hoving; also Vaughan Williams and Kapralova.",
+        "ru": "Оркестр юга Нидерландов с виолончелистом Лиавом Кербелем и дирижёром Эмилией Ховинг; также Воан-Уильямс и Капралова."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/philzuid-elgar-en-stravinsky"
+    },
+    {
+      "id": "spaceship-ensemble-de-link-cenakel-2026-10-20",
+      "title": {
+        "en": "Spaceship Ensemble — Cybernetic Resonances",
+        "ru": "Spaceship Ensemble — Кибернетические резонансы"
+      },
+      "date": "2026-10-20",
+      "time": "20:00",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Хет Ценакел"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "De Link series: playful theatrical contemporary music by young composers; harp, clarinet, guitar, percussion. Intimate chapel acoustics.",
+        "ru": "Серия De Link: игривая театральная современная музыка молодых композиторов; арфа, кларнет, гитара, ударные. Интимная акустика часовни."
+      },
       "url": "https://www.cenakel.nl/agenda/556-de-link-60/2026-10-20-20-00"
     },
     {
-      "id": "bachcantates-cenakel-2026-10-18",
-      "title": { "en": "Bach cantatas", "ru": "Кантаты Баха" },
-      "date": "2026-10-18",
-      "time": "16:30",
-      "venue": { "en": "Het Cenakel", "ru": "Het Cenakel" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
-      "category": "church",
-      "status": "on-sale",
-      "note": { "en": "BWV 180 Schmücke dich and BWV 131 with soloists and orchestra. Intimate chapel.", "ru": "BWV 180 Schmücke dich и BWV 131 с солистами и оркестром. Интимная часовня." },
-      "url": "https://www.bachcantatestilburg.nl/"
-    },
-    {
-      "id": "verrassende-orgelklanken-2026-10-25",
-      "title": { "en": "Surprising organ sounds — Bach violin and organ", "ru": "Удивительные органные звуки — Бах скрипка и орган" },
+      "id": "verrassende-orgelklanken-cenakel-2026-10-25",
+      "title": {
+        "en": "Surprising Organ Sounds",
+        "ru": "Удивительные органные звуки"
+      },
       "date": "2026-10-25",
       "time": "16:00",
       "end": "18:00",
-      "venue": { "en": "Het Cenakel", "ru": "Het Cenakel" },
-      "city": { "en": "Tilburg", "ru": "Тилбург" },
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Хет Ценакел"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
       "category": "church",
       "status": "on-sale",
-      "price": { "en": "€18", "ru": "€18" },
-      "note": { "en": "Bart Jacobs organ, Ortwin Lowyck violin. Bach chamber adaptations. Youth free.", "ru": "Bart Jacobs орган, Ortwin Lowyck скрипка. Адаптации камерной музыки Баха. Молодёжь бесплатно." },
-      "url": "https://www.brabantorgel.nl/concertagenda/"
+      "price": {
+        "en": "€18",
+        "ru": "€18"
+      },
+      "note": {
+        "en": "Bach on violin and organ with Bart Jacobs and Ortwin Lowyck; historical performance practice in the chapel.",
+        "ru": "Бах на скрипке и органе с Бартом Якобсом и Орвином Ловиком; историческая практика исполнения в часовне."
+      },
+      "url": "https://www.cenakel.nl/agenda"
     }
   ]
 }
