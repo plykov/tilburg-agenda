@@ -1,80 +1,24 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "9b1fcd6b-3508-4ea1-8971-3bff483b6fe5",
-  "generatedAt": "2026-10-16T08:00:00+02:00",
+  "deliveryId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "generatedAt": "2026-10-17T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Naturally 7 and Douwe Bob headline a packed Friday in Tilburg, with Soft Machine sold out at Paradox.",
-    "ru": "Naturally 7 и Douwe Bob возглавляют насыщенную пятницу в Тилбурге, Soft Machine распроданы в Paradox."
+    "en": "Sold-out hardcore launch at 013 and jazz at Paradox tonight; Bach cantatas and Philzuid tomorrow at Cenakel and Schouwburg.",
+    "ru": "Распроданный hardcore-лонч в 013 и джаз в Paradox сегодня; кантаты Баха и Philzuid завтра в Cenakel и Схаубурге."
   },
   "events": [
     {
-      "id": "naturally-7-expect-the-unexpected-2026-10-16",
+      "id": "lets-get-hyper-lekkerfaces-013-2026-10-17",
       "title": {
-        "en": "Naturally 7: Expect the Unexpected",
-        "ru": "Naturally 7: Expect the Unexpected"
+        "en": "Let's get Hyper: Lekkerfaces presents",
+        "ru": "Let's get Hyper: Lekkerfaces presents"
       },
-      "date": "2026-10-16",
-      "time": "20:00",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "Tickets available",
-        "ru": "Билеты в продаже"
-      },
-      "note": {
-        "en": "Vocal band creates full instrumentation without instruments.",
-        "ru": "Вокальная группа создаёт полный инструментарий без инструментов."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/naturally-7-expect-the-unexpected"
-    },
-    {
-      "id": "douwe-bob-013-2026-10-16",
-      "title": {
-        "en": "Douwe Bob",
-        "ru": "Douwe Bob"
-      },
-      "date": "2026-10-16",
-      "time": "20:00",
+      "date": "2026-10-17",
+      "time": "15:00",
       "venue": {
         "en": "013",
         "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€42.30",
-        "ru": "€42.30"
-      },
-      "note": {
-        "en": "Dutch singer-songwriter with new album OUTCAST TOWN; support Kiki Busio.",
-        "ru": "Нидерландский автор-исполнитель с новым альбомом OUTCAST TOWN; поддержка Kiki Busio."
-      },
-      "url": "https://www.013.nl/en/events/125820/douwe-bob"
-    },
-    {
-      "id": "soft-machine-paradox-2026-10-16",
-      "title": {
-        "en": "Soft Machine",
-        "ru": "Soft Machine"
-      },
-      "date": "2026-10-16",
-      "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
       },
       "city": {
         "en": "Tilburg",
@@ -87,19 +31,75 @@
         "ru": "Распродано"
       },
       "note": {
-        "en": "UK jazz-rock legends at Paradox.",
-        "ru": "Британские легенды джаз-рока в Paradox."
+        "en": "Daytime hardcore album launch with live sets by Lekkerfaces, Rooler and more.",
+        "ru": "Дневной hardcore-лонч альбома с живыми сетами Lekkerfaces, Rooler и других."
       },
-      "url": "https://www.paradoxtilburg.nl/programma/soft-machine-uk-3/"
+      "url": "https://www.013.nl/programma/128601/lekkerfaces"
     },
     {
-      "id": "aaf-lies-over-de-liefde-2026-10-16",
+      "id": "nizar-rohana-trio-paradox-2026-10-17",
       "title": {
-        "en": "Aaf & Lies: About Love",
-        "ru": "Aaf & Lies: О любви"
+        "en": "Nizar Rohana Trio",
+        "ru": "Nizar Rohana Trio"
       },
-      "date": "2026-10-16",
-      "time": "20:15",
+      "date": "2026-10-17",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€16",
+        "ru": "€16"
+      },
+      "note": {
+        "en": "Global modern creative jazz with Tony Overwater and Ruven Ruppik.",
+        "ru": "Глобальный современный креативный джаз с Tony Overwater и Ruven Ruppik."
+      },
+      "url": "https://www.paradoxtilburg.nl"
+    },
+    {
+      "id": "dan-patlansky-backstage-bridges-2026-10-17",
+      "title": {
+        "en": "Dan Patlansky",
+        "ru": "Dan Patlansky"
+      },
+      "date": "2026-10-17",
+      "time": "20:30",
+      "venue": {
+        "en": "Backstage Bridges",
+        "ru": "Backstage Bridges"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€18",
+        "ru": "€18"
+      },
+      "note": {
+        "en": "South African blues virtuoso with support Lowdown Spirits.",
+        "ru": "Южноафриканский блюз-виртуоз с поддержкой Lowdown Spirits."
+      },
+      "url": "https://www.podiuminfo.nl/concert/488213/Dan-Patlansky/Backstage-Bridges/"
+    },
+    {
+      "id": "martijn-koning-overprikkeld-2026-10-17",
+      "title": {
+        "en": "Martijn Koning: Overstimulated",
+        "ru": "Martijn Koning: Перестимулированный"
+      },
+      "date": "2026-10-17",
+      "time": "20:30",
       "venue": {
         "en": "Schouwburg & Concertzaal Tilburg",
         "ru": "Схаубург и концертный зал Тилбурга"
@@ -111,108 +111,66 @@
       "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Cabaret about love.",
-        "ru": "Кабаре о любви."
+        "en": "Try-out of new cabaret show; waiting list.",
+        "ru": "Пробный показ нового кабаре; лист ожидания."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/aaf-lies-over-de-liefde"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
-      "id": "humanitys-last-breath-013-2026-10-16",
+      "id": "dirk-scheele-dikkie-dik-goirle-2026-10-17",
       "title": {
-        "en": "Humanity's Last Breath",
-        "ru": "Humanity's Last Breath"
+        "en": "Dirk Scheele & Dikkie Dik: Sing, Jump, Meow",
+        "ru": "Dirk Scheele & Dikkie Dik: Пой, прыгай, мяукай"
       },
-      "date": "2026-10-16",
+      "date": "2026-10-17",
+      "time": "15:00",
       "venue": {
-        "en": "013",
-        "ru": "013"
+        "en": "Cultureel Centrum Jan van Besouw",
+        "ru": "Cultureel Centrum Jan van Besouw"
       },
       "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
+        "en": "Goirle",
+        "ru": "Горле"
       },
-      "category": "music",
+      "category": "family",
       "status": "sold-out",
       "price": {
         "en": "Sold out",
         "ru": "Распродано"
       },
       "note": {
-        "en": "Swedish deathcore; sold out.",
-        "ru": "Шведский deathcore; распродано."
+        "en": "Kids show for ages 2-7; Nationale KinderTheaterweek.",
+        "ru": "Детское шоу для 2-7 лет; Nationale KinderTheaterweek."
       },
-      "url": "https://www.013.nl/en"
+      "url": "https://www.songkick.com/concerts/43273941-dirk-scheele-at-cultureel-centrum-jan-van-besouw"
     },
     {
-      "id": "pina-013-2026-10-16",
+      "id": "george-michael-tribute-waalwijk-2026-10-17",
       "title": {
-        "en": "PIÑA",
-        "ru": "PIÑA"
+        "en": "A Tribute to George Michael: Freedom Forever",
+        "ru": "A Tribute to George Michael: Freedom Forever"
       },
-      "date": "2026-10-16",
+      "date": "2026-10-17",
+      "time": "20:00",
       "venue": {
-        "en": "013",
-        "ru": "013"
+        "en": "Theater De Leest",
+        "ru": "Theater De Leest"
       },
       "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
+        "en": "Waalwijk",
+        "ru": "Ваалвейк"
       },
-      "category": "nightlife",
+      "category": "music",
       "status": "on-sale",
+      "price": {
+        "en": "€37.50",
+        "ru": "€37.50"
+      },
       "note": {
-        "en": "Reggaeton and Latin hits night.",
-        "ru": "Ночь реггетона и латинских хитов."
+        "en": "Lookalike tribute with live band covering George Michael and Wham! hits.",
+        "ru": "Трибьют с живой группой, каверы хитов George Michael и Wham!."
       },
-      "url": "https://www.013.nl/en"
-    },
-    {
-      "id": "bingo-man-jaxx-marina-2026-10-16",
-      "title": {
-        "en": "The Bingo Man live at JAXX Marina",
-        "ru": "The Bingo Man вживую в JAXX Marina"
-      },
-      "date": "2026-10-16",
-      "time": "18:30",
-      "venue": {
-        "en": "JAXX Marina",
-        "ru": "JAXX Marina"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "nightlife",
-      "status": "on-sale",
-      "note": {
-        "en": "Bingo dinner party with prizes and DJ.",
-        "ru": "Бинго-ужин с призами и DJ."
-      },
-      "url": "https://tilburg.com/nieuws/een-gezellige-bingoavond-hollandse-meezingers-een-middag-vol-ijshockey-en-meer-dit-zijn-onze-weekend-uittips/"
-    },
-    {
-      "id": "philzuid-elgar-stravinsky-2026-10-18",
-      "title": {
-        "en": "Philzuid: Elgar’s Cello Concerto and Stravinsky’s The Firebird",
-        "ru": "Philzuid: Виолончельный концерт Элгара и Жар-птица Стравинского"
-      },
-      "date": "2026-10-18",
-      "time": "14:30",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "on-sale",
-      "note": {
-        "en": "Orchestral concert with Elgar and Stravinsky.",
-        "ru": "Оркестровый концерт с Элгаром и Стравинским."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/philzuid-elgar-en-stravinsky"
+      "url": "https://www.deleest.nl"
     },
     {
       "id": "bachcantates-cenakel-2026-10-18",
@@ -233,10 +191,91 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "Bach cantatas at intimate Cenakel chapel.",
-        "ru": "Кантаты Баха в интимной часовне Cenakel."
+        "en": "Bach cantatas in the intimate chapel; check Cenakel for details.",
+        "ru": "Кантаты Баха в интимной часовне; детали на Cenakel."
       },
       "url": "https://www.cenakel.nl/agenda"
+    },
+    {
+      "id": "philzuid-elgar-stravinsky-2026-10-18",
+      "title": {
+        "en": "Philzuid: Elgar’s Cello Concerto and Stravinsky’s The Firebird",
+        "ru": "Philzuid: Виолончельный концерт Элгара и Жар-птица Стравинского"
+      },
+      "date": "2026-10-18",
+      "time": "14:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "Orchestral afternoon with Elgar and Stravinsky.",
+        "ru": "Оркестровый день с Элгаром и Стравинским."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
+    {
+      "id": "meet-the-maker-herfstmarkt-2026-10-18",
+      "title": {
+        "en": "Meet the Maker Autumn Market",
+        "ru": "Meet the Maker Осенняя ярмарка"
+      },
+      "date": "2026-10-18",
+      "time": "12:00",
+      "end": "17:00",
+      "venue": {
+        "en": "De Zeven Geitjes",
+        "ru": "De Zeven Geitjes"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Autumn market with local makers, pumpkins and food at De Zeven Geitjes.",
+        "ru": "Осенняя ярмарка с локальными мастерами, тыквами и едой в De Zeven Geitjes."
+      },
+      "url": "https://tilburg.com/agenda/meet-the-maker-herfstmarkt-in-tilburg/"
+    },
+    {
+      "id": "bredas-mannenkoor-waalwijk-2026-10-18",
+      "title": {
+        "en": "Koninklijk Breda's Mannenkoor",
+        "ru": "Королевский мужской хор Бреды"
+      },
+      "date": "2026-10-18",
+      "time": "14:30",
+      "venue": {
+        "en": "Sint-Jan de Doper",
+        "ru": "Sint-Jan de Doper"
+      },
+      "city": {
+        "en": "Waalwijk",
+        "ru": "Ваалвейк"
+      },
+      "category": "church",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Large male choir concert; free entry, voluntary contribution.",
+        "ru": "Концерт большого мужского хора; бесплатный вход, добровольный взнос."
+      },
+      "url": "https://waalwijk.nieuws.nl"
     },
     {
       "id": "spaceship-ensemble-de-link-cenakel-2026-10-20",
@@ -257,8 +296,8 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Contemporary ensemble Cybernetic Resonances; tickets via delink.nl.",
-        "ru": "Современный ансамбль Cybernetic Resonances; билеты через delink.nl."
+        "en": "Contemporary Cybernetic Resonances; tickets via delink.nl.",
+        "ru": "Современный Cybernetic Resonances; билеты через delink.nl."
       },
       "url": "https://www.cenakel.nl/agenda/556-de-link-60/2026-10-20-20-00"
     },
@@ -285,8 +324,8 @@
         "ru": "€18"
       },
       "note": {
-        "en": "Bach for violin and organ with Bart Jacobs and Ortwin Lowyck.",
-        "ru": "Бах для скрипки и органа с Bart Jacobs и Ortwin Lowyck."
+        "en": "Bach for violin and organ: Bart Jacobs and Ortwin Lowyck.",
+        "ru": "Бах для скрипки и органа: Bart Jacobs и Ortwin Lowyck."
       },
       "url": "https://www.cenakel.nl/agenda"
     }
