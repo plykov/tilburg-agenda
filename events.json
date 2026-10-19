@@ -1,134 +1,24 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "a0ab7327-df6d-499e-877d-fa8aa6bb2f28",
-  "generatedAt": "2026-10-18T08:05:00+02:00",
+  "deliveryId": "3c693dcc-88be-456e-b010-7e292347ea21",
+  "generatedAt": "2026-10-19T08:05:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Philzuid Elgar and Firebird at Schouwburg, Artvark jazz at Paradox, Bach cantatas at Cenakel, and sold-out Beach Boys tribute at 013 today.",
-    "ru": "Philzuid с Элгаром и Жар-птицей в Схаубурге, джаз Artvark в Paradox, кантаты Баха в Cenakel и распроданный трибьют Beach Boys в 013 сегодня."
+    "en": "Quiet Monday: free autumn holiday activities on Stadsforum, ICK Dans L.A.V.A. at Schouwburg, and looking ahead to jazz and film festival.",
+    "ru": "Тихий понедельник: бесплатные осенние каникулы на Stadsforum, ICK Dans L.A.V.A. в Схаубурге и заглядывая в джаз и кинофестиваль."
   },
   "events": [
     {
-      "id": "philzuid-elgar-stravinsky-2026-10-18",
+      "id": "herfstvakantie-stadsforum-2026-10-19",
       "title": {
-        "en": "Philzuid: Elgar’s Cello Concerto and Stravinsky’s The Firebird",
-        "ru": "Philzuid: Виолончельный концерт Элгара и Жар-птица Стравинского"
+        "en": "Autumn Holiday on the Stadsforum: crafting, dancing, searching and more",
+        "ru": "Осенние каникулы на Stadsforum: поделки, танцы, поиски и больше"
       },
-      "date": "2026-10-18",
-      "time": "14:30",
-      "end": "16:20",
+      "date": "2026-10-19",
+      "endDate": "2026-10-23",
       "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "on-sale",
-      "price": {
-        "en": "€32–42",
-        "ru": "€32–42"
-      },
-      "note": {
-        "en": "Orchestral afternoon with Elgar cello concerto (Liav Kerbel) and Stravinsky Firebird; some tiers limited.",
-        "ru": "Оркестровый полдень с виолончельным концертом Элгара (Liav Kerbel) и Жар-птицей Стравинского; некоторые ряды ограничены."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/philzuid-elgar-en-stravinsky"
-    },
-    {
-      "id": "artvark-saxophone-quartet-paradox-2026-10-18",
-      "title": {
-        "en": "Artvark Saxophone Quartet",
-        "ru": "Artvark Saxophone Quartet"
-      },
-      "date": "2026-10-18",
-      "time": "15:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€18",
-        "ru": "€18"
-      },
-      "note": {
-        "en": "Contemporary jazz saxophone quartet performing Four Fathers; doors 15:00.",
-        "ru": "Современный джазовый квартет саксофонов с программой Four Fathers; двери в 15:00."
-      },
-      "url": "https://www.paradoxtilburg.nl"
-    },
-    {
-      "id": "bachcantates-cenakel-2026-10-18",
-      "title": {
-        "en": "Bach Cantatas",
-        "ru": "Кантаты Баха"
-      },
-      "date": "2026-10-18",
-      "time": "16:30",
-      "venue": {
-        "en": "Het Cenakel",
-        "ru": "Het Cenakel"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "on-sale",
-      "note": {
-        "en": "Bach BWV 131 and 180, Rheinberger Abendlied, Telemann concerto; reserve via Bachcantates Tilburg.",
-        "ru": "Бах BWV 131 и 180, Abendlied Райнбергера, концерт Телемана; резерв через Bachcantates Tilburg."
-      },
-      "url": "https://www.cenakel.nl/agenda/564-bachcantates-10/2026-10-18-16-30"
-    },
-    {
-      "id": "beach-boys-best-013-2026-10-18",
-      "title": {
-        "en": "Beach Boys' Best",
-        "ru": "Beach Boys' Best"
-      },
-      "date": "2026-10-18",
-      "time": "21:00",
-      "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "price": {
-        "en": "Sold out",
-        "ru": "Распродано"
-      },
-      "note": {
-        "en": "Beach Boys tribute winners of Battle of the Bands; feelgood multi-voice show.",
-        "ru": "Трибьют Beach Boys, победители Battle of the Bands; feelgood-шоу с многоголосием."
-      },
-      "url": "https://www.013.nl/en/events/125559/beach-boys-best"
-    },
-    {
-      "id": "meet-the-maker-herfstmarkt-2026-10-18",
-      "title": {
-        "en": "Meet the Maker Autumn Market",
-        "ru": "Осенняя ярмарка Meet the Maker"
-      },
-      "date": "2026-10-18",
-      "time": "12:00",
-      "end": "17:00",
-      "venue": {
-        "en": "De Zeven Geitjes",
-        "ru": "De Zeven Geitjes"
+        "en": "Stadsforum",
+        "ru": "Stadsforum"
       },
       "city": {
         "en": "Tilburg",
@@ -141,10 +31,62 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Autumn market with 35 local makers, handmade goods, pumpkins and food.",
-        "ru": "Осенняя ярмарка с 35 локальными мастерами, handmade, тыквами и едой."
+        "en": "Daily free kids activities outdoors (moved inside if rain); different program each day.",
+        "ru": "Ежедневные бесплатные активности для детей на улице (внутрь при дожде); разная программа каждый день."
       },
-      "url": "https://tilburg.com/agenda/meet-the-maker-herfstmarkt-in-tilburg/"
+      "url": "https://tilburg.com/nieuws/herfstvakantie-op-het-stadsforum-knutselen-dansen-speuren-en-meer/"
+    },
+    {
+      "id": "ick-dans-lava-schouwburg-2026-10-19",
+      "title": {
+        "en": "ICK Dans Amsterdam: L.A.V.A.",
+        "ru": "ICK Dans Amsterdam: L.A.V.A."
+      },
+      "date": "2026-10-19",
+      "time": "15:00",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Modern dance by ICK Dans Amsterdam & Compagnia Zappalà Danza.",
+        "ru": "Современный танец ICK Dans Amsterdam и Compagnia Zappalà Danza."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/ick-dans-amsterdam-lava"
+    },
+    {
+      "id": "jazzsessie-nafei-adili-paradox-2026-10-20",
+      "title": {
+        "en": "Jazz Session led by Nafei Adili",
+        "ru": "Джаз-сессия под руководством Nafei Adili"
+      },
+      "date": "2026-10-20",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Free Tuesday jazz session; opens with Nafei Adili Trio, then open jam. Doors 19:30.",
+        "ru": "Бесплатная вторничная джаз-сессия; открытие Nafei Adili Trio, затем открытый джем. Двери в 19:30."
+      },
+      "url": "https://www.paradoxtilburg.nl"
     },
     {
       "id": "spaceship-ensemble-de-link-cenakel-2026-10-20",
@@ -165,10 +107,34 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Contemporary octet Cybernetic Resonances; tickets via delink.nl.",
-        "ru": "Современный октет Cybernetic Resonances; билеты через delink.nl."
+        "en": "Contemporary octet from The Hague at Cenakel chapel; tickets via delink.nl.",
+        "ru": "Современный октет из Гааги в часовне Cenakel; билеты через delink.nl."
       },
       "url": "https://www.cenakel.nl/agenda/556-de-link-60/2026-10-20-20-00"
+    },
+    {
+      "id": "013iff-cinecitta-2026-10-20",
+      "title": {
+        "en": "013 International Film Festival",
+        "ru": "013 International Film Festival"
+      },
+      "date": "2026-10-20",
+      "endDate": "2026-10-25",
+      "venue": {
+        "en": "Cinecitta",
+        "ru": "Cinecitta"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "8th edition: 18 films from 15 countries, Q&As, live film music. Festival pass €87.50.",
+        "ru": "8-й выпуск: 18 фильмов из 15 стран, Q&A, живая киномузыка. Пасс фестиваля €87.50."
+      },
+      "url": "https://cinecittatilburg.nl/en/events/013iff-2026/"
     },
     {
       "id": "emile-parisien-paradox-2026-10-21",
@@ -220,13 +186,13 @@
         "en": "From intimate ballads to electrifying dance anthems.",
         "ru": "От интимных баллад до электризующих танцевальных антемов."
       },
-      "url": "https://www.013.nl/en"
+      "url": "https://www.013.nl/"
     },
     {
       "id": "meau-schouwburg-2026-10-21",
       "title": {
-        "en": "MEAU Theatertour",
-        "ru": "MEAU Theatertour"
+        "en": "MEAU Theater Tour",
+        "ru": "MEAU театральный тур"
       },
       "date": "2026-10-21",
       "time": "20:15",
@@ -241,10 +207,10 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Dutch pop theater tour.",
-        "ru": "Голландский поп-театральный тур."
+        "en": "Dutch pop artist on theater tour.",
+        "ru": "Голландская поп-артистка на театральном туре."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/meau-theatertour"
     },
     {
       "id": "verrassende-orgelklanken-cenakel-2026-10-25",
@@ -270,8 +236,8 @@
         "ru": "€18"
       },
       "note": {
-        "en": "Bach for violin and organ by Bart Jacobs and Ortwin Lowyck.",
-        "ru": "Бах для скрипки и органа в исполнении Bart Jacobs и Ortwin Lowyck."
+        "en": "Bach for violin and organ: Bart Jacobs (organ) and Ortwin Lowyck (violin).",
+        "ru": "Бах для скрипки и органа: Bart Jacobs (орган) и Ortwin Lowyck (скрипка)."
       },
       "url": "https://www.cenakel.nl/agenda/563-verrassende-orgelklanken-10/2026-10-25-16-00"
     }
