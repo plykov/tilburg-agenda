@@ -1,52 +1,25 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "3c693dcc-88be-456e-b010-7e292347ea21",
-  "generatedAt": "2026-10-19T08:05:00+02:00",
+  "deliveryId": "8b06be93-e3d9-42fa-9afc-fca6578387f9",
+  "generatedAt": "2026-10-20T08:05:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Quiet Monday: free autumn holiday activities on Stadsforum, ICK Dans L.A.V.A. at Schouwburg, and looking ahead to jazz and film festival.",
-    "ru": "Тихий понедельник: бесплатные осенние каникулы на Stadsforum, ICK Dans L.A.V.A. в Схаубурге и заглядывая в джаз и кинофестиваль."
+    "en": "Film festival opens tonight with Cenakel chamber concert and free jazz session lighting up Tilburg.",
+    "ru": "Кинофестиваль открывается сегодня вечером, камерный концерт в Cenakel и бесплатная джаз-сессия освещают Тилбург."
   },
   "events": [
     {
-      "id": "herfstvakantie-stadsforum-2026-10-19",
+      "id": "013iff-cinecitta-2026-10-20",
       "title": {
-        "en": "Autumn Holiday on the Stadsforum: crafting, dancing, searching and more",
-        "ru": "Осенние каникулы на Stadsforum: поделки, танцы, поиски и больше"
+        "en": "013 International Film Festival",
+        "ru": "013 International Film Festival"
       },
-      "date": "2026-10-19",
-      "endDate": "2026-10-23",
+      "date": "2026-10-20",
+      "endDate": "2026-10-25",
+      "time": "20:00",
       "venue": {
-        "en": "Stadsforum",
-        "ru": "Stadsforum"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "family",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Daily free kids activities outdoors (moved inside if rain); different program each day.",
-        "ru": "Ежедневные бесплатные активности для детей на улице (внутрь при дожде); разная программа каждый день."
-      },
-      "url": "https://tilburg.com/nieuws/herfstvakantie-op-het-stadsforum-knutselen-dansen-speuren-en-meer/"
-    },
-    {
-      "id": "ick-dans-lava-schouwburg-2026-10-19",
-      "title": {
-        "en": "ICK Dans Amsterdam: L.A.V.A.",
-        "ru": "ICK Dans Amsterdam: L.A.V.A."
-      },
-      "date": "2026-10-19",
-      "time": "15:00",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
+        "en": "Cinecitta",
+        "ru": "Cinecitta"
       },
       "city": {
         "en": "Tilburg",
@@ -55,10 +28,34 @@
       "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Modern dance by ICK Dans Amsterdam & Compagnia Zappalà Danza.",
-        "ru": "Современный танец ICK Dans Amsterdam и Compagnia Zappalà Danza."
+        "en": "Opens with Moscas (Mexican) + Q&A with screenwriter Vanesa Garnica. 18 films from 15 countries.",
+        "ru": "Открытие фильмом Moscas (Мексика) + Q&A со сценаристкой Vanesa Garnica. 18 фильмов из 15 стран."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/ick-dans-amsterdam-lava"
+      "url": "https://tilburg.com/agenda/013-international-film-festival-bij-cinecitta/"
+    },
+    {
+      "id": "spaceship-ensemble-de-link-cenakel-2026-10-20",
+      "title": {
+        "en": "De Link: Spaceship Ensemble",
+        "ru": "De Link: Spaceship Ensemble"
+      },
+      "date": "2026-10-20",
+      "time": "20:00",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Het Cenakel"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Contemporary octet (harp, clarinet, guitar, percussion) plays Cybernetic Resonances. Tickets via delink.nl.",
+        "ru": "Современный октет (арфа, кларнет, гитара, ударные) играет Cybernetic Resonances. Билеты через delink.nl."
+      },
+      "url": "https://www.cenakel.nl/agenda/556-de-link-60/2026-10-20-20-00"
     },
     {
       "id": "jazzsessie-nafei-adili-paradox-2026-10-20",
@@ -83,46 +80,22 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Free Tuesday jazz session; opens with Nafei Adili Trio, then open jam. Doors 19:30.",
-        "ru": "Бесплатная вторничная джаз-сессия; открытие Nafei Adili Trio, затем открытый джем. Двери в 19:30."
+        "en": "Free Tuesday open jazz session. Doors 19:30.",
+        "ru": "Бесплатная вторничная открытая джаз-сессия. Двери в 19:30."
       },
-      "url": "https://www.paradoxtilburg.nl"
+      "url": "https://www.paradoxtilburg.nl/"
     },
     {
-      "id": "spaceship-ensemble-de-link-cenakel-2026-10-20",
+      "id": "lava-ick-dans-schouwburg-2026-10-20",
       "title": {
-        "en": "De Link: Spaceship Ensemble",
-        "ru": "De Link: Spaceship Ensemble"
+        "en": "ICK Dans Amsterdam: L.A.V.A.",
+        "ru": "ICK Dans Amsterdam: L.A.V.A."
       },
       "date": "2026-10-20",
-      "time": "20:00",
+      "time": "20:15",
       "venue": {
-        "en": "Het Cenakel",
-        "ru": "Het Cenakel"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Contemporary octet from The Hague at Cenakel chapel; tickets via delink.nl.",
-        "ru": "Современный октет из Гааги в часовне Cenakel; билеты через delink.nl."
-      },
-      "url": "https://www.cenakel.nl/agenda/556-de-link-60/2026-10-20-20-00"
-    },
-    {
-      "id": "013iff-cinecitta-2026-10-20",
-      "title": {
-        "en": "013 International Film Festival",
-        "ru": "013 International Film Festival"
-      },
-      "date": "2026-10-20",
-      "endDate": "2026-10-25",
-      "venue": {
-        "en": "Cinecitta",
-        "ru": "Cinecitta"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
@@ -131,10 +104,91 @@
       "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "8th edition: 18 films from 15 countries, Q&As, live film music. Festival pass €87.50.",
-        "ru": "8-й выпуск: 18 фильмов из 15 стран, Q&A, живая киномузыка. Пасс фестиваля €87.50."
+        "en": "Intense modern dance on attraction and repulsion; dancers erupt like lava.",
+        "ru": "Интенсивный современный танец о притяжении и отталкивании; танцоры извергаются как лава."
       },
-      "url": "https://cinecittatilburg.nl/en/events/013iff-2026/"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/ick-dans-amsterdam-lava"
+    },
+    {
+      "id": "bijna-een-leven-toneelgroep-maastricht-2026-10-20",
+      "title": {
+        "en": "Almost a Life",
+        "ru": "Почти жизнь"
+      },
+      "date": "2026-10-20",
+      "time": "20:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Toneelgroep Maastricht production.",
+        "ru": "Постановка Toneelgroep Maastricht."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/bijna-een-leven-toneelgroep-maastricht"
+    },
+    {
+      "id": "zin-in-alles-factorium-2026-10-20",
+      "title": {
+        "en": "Want-Everything Day",
+        "ru": "День «Хочу всё»"
+      },
+      "date": "2026-10-20",
+      "time": "10:00",
+      "end": "15:00",
+      "venue": {
+        "en": "Factorium",
+        "ru": "Factorium"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Try everything Factorium offers; open day for all ages.",
+        "ru": "Попробуйте всё, что предлагает Factorium; открытый день для всех возрастов."
+      },
+      "url": "https://www.factorium.nl/agenda"
+    },
+    {
+      "id": "herfstvakantie-stadsforum-2026-10-19",
+      "title": {
+        "en": "Autumn Holiday Activities on Stadsforum",
+        "ru": "Осенние каникулы на Stadsforum"
+      },
+      "date": "2026-10-19",
+      "endDate": "2026-10-23",
+      "venue": {
+        "en": "Stadsforum",
+        "ru": "Stadsforum"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Free daily kids activities (crafting, dancing, treasure hunt); outdoors or indoors if rain.",
+        "ru": "Бесплатные ежедневные детские активности (поделки, танцы, поиск сокровищ); на улице или внутри при дожде."
+      },
+      "url": "https://tilburg.com/nieuws/herfstvakantie-op-het-stadsforum-knutselen-dansen-speuren-en-meer/"
     },
     {
       "id": "emile-parisien-paradox-2026-10-21",
@@ -159,34 +213,10 @@
         "ru": "€23"
       },
       "note": {
-        "en": "Global modern creative jazz with Linda May Han Oh, Yaron Herman, Prabhu Edouard.",
-        "ru": "Глобальный современный джаз с Linda May Han Oh, Yaron Herman, Prabhu Edouard."
+        "en": "Modern creative jazz with Linda May Han Oh, Yaron Herman & Prabhu Edouard.",
+        "ru": "Современный креативный джаз с Linda May Han Oh, Yaron Herman и Prabhu Edouard."
       },
-      "url": "https://www.paradoxtilburg.nl"
-    },
-    {
-      "id": "loboda-013-2026-10-21",
-      "title": {
-        "en": "LOBODA",
-        "ru": "LOBODA"
-      },
-      "date": "2026-10-21",
-      "time": "19:00",
-      "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "From intimate ballads to electrifying dance anthems.",
-        "ru": "От интимных баллад до электризующих танцевальных антемов."
-      },
-      "url": "https://www.013.nl/"
+      "url": "https://www.paradoxtilburg.nl/"
     },
     {
       "id": "meau-schouwburg-2026-10-21",
@@ -207,10 +237,33 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Dutch pop artist on theater tour.",
-        "ru": "Голландская поп-артистка на театральном туре."
+        "en": "Dutch pop on theater tour.",
+        "ru": "Голландский поп на театральном туре."
       },
       "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/meau-theatertour"
+    },
+    {
+      "id": "loboda-013-2026-10-21",
+      "title": {
+        "en": "LOBODA",
+        "ru": "LOBODA"
+      },
+      "date": "2026-10-21",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "From intimate ballads to electrifying dance anthems.",
+        "ru": "От интимных баллад до электризующих танцевальных гимнов."
+      },
+      "url": "https://www.013.nl/"
     },
     {
       "id": "verrassende-orgelklanken-cenakel-2026-10-25",
@@ -236,10 +289,10 @@
         "ru": "€18"
       },
       "note": {
-        "en": "Bach for violin and organ: Bart Jacobs (organ) and Ortwin Lowyck (violin).",
-        "ru": "Бах для скрипки и органа: Bart Jacobs (орган) и Ortwin Lowyck (скрипка)."
+        "en": "Bach for violin and organ: Bart Jacobs (organ), Ortwin Lowyck (violin).",
+        "ru": "Бах для скрипки и органа: Bart Jacobs (орган), Ortwin Lowyck (скрипка)."
       },
-      "url": "https://www.cenakel.nl/agenda/563-verrassende-orgelklanken-10/2026-10-25-16-00"
+      "url": "https://www.cenakel.nl/agenda"
     }
   ]
 }
