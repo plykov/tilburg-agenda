@@ -1,225 +1,13 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "9a5fd15b-bba1-4401-9bd4-30a4a8cf54a8",
-  "generatedAt": "2026-10-21T08:07:00+02:00",
+  "deliveryId": "86a7dc25-c4a3-4b45-8f59-ba852a06afe3",
+  "generatedAt": "2026-10-22T08:05:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "LOBODA headlines 013 while MEAU takes the Schouwburg and free classical lunch opens the day in Tilburg.",
-    "ru": "LOBODA выступает в 013, пока MEAU берет Схаубург, а бесплатный классический ланч открывает день в Тилбурге."
+    "en": "IOS and Young Analogues headline Thursday while autumn family activities fill Stadsforum and Blowbeat is cancelled.",
+    "ru": "IOS и Young Analogues возглавляют четверг, пока осенние семейные мероприятия заполняют Стадсфорум, а Blowbeat отменен."
   },
   "events": [
-    {
-      "id": "alp-celik-lunchconcert-schouwburg-2026-10-21",
-      "title": {
-        "en": "Alp Çelik Lunch Concert",
-        "ru": "Ланч-концерт Alp Çelik"
-      },
-      "date": "2026-10-21",
-      "time": "11:00",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Free classical lunch concert.",
-        "ru": "Бесплатный классический ланч-концерт."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
-    },
-    {
-      "id": "loboda-013-2026-10-21",
-      "title": {
-        "en": "LOBODA",
-        "ru": "LOBODA"
-      },
-      "date": "2026-10-21",
-      "time": "20:30",
-      "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "From €64.80",
-        "ru": "От €64.80"
-      },
-      "note": {
-        "en": "From intimate ballads to electrifying dance anthems; doors 19:00.",
-        "ru": "От интимных баллад до электризующих танцевальных гимнов; двери в 19:00."
-      },
-      "url": "https://www.013.nl/en/events/145764/loboda"
-    },
-    {
-      "id": "meau-schouwburg-2026-10-21",
-      "title": {
-        "en": "MEAU Theater Tour",
-        "ru": "MEAU театральный тур"
-      },
-      "date": "2026-10-21",
-      "time": "20:15",
-      "end": "22:25",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "From €36",
-        "ru": "От €36"
-      },
-      "note": {
-        "en": "Dutch pop singer with band in intimate theater setting.",
-        "ru": "Голландская поп-певица с группой в интимной театральной обстановке."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/meau-theatertour"
-    },
-    {
-      "id": "young-analogues-schouwburg-2026-10-21",
-      "title": {
-        "en": "The Young Analogues: Best of The Beatles '62-'65",
-        "ru": "The Young Analogues: Лучшее из The Beatles '62-'65"
-      },
-      "date": "2026-10-21",
-      "time": "20:15",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Tribute to early Beatles.",
-        "ru": "Трибьют ранним Beatles."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
-    },
-    {
-      "id": "emile-parisien-paradox-2026-10-21",
-      "title": {
-        "en": "Émile Parisien Floating Quartet",
-        "ru": "Émile Parisien Floating Quartet"
-      },
-      "date": "2026-10-21",
-      "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "price": {
-        "en": "Sold out",
-        "ru": "Распродано"
-      },
-      "note": {
-        "en": "Modern creative jazz with Linda May Han Oh, Yaron Herman & Prabhu Edouard; doors 19:30.",
-        "ru": "Современный креативный джаз с Linda May Han Oh, Yaron Herman и Prabhu Edouard; двери в 19:30."
-      },
-      "url": "https://www.paradoxtilburg.nl/"
-    },
-    {
-      "id": "culs-cult-013-2026-10-21",
-      "title": {
-        "en": "Cul's Cult: De Mis + Omstander",
-        "ru": "Cul's Cult: De Mis + Omstander"
-      },
-      "date": "2026-10-21",
-      "venue": {
-        "en": "013 on location (Cul)",
-        "ru": "013 на локации (Cul)"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "nightlife",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Free punk/garage night.",
-        "ru": "Бесплатная панк/гаражная ночь."
-      },
-      "url": "https://www.013.nl/en"
-    },
-    {
-      "id": "before-the-story-starts-nieuwe-vorst-2026-10-21",
-      "title": {
-        "en": "Before the Story Starts",
-        "ru": "До начала истории"
-      },
-      "date": "2026-10-21",
-      "time": "20:30",
-      "venue": {
-        "en": "De Nieuwe Vorst",
-        "ru": "De Nieuwe Vorst"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Theater by Urland.",
-        "ru": "Театр от Urland."
-      },
-      "url": "https://www.denieuwevorst.nl/programma"
-    },
-    {
-      "id": "dwardsdenkers-nieuwe-vorst-2026-10-21",
-      "title": {
-        "en": "Philosophical Reading Group for Young Adults",
-        "ru": "Философская читательская группа для молодых взрослых"
-      },
-      "date": "2026-10-21",
-      "time": "19:30",
-      "venue": {
-        "en": "De Nieuwe Vorst",
-        "ru": "De Nieuwe Vorst"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Dwarsdenkers philosophical reading group.",
-        "ru": "Философская читательская группа Dwarsdenkers."
-      },
-      "url": "https://www.denieuwevorst.nl/programma"
-    },
     {
       "id": "ios-clubtour-013-2026-10-22",
       "title": {
@@ -228,6 +16,7 @@
       },
       "date": "2026-10-22",
       "time": "20:00",
+      "end": "22:30",
       "venue": {
         "en": "013",
         "ru": "013"
@@ -243,38 +32,240 @@
         "ru": "€29.30"
       },
       "note": {
-        "en": "Nederpop with a rough edge; doors 19:00.",
-        "ru": "Nederpop с грубым краем; двери в 19:00."
+        "en": "Nederpop with a rough edge; support Nienke Leon; doors 19:00.",
+        "ru": "Nederpop с грубым краем; саппорт Nienke Leon; двери в 19:00."
       },
-      "url": "https://www.013.nl/en/events/127222/ios"
+      "url": "https://www.013.nl/programma"
     },
     {
-      "id": "gyo-kretz-rooi-harten-2026-11-07",
+      "id": "young-analogues-schouwburg-2026-10-22",
       "title": {
-        "en": "Gyo Kretz Solo",
-        "ru": "Gyo Kretz соло"
+        "en": "The Young Analogues: Best of The Beatles '62-'65",
+        "ru": "The Young Analogues: Лучшее из The Beatles '62-'65"
       },
-      "date": "2026-11-07",
+      "date": "2026-10-22",
       "time": "20:00",
       "venue": {
-        "en": "Rooi Harten Klooster (WAU Effect)",
-        "ru": "Rooi Harten Klooster (WAU Effect)"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "sold-out",
+      "status": "on-sale",
       "price": {
-        "en": "Sold out",
-        "ru": "Распродано"
+        "en": "From €34",
+        "ru": "От €34"
       },
       "note": {
-        "en": "Intimate candlelight solo performance; via HipSy.",
-        "ru": "Интимное сольное выступление при свечах; через HipSy."
+        "en": "Early Beatles repertoire with vintage instruments in Concertzaal.",
+        "ru": "Ранний репертуар Beatles на винтажных инструментах в концертном зале."
       },
-      "url": "https://hipsy.nl"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
+    {
+      "id": "henry-van-loon-keanu-schouwburg-2026-10-22",
+      "title": {
+        "en": "Henry van Loon: Keanu",
+        "ru": "Henry van Loon: Keanu"
+      },
+      "date": "2026-10-22",
+      "time": "20:15",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Cabaret; waiting list reported on some sources.",
+        "ru": "Кабаре; список ожидания по некоторым источникам."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
+    {
+      "id": "hotel-mira-hall-of-fame-2026-10-22",
+      "title": {
+        "en": "Dutch Criminal Record & Hotel Mira",
+        "ru": "Dutch Criminal Record & Hotel Mira"
+      },
+      "date": "2026-10-22",
+      "time": "19:30",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Alternative night at Hall of Fame.",
+        "ru": "Альтернативный вечер в Hall of Fame."
+      },
+      "url": "https://www.podiuminfo.nl/concertagenda/podium/hall-of-fame/"
+    },
+    {
+      "id": "heartbeats-nieuwe-vorst-2026-10-22",
+      "title": {
+        "en": "Heartbeats",
+        "ru": "Heartbeats"
+      },
+      "date": "2026-10-22",
+      "time": "20:30",
+      "venue": {
+        "en": "De Nieuwe Vorst",
+        "ru": "De Nieuwe Vorst"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Theater/performance by Theater Rotterdam / Nastaran Razawi Khorasani.",
+        "ru": "Театр/перформанс от Theater Rotterdam / Nastaran Razawi Khorasani."
+      },
+      "url": "https://denieuwevorst.nl/programma"
+    },
+    {
+      "id": "polly-on-thursday-2026-10-22",
+      "title": {
+        "en": "Polly on Thursday",
+        "ru": "Polly on Thursday"
+      },
+      "date": "2026-10-22",
+      "time": "21:00",
+      "end": "02:00",
+      "venue": {
+        "en": "Polly Maggoo",
+        "ru": "Polly Maggoo"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "nightlife",
+      "status": "on-sale",
+      "note": {
+        "en": "Student night out every Thursday.",
+        "ru": "Студенческий выходной каждый четверг."
+      },
+      "url": "https://www.uitagenda.nl/evenement/87492/polly-on-thursday"
+    },
+    {
+      "id": "herfstvakantie-stadsforum-2026-10-22",
+      "title": {
+        "en": "Autumn Holiday at Stadsforum: crafts, dance, search",
+        "ru": "Осенние каникулы на Стадсфоруме: рукоделие, танцы, поиск"
+      },
+      "date": "2026-10-22",
+      "endDate": "2026-10-23",
+      "venue": {
+        "en": "Stadsforum",
+        "ru": "Стадсфорум"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Daily free kids activities 19-23 Oct; outdoor where possible.",
+        "ru": "Ежедневные бесплатные детские мероприятия 19-23 октября; на улице по возможности."
+      },
+      "url": "https://tilburg.com/agenda/herfstvakantie-op-het-stadsforum-knutselen-dansen-speuren-en-meer/"
+    },
+    {
+      "id": "blowbeat-paradox-2026-10-22",
+      "title": {
+        "en": "Blowbeat",
+        "ru": "Blowbeat"
+      },
+      "date": "2026-10-22",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "cancelled",
+      "note": {
+        "en": "Cancelled; funk/jazzrock night.",
+        "ru": "Отменено; вечер фанк/джаз-рока."
+      },
+      "url": "https://www.paradoxtilburg.nl/agenda/"
+    },
+    {
+      "id": "verrassende-orgelklanken-cenakel-2026-10-25",
+      "title": {
+        "en": "Surprising Organ Sounds",
+        "ru": "Удивительные органные звуки"
+      },
+      "date": "2026-10-25",
+      "time": "16:00",
+      "end": "18:00",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Het Cenakel"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "price": {
+        "en": "€18",
+        "ru": "€18"
+      },
+      "note": {
+        "en": "Bart Jacobs organ + Ortwin Lowyck violin: Bach chamber works.",
+        "ru": "Bart Jacobs орган + Ortwin Lowyck скрипка: камерные произведения Баха."
+      },
+      "url": "https://www.cenakel.nl/agenda"
+    },
+    {
+      "id": "the-hu-013-2026-10-24",
+      "title": {
+        "en": "The HU: Warrior Chant Tour",
+        "ru": "The HU: Warrior Chant Tour"
+      },
+      "date": "2026-10-24",
+      "time": "19:00",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Mongolian Hunnu Rock; last tickets.",
+        "ru": "Монгольский Hunnu Rock; последние билеты."
+      },
+      "url": "https://www.013.nl/programma"
     }
   ]
 }
