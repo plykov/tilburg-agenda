@@ -1,235 +1,13 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "150327da-ca75-4178-a1d4-04033f1f95a3",
-  "generatedAt": "2026-10-23T08:05:00+02:00",
+  "deliveryId": "b9b806f2-5c3b-47e4-a14d-a574c2130515",
+  "generatedAt": "2026-10-24T08:00:00+02:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Sold-out MICHA and Maria Mendes lead Friday while Herman van Veen opens his Vandaag run and autumn kids wrap at Stadsforum.",
-    "ru": "Распроданный MICHA и Maria Mendes возглавляют пятницу, пока Herman van Veen открывает серию Vandaag, а осенние детские мероприятия завершаются на Стадсфоруме."
+    "en": "Wine Festival of the Low Countries opens the Koepelhal while The HU sells out 013 and Herman van Veen continues Vandaag.",
+    "ru": "Винный фестиваль Низких Земель открывает Коепелхал, пока The HU распродаёт 013, а Herman van Veen продолжает Vandaag."
   },
   "events": [
-    {
-      "id": "micha-013-2026-10-23",
-      "title": {
-        "en": "MICHA",
-        "ru": "MICHA"
-      },
-      "date": "2026-10-23",
-      "time": "21:00",
-      "end": "22:30",
-      "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "price": {
-        "en": "€25.30",
-        "ru": "€25.30"
-      },
-      "note": {
-        "en": "Singer-songwriter; support Jim Gardner 20:00; doors 19:00. Resale available.",
-        "ru": "Автор-исполнитель; саппорт Jim Gardner в 20:00; двери в 19:00. Доступна перепродажа."
-      },
-      "url": "https://www.013.nl/en/events/128124/micha"
-    },
-    {
-      "id": "maria-mendes-quartet-paradox-2026-10-23",
-      "title": {
-        "en": "Maria Mendes Quartet",
-        "ru": "Maria Mendes Quartet"
-      },
-      "date": "2026-10-23",
-      "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€18",
-        "ru": "€18"
-      },
-      "note": {
-        "en": "Vocal jazz preview of new album TODAS; doors 19:30.",
-        "ru": "Вокальный джаз, превью нового альбома TODAS; двери в 19:30."
-      },
-      "url": "https://www.paradoxtilburg.nl/agenda/"
-    },
-    {
-      "id": "herman-van-veen-vandaag-schouwburg-2026-10-23",
-      "title": {
-        "en": "Herman van Veen: Today",
-        "ru": "Herman van Veen: Сегодня"
-      },
-      "date": "2026-10-23",
-      "time": "20:15",
-      "end": "22:35",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "€52.50",
-        "ru": "€52.50"
-      },
-      "note": {
-        "en": "Intimate look back and forward; also Sat 20:15 and Sun 15:30.",
-        "ru": "Интимный взгляд назад и вперёд; также суббота 20:15 и воскресенье 15:30."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/herman-van-veen-vandaag"
-    },
-    {
-      "id": "valentina-toth-revue-revanche-2026-10-23",
-      "title": {
-        "en": "Valentina Tóth: Revue Revanche",
-        "ru": "Valentina Tóth: Revue Revanche"
-      },
-      "date": "2026-10-23",
-      "time": "20:30",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "sold-out",
-      "note": {
-        "en": "Try-out in Studio.",
-        "ru": "Предпросмотр в Studio."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
-    },
-    {
-      "id": "docile-bodies-rest-releaseshow-2026-10-23",
-      "title": {
-        "en": "Docile Bodies: Rest Releaseshow",
-        "ru": "Docile Bodies: Rest Releaseshow"
-      },
-      "date": "2026-10-23",
-      "time": "20:00",
-      "end": "22:30",
-      "venue": {
-        "en": "De Nieuwe Vorst",
-        "ru": "De Nieuwe Vorst"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "From €5",
-        "ru": "От €5"
-      },
-      "note": {
-        "en": "Postpunk album release in Kleine Zaal; with Ineptitude.",
-        "ru": "Презентация альбома постпанк в Малом зале; с Ineptitude."
-      },
-      "url": "https://tilburg.com/agenda/under-contruction-x-docile-bodies-rest-releaseshow-bij-de-nieuwe-vorst/"
-    },
-    {
-      "id": "rene-le-blanc-le-clochard-2026-10-23",
-      "title": {
-        "en": "René Le Blanc live",
-        "ru": "René Le Blanc live"
-      },
-      "date": "2026-10-23",
-      "time": "21:00",
-      "venue": {
-        "en": "Le Clochard",
-        "ru": "Le Clochard"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "nightlife",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Live set during vrijmibo and Oktoberfest finale; from afternoon.",
-        "ru": "Живое выступление во время vrijmibo и финала Октоберфеста; с полудня."
-      },
-      "url": "https://tilburg.com/agenda/rene-le-blanc-live-bij-le-clochard/"
-    },
-    {
-      "id": "herfstvakantie-stadsforum-2026-10-23",
-      "title": {
-        "en": "Autumn Holiday at Stadsforum: crafts, dance, search",
-        "ru": "Осенние каникулы на Стадсфоруме: рукоделие, танцы, поиск"
-      },
-      "date": "2026-10-23",
-      "venue": {
-        "en": "Stadsforum",
-        "ru": "Стадсфорум"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "family",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Last day of free kids activities 19-23 Oct.",
-        "ru": "Последний день бесплатных детских мероприятий 19-23 октября."
-      },
-      "url": "https://tilburg.com/agenda/herfstvakantie-op-het-stadsforum-knutselen-dansen-speuren-en-meer/"
-    },
-    {
-      "id": "the-hu-013-2026-10-24",
-      "title": {
-        "en": "The HU: Warrior Chant Tour",
-        "ru": "The HU: Warrior Chant Tour"
-      },
-      "date": "2026-10-24",
-      "time": "21:10",
-      "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "price": {
-        "en": "€44.80",
-        "ru": "€44.80"
-      },
-      "note": {
-        "en": "Mongolian Hunnu Rock; support SKÁLD 20:00; doors 19:00. Resale available.",
-        "ru": "Монгольский Hunnu Rock; саппорт SKÁLD в 20:00; двери в 19:00. Доступна перепродажа."
-      },
-      "url": "https://www.013.nl/en/events/126748/the-hu"
-    },
     {
       "id": "wijnfestival-lage-landen-2026-10-24",
       "title": {
@@ -250,10 +28,171 @@
       "category": "festival",
       "status": "on-sale",
       "note": {
-        "en": "Dutch and Belgian wines, gastronomy and live music; trade fair daytime.",
-        "ru": "Голландские и бельгийские вина, гастрономия и живая музыка; ярмарка днём."
+        "en": "Dutch and Belgian wines with gastronomy and live music; daytime trade fair.",
+        "ru": "Голландские и бельгийские вина с гастрономией и живой музыкой; днём ярмарка."
       },
       "url": "https://www.wijnfestivallagelanden.com/"
+    },
+    {
+      "id": "the-hu-013-2026-10-24",
+      "title": {
+        "en": "The HU: Warrior Chant Tour",
+        "ru": "The HU: Warrior Chant Tour"
+      },
+      "date": "2026-10-24",
+      "time": "20:00",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "note": {
+        "en": "Mongolian Hunnu Rock; sold out.",
+        "ru": "Монгольский Hunnu Rock; распродано."
+      },
+      "url": "https://www.013.nl/"
+    },
+    {
+      "id": "no-barrier-013-2026-10-24",
+      "title": {
+        "en": "NO BARRIER",
+        "ru": "NO BARRIER"
+      },
+      "date": "2026-10-24",
+      "time": "20:00",
+      "end": "01:00",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "nightlife",
+      "status": "on-sale",
+      "price": {
+        "en": "€17.30",
+        "ru": "€17.30"
+      },
+      "note": {
+        "en": "Punk, emo, rock & metalcore party with live band and DJ.",
+        "ru": "Панк, эмо, рок и металкор вечеринка с живой группой и DJ."
+      },
+      "url": "https://www.013.nl/en/events/135414/no-barrier"
+    },
+    {
+      "id": "herman-van-veen-vandaag-schouwburg-2026-10-24",
+      "title": {
+        "en": "Herman van Veen: Today",
+        "ru": "Herman van Veen: Сегодня"
+      },
+      "date": "2026-10-24",
+      "time": "20:15",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Intimate retrospective and new material; also Sunday 15:30.",
+        "ru": "Интимный ретроспектив и новый материал; также воскресенье 15:30."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/herman-van-veen-vandaag"
+    },
+    {
+      "id": "sam-newbould-quintet-paradox-2026-10-24",
+      "title": {
+        "en": "Sam Newbould Quintet",
+        "ru": "Sam Newbould Quintet"
+      },
+      "date": "2026-10-24",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€18",
+        "ru": "€18"
+      },
+      "note": {
+        "en": "Modern creative jazz; doors 19:30.",
+        "ru": "Современный креативный джаз; двери в 19:30."
+      },
+      "url": "https://www.paradoxtilburg.nl/programma/sam-newbould-quintet/"
+    },
+    {
+      "id": "little-devil-23-jaar-2026-10-24",
+      "title": {
+        "en": "Little Devil 23 Years: Surprise Show",
+        "ru": "Little Devil 23 года: Сюрприз-шоу"
+      },
+      "date": "2026-10-24",
+      "time": "19:00",
+      "venue": {
+        "en": "Little Devil",
+        "ru": "Little Devil"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Bloodcrypt, Thuig reunion, Damage Inc and surprise set.",
+        "ru": "Bloodcrypt, реюнион Thuig, Damage Inc и сюрприз-сет."
+      },
+      "url": "https://www.littledevil.nl/"
+    },
+    {
+      "id": "tilburg-dub-club-9-hall-of-fame-2026-10-24",
+      "title": {
+        "en": "Tilburg Dub Club #9",
+        "ru": "Tilburg Dub Club #9"
+      },
+      "date": "2026-10-24",
+      "time": "20:00",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "nightlife",
+      "status": "on-sale",
+      "price": {
+        "en": "€13.75",
+        "ru": "€13.75"
+      },
+      "note": {
+        "en": "Inner East Soundsystem with Ism Schism and Unity Rockers.",
+        "ru": "Inner East Soundsystem с Ism Schism и Unity Rockers."
+      },
+      "url": "https://www.podiuminfo.nl/concert/492435/Inner-East-Tilburg-Dub-Club-9/Hall-Of-Fame/"
     },
     {
       "id": "verrassende-orgelklanken-cenakel-2026-10-25",
@@ -279,10 +218,34 @@
         "ru": "€18"
       },
       "note": {
-        "en": "Bart Jacobs organ + Ortwin Lowyck violin: Bach chamber works.",
-        "ru": "Bart Jacobs орган + Ortwin Lowyck скрипка: камерные произведения Баха."
+        "en": "Bart Jacobs organ and Ortwin Lowyck violin: Bach chamber works.",
+        "ru": "Bart Jacobs орган и Ortwin Lowyck скрипка: камерные произведения Баха."
       },
       "url": "https://www.cenakel.nl/agenda"
+    },
+    {
+      "id": "herman-van-veen-vandaag-schouwburg-2026-10-25",
+      "title": {
+        "en": "Herman van Veen: Today",
+        "ru": "Herman van Veen: Сегодня"
+      },
+      "date": "2026-10-25",
+      "time": "15:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Matinee performance of the intimate show.",
+        "ru": "Дневное представление интимного шоу."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/herman-van-veen-vandaag"
     }
   ]
 }
