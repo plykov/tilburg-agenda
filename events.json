@@ -1,280 +1,88 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "c9ba0ea2-d722-4377-9842-2a57e1414f16",
-  "generatedAt": "2026-10-26T08:00:00+01:00",
+  "deliveryId": "5f5061ae-e806-4b8d-8171-d56088bc5027",
+  "generatedAt": "2026-10-27T08:05:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Quiet Monday: Time Machine at the Schouwburg and intimate Dromer Zoekt BRON at LOFT; metal and jazz build later in the week.",
-    "ru": "\u0422\u0438\u0445\u0438\u0439 \u043f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a: Time Machine \u0432 \u0421\u0445\u0430\u0443\u0431\u0443\u0440\u0433\u0435 \u0438 \u0438\u043d\u0442\u0438\u043c\u043d\u044b\u0439 Dromer Zoekt BRON \u0432 LOFT; \u043c\u0435\u0442\u0430\u043b \u0438 \u0434\u0436\u0430\u0437 \u043d\u0430\u0431\u0438\u0440\u0430\u044e\u0442 \u043e\u0431\u043e\u0440\u043e\u0442\u044b \u043f\u043e\u0437\u0436\u0435 \u043d\u0430 \u043d\u0435\u0434\u0435\u043b\u0435."
+    "en": "Tuesday classical chamber night at Schouwburg plus free jazz jam at Paradox; George Michael tribute at 013.",
+    "ru": "Вторник: камерный концерт в Схаубурге и бесплатный джаз-джем в Paradox; трибьют Джорджу Майклу в 013."
   },
   "events": [
     {
-      "id": "time-machine-schouwburg-2026-10-26",
-      "title": {
-        "en": "Time Machine",
-        "ru": "Time Machine"
-      },
-      "date": "2026-10-26",
-      "time": "19:30",
-      "end": "20:40",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "\u0421\u0445\u0430\u0443\u0431\u0443\u0440\u0433 \u0438 \u043a\u043e\u043d\u0446\u0435\u0440\u0442\u043d\u044b\u0439 \u0437\u0430\u043b \u0422\u0438\u043b\u0431\u0443\u0440\u0433\u0430"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "\u20ac16",
-        "ru": "\u20ac16"
-      },
-      "note": {
-        "en": "HNTjong & Theater Utrecht: sci-fi theatre about school violence and peer pressure; audience seated on stage.",
-        "ru": "HNTjong & Theater Utrecht: \u043d\u0430\u0443\u0447\u043d\u043e-\u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0442\u0435\u0430\u0442\u0440 \u043e \u043d\u0430\u0441\u0438\u043b\u0438\u0438 \u0432 \u0448\u043a\u043e\u043b\u0435 \u0438 \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0441\u0432\u0435\u0440\u0441\u0442\u043d\u0438\u043a\u043e\u0432; \u0437\u0440\u0438\u0442\u0435\u043b\u0438 \u043d\u0430 \u0441\u0446\u0435\u043d\u0435."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/time-machine-hntjong-theater-utrecht"
-    },
-    {
-      "id": "dromer-zoekt-bron-loft-2026-10-26",
-      "title": {
-        "en": "Dreamer Seeks Source live",
-        "ru": "\u041c\u0435\u0447\u0442\u0430\u0442\u0435\u043b\u044c \u0438\u0449\u0435\u0442 \u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a live"
-      },
-      "date": "2026-10-26",
-      "time": "19:30",
-      "end": "21:30",
-      "venue": {
-        "en": "LOFT Theater",
-        "ru": "LOFT Theater"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "\u20ac17.50",
-        "ru": "\u20ac17.50"
-      },
-      "note": {
-        "en": "Jur Deitmers (the boy without yesterday) and Erwin Steijlen: memory, identity, music and poetry.",
-        "ru": "Jur Deitmers (\u043c\u0430\u043b\u044c\u0447\u0438\u043a \u0431\u0435\u0437 \u0432\u0447\u0435\u0440\u0430) \u0438 Erwin Steijlen: \u043f\u0430\u043c\u044f\u0442\u044c, \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u043c\u0443\u0437\u044b\u043a\u0430 \u0438 \u043f\u043e\u044d\u0437\u0438\u044f."
-      },
-      "url": "https://tilburg.com/agenda/dromer-zoekt-bron-live/"
-    },
-    {
-      "id": "rob-lamberti-george-michael-013-2026-10-27",
-      "title": {
-        "en": "Rob Lamberti presents A Celebration of George Michael",
-        "ru": "Rob Lamberti \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u041f\u0440\u0430\u0437\u0434\u043d\u043e\u0432\u0430\u043d\u0438\u0435 George Michael"
-      },
-      "date": "2026-10-27",
-      "time": "20:00",
-      "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Wham! classics and George Michael solo hits.",
-        "ru": "\u041a\u043b\u0430\u0441\u0441\u0438\u043a\u0430 Wham! \u0438 \u0441\u043e\u043b\u044c\u043d\u044b\u0435 \u0445\u0438\u0442\u044b George Michael."
-      },
-      "url": "https://www.013.nl/"
-    },
-    {
-      "id": "time-machine-schouwburg-2026-10-27",
-      "title": {
-        "en": "Time Machine",
-        "ru": "Time Machine"
-      },
+      "id": "time-machine-2026-10-27",
+      "title": {"en": "Time Machine", "ru": "Машина времени"},
       "date": "2026-10-27",
       "time": "19:30",
       "end": "20:40",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "\u0421\u0445\u0430\u0443\u0431\u0443\u0440\u0433 \u0438 \u043a\u043e\u043d\u0446\u0435\u0440\u0442\u043d\u044b\u0439 \u0437\u0430\u043b \u0422\u0438\u043b\u0431\u0443\u0440\u0433\u0430"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
+      "venue": {"en": "Schouwburg & Concertzaal Tilburg", "ru": "Схаубург и концертный зал Тилбурга"},
+      "city": {"en": "Tilburg", "ru": "Тилбург"},
       "category": "theater",
       "status": "on-sale",
-      "price": {
-        "en": "\u20ac16",
-        "ru": "\u20ac16"
-      },
-      "note": {
-        "en": "Second night of the HNTjong production.",
-        "ru": "\u0412\u0442\u043e\u0440\u043e\u0439 \u0432\u0435\u0447\u0435\u0440 \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 HNTjong."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/time-machine-hntjong-theater-utrecht"
+      "price": {"en": "€16", "ru": "€16"},
+      "note": {"en": "Sci-fi youth theater about school violence and peer pressure, 14+.", "ru": "Научно-фантастический молодёжный спектакль о школьном насилии и давлении сверстников, 14+."},
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/time-machine-hntjong-theater-utrecht"
     },
     {
-      "id": "kamermuziek-souvenir-schouwburg-2026-10-27",
-      "title": {
-        "en": "Chamber Music Souvenir",
-        "ru": "\u041a\u0430\u043c\u0435\u0440\u043d\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430 Souvenir"
-      },
+      "id": "ella-van-poucke-chamber-2026-10-27",
+      "title": {"en": "Ella van Poucke & Severin von Eckardstein: Chamber Music Souvenir", "ru": "Элла ван Поуке и Северин фон Экардштайн: Камерная музыка Souvenir"},
       "date": "2026-10-27",
       "time": "20:00",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "\u0421\u0445\u0430\u0443\u0431\u0443\u0440\u0433 \u0438 \u043a\u043e\u043d\u0446\u0435\u0440\u0442\u043d\u044b\u0439 \u0437\u0430\u043b \u0422\u0438\u043b\u0431\u0443\u0440\u0433\u0430"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
+      "venue": {"en": "Schouwburg & Concertzaal Tilburg", "ru": "Схаубург и концертный зал Тилбурга"},
+      "city": {"en": "Tilburg", "ru": "Тилбург"},
       "category": "church",
       "status": "on-sale",
-      "note": {
-        "en": "Ella van Poucke cello and Severin von Eckardstein piano.",
-        "ru": "Ella van Poucke \u0432\u0438\u043e\u043b\u043e\u043d\u0447\u0435\u043b\u044c \u0438 Severin von Eckardstein \u0444\u043e\u0440\u0442\u0435\u043f\u0438\u0430\u043d\u043e."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/ella-van-poucke-severin-von-eckardstein-kamermuziek-souvenir"
+      "note": {"en": "Intimate chamber music recital.", "ru": "Интимный камерный концерт."},
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/ella-van-poucke-severin-von-eckardstein-kamermuziek-souvenir"
     },
     {
-      "id": "jazzsessie-ed-verhoeff-paradox-2026-10-27",
-      "title": {
-        "en": "Jazz Session led by Ed Verhoeff (guitar)",
-        "ru": "\u0414\u0436\u0430\u0437-\u0441\u0435\u0441\u0441\u0438\u044f \u043f\u043e\u0434 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e\u043c Ed Verhoeff (\u0433\u0438\u0442\u0430\u0440\u0430)"
-      },
+      "id": "rob-lamberti-george-michael-2026-10-27",
+      "title": {"en": "Rob Lamberti presents A Celebration of George Michael", "ru": "Роб Ламберти представляет Праздник Джорджа Майкла"},
       "date": "2026-10-27",
-      "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
-      "category": "music",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e"
-      },
-      "note": {
-        "en": "Funk & jazzrock; doors 19:30.",
-        "ru": "Funk & jazzrock; \u0434\u0432\u0435\u0440\u0438 \u0432 19:30."
-      },
-      "url": "https://www.paradoxtilburg.nl/programma/jazzsessie-109/"
-    },
-    {
-      "id": "beast-in-black-013-2026-10-28",
-      "title": {
-        "en": "Beast In Black",
-        "ru": "Beast In Black"
-      },
-      "date": "2026-10-28",
       "time": "19:00",
-      "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
+      "venue": {"en": "013", "ru": "013"},
+      "city": {"en": "Tilburg", "ru": "Тилбург"},
       "category": "music",
-      "status": "sold-out",
-      "note": {
-        "en": "Resurrection Tour 2026 with Sonata Arctica; sold out.",
-        "ru": "Resurrection Tour 2026 \u0441 Sonata Arctica; \u0440\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u043d\u043e."
-      },
+      "status": "on-sale",
+      "note": {"en": "Tribute to Wham! and George Michael hits.", "ru": "Трибьют хитам Wham! и Джорджа Майкла."},
       "url": "https://www.013.nl/"
     },
     {
-      "id": "immanuel-wilkins-paradox-2026-10-28",
-      "title": {
-        "en": "Immanuel Wilkins Quartet",
-        "ru": "Immanuel Wilkins Quartet"
-      },
+      "id": "jazzsessie-paradox-headhunters-2026-10-27",
+      "title": {"en": "Jazz Session led by Ed Verhoeff: Herbie Hancock Headhunters", "ru": "Джаз-сессия под руководством Эда Верхоффа: Herbie Hancock Headhunters"},
+      "date": "2026-10-27",
+      "time": "20:30",
+      "venue": {"en": "Paradox", "ru": "Paradox"},
+      "city": {"en": "Tilburg", "ru": "Тилбург"},
+      "category": "music",
+      "status": "free",
+      "price": {"en": "Free", "ru": "Бесплатно"},
+      "note": {"en": "Funk and jazzrock jam session.", "ru": "Фанк и джаз-рок джем-сессия."},
+      "url": "https://www.paradoxtilburg.nl/agenda/"
+    },
+    {
+      "id": "immanuel-wilkins-2026-10-28",
+      "title": {"en": "Immanuel Wilkins Quartet", "ru": "Квартет Иммануэля Уилкинса"},
       "date": "2026-10-28",
       "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
+      "venue": {"en": "Paradox", "ru": "Paradox"},
+      "city": {"en": "Tilburg", "ru": "Тилбург"},
       "category": "music",
       "status": "sold-out",
-      "price": {
-        "en": "\u20ac23",
-        "ru": "\u20ac23"
-      },
-      "note": {
-        "en": "US modern creative jazz; sold out.",
-        "ru": "\u0421\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u043a\u0440\u0435\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0434\u0436\u0430\u0437 \u0438\u0437 \u0421\u0428\u0410; \u0440\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u043d\u043e."
-      },
+      "price": {"en": "Sold out", "ru": "Распродано"},
+      "note": {"en": "Modern creative and straight-ahead jazz from US.", "ru": "Современный креативный и straight-ahead джаз из США."},
       "url": "https://www.paradoxtilburg.nl/programma/immanuel-wilkins-quartet-us-2/"
     },
     {
-      "id": "kamfest-day1-013-2026-10-30",
-      "title": {
-        "en": "KamFest Day 1",
-        "ru": "KamFest \u0414\u0435\u043d\u044c 1"
-      },
-      "date": "2026-10-30",
-      "time": "18:30",
-      "end": "23:00",
-      "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
-      "category": "festival",
-      "status": "on-sale",
-      "price": {
-        "en": "\u20ac50.80 day / \u20ac80.80 weekend",
-        "ru": "\u20ac50.80 \u0434\u0435\u043d\u044c / \u20ac80.80 \u0443\u0438\u043a\u0435\u043d\u0434"
-      },
-      "note": {
-        "en": "Kamelot with Xandria, Leaves Eyes, Elegy; Halloween weekend symphonic metal.",
-        "ru": "Kamelot \u0441 Xandria, Leaves Eyes, Elegy; \u0441\u0438\u043c\u0444\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0430\u043b \u043d\u0430 \u0445\u044d\u043b\u043b\u043e\u0443\u0438\u043d\u0441\u043a\u0438\u0445 \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0445."
-      },
-      "url": "https://www.013.nl/programma/126463/kamfest"
-    },
-    {
-      "id": "de-link-cenakel-2026-11-03",
-      "title": {
-        "en": "De Link: Nieuw Amsterdams Peil",
-        "ru": "De Link: Nieuw Amsterdams Peil"
-      },
-      "date": "2026-11-03",
+      "id": "gyo-kretz-rooi-harten-2026-11-07",
+      "title": {"en": "Gyo Kretz Candlelight Concert", "ru": "Концерт Gyo Kretz при свечах"},
+      "date": "2026-11-07",
       "time": "20:00",
-      "venue": {
-        "en": "Het Cenakel",
-        "ru": "Het Cenakel"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "\u0422\u0438\u043b\u0431\u0443\u0440\u0433"
-      },
+      "venue": {"en": "Rooi Harten Klooster", "ru": "Клостер Роой Хартен"},
+      "city": {"en": "Tilburg", "ru": "Тилбург"},
       "category": "church",
       "status": "on-sale",
-      "note": {
-        "en": "Contemporary chamber series in the former monastery chapel; intimate acoustic.",
-        "ru": "\u0421\u0435\u0440\u0438\u044f \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u043a\u0430\u043c\u0435\u0440\u043d\u043e\u0439 \u043c\u0443\u0437\u044b\u043a\u0438 \u0432 \u0431\u044b\u0432\u0448\u0435\u0439 \u043c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u0441\u043a\u043e\u0439 \u043a\u0430\u043f\u0435\u043b\u043b\u0435; \u0438\u043d\u0442\u0438\u043c\u043d\u0430\u044f \u0430\u043a\u0443\u0441\u0442\u0438\u043a\u0430."
-      },
-      "url": "https://www.cenakel.nl/agenda"
+      "note": {"en": "Intimate solo performance at WAU Effect chapel, via HipSy.", "ru": "Интимное сольное выступление в часовне WAU Effect, через HipSy."},
+      "url": "https://hipsy.nl/events?query=Rooi%20Harten"
     }
   ]
 }
