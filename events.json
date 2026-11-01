@@ -1,48 +1,20 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "84aa3efc-734f-4606-82bb-8ee31430bfbf",
-  "generatedAt": "2026-10-31T08:08:00+01:00",
+  "deliveryId": "5b2a3b45-b87e-41d1-883f-99c6a2be5f7b",
+  "generatedAt": "2026-11-01T08:07:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Halloween night in Tilburg: symphonic metal at 013, haunted classical at Schouwburg, and intimate jazz at Paradox.",
-    "ru": "Ночь Хэллоуина в Тилбурге: симфонический метал в 013, призрачная классика в Схаубурге и интимный джаз в Paradox."
+    "en": "Sunday 1 Nov: Walter Trout at 013, Titanique and Brabant Choir at Schouwburg, intimate choir concert From Dark to Luminous at Het Cenakel, free classical afternoon at Paradox.",
+    "ru": "Воскресенье 1 ноября: Уолтер Траут в 013, Титаник и Брабантский хор в Схаубурге, интимный хоровой концерт «От тьмы к свету» в Хет Ценакел, бесплатный классический полдень в Парадокс."
   },
   "events": [
     {
-      "id": "kamfest-day2-2026-10-31",
+      "id": "walter-trout-2026-11-01",
       "title": {
-        "en": "KamFest Day 2: Kamelot + Blackbriar + Exit Eden + Temperance",
-        "ru": "KamFest День 2: Kamelot + Blackbriar + Exit Eden + Temperance"
+        "en": "Walter Trout",
+        "ru": "Уолтер Траут"
       },
-      "date": "2026-10-31",
-      "time": "17:00",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€50.80 day ticket",
-        "ru": "€50.80 дневной билет"
-      },
-      "note": {
-        "en": "Symphonic metal festival night with Kamelot headlining.",
-        "ru": "Ночь симфонического метал-фестиваля с Kamelot в хедлайнерах."
-      },
-      "url": "https://www.013.nl/programma/126475/kamfest"
-    },
-    {
-      "id": "danko-jones-2026-10-31",
-      "title": {
-        "en": "Danko Jones Rising Tour",
-        "ru": "Danko Jones Rising Tour"
-      },
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "19:00",
       "venue": {
         "en": "013 Poppodium",
@@ -55,136 +27,12 @@
       "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "€33.80",
-        "ru": "€33.80"
+        "en": "from €39.80",
+        "ru": "от €39.80"
       },
       "note": {
-        "en": "Pure rock 'n roll with support Split Dogs.",
-        "ru": "Чистый рок-н-ролл с поддержкой Split Dogs."
-      },
-      "url": "https://www.013.nl/programma/126200/danko-jones"
-    },
-    {
-      "id": "halloween-spectacular-2026-10-31",
-      "title": {
-        "en": "Halloween Spectacular: The Haunted Mansion",
-        "ru": "Хэллоуин Спектакль: Обитель призраков"
-      },
-      "date": "2026-10-31",
-      "time": "20:00",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Brabant Chamber Orchestra with holographic haunted house visuals.",
-        "ru": "Брабантский камерный оркестр с голографическими визуалами призрачного дома."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/halloween-spectacular-brabant-chamber-orchestra"
-    },
-    {
-      "id": "titanique-2026-10-31",
-      "title": {
-        "en": "Titanique the Musical",
-        "ru": "Мюзикл Titanique"
-      },
-      "date": "2026-10-31",
-      "time": "20:15",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Comic musical take on Titanic with Renée van Wegberg and others.",
-        "ru": "Комический мюзикл по мотивам Титаника с Рене ван Вегберг и другими."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/titanique-de-musical"
-    },
-    {
-      "id": "michiel-borstlap-2026-10-31",
-      "title": {
-        "en": "Michiel Borstlap Timelap Trio",
-        "ru": "Michiel Borstlap Timelap Trio"
-      },
-      "date": "2026-10-31",
-      "time": "19:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€20",
-        "ru": "€20"
-      },
-      "note": {
-        "en": "Intimate jazz piano trio with Stefan Lievestro and Hans Eijkenaar.",
-        "ru": "Интимное джазовое трио с пианино, Стефаном Ливестро и Хансом Эйкенааром."
-      },
-      "url": "https://www.paradoxtilburg.nl/"
-    },
-    {
-      "id": "i-like-art-2026-10-31",
-      "title": {
-        "en": "I Like Art and Art Likes Me",
-        "ru": "Я люблю искусство, и искусство любит меня"
-      },
-      "date": "2026-10-31",
-      "time": "20:30",
-      "venue": {
-        "en": "De Nieuwe Vorst",
-        "ru": "De Nieuwe Vorst"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Premiere by Het Zuidelijk Toneel exploring art and society.",
-        "ru": "Премьера Het Zuidelijk Toneel об искусстве и обществе."
-      },
-      "url": "https://denieuwevorst.nl/"
-    },
-    {
-      "id": "spanish-heat-halloween-2026-10-31",
-      "title": {
-        "en": "Spanish Heat Halloween",
-        "ru": "Spanish Heat Halloween"
-      },
-      "date": "2026-10-31",
-      "time": "23:30",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "nightlife",
-      "status": "sold-out",
-      "note": {
-        "en": "Latin, reggaeton and hits with a dark Halloween edge.",
-        "ru": "Латина, реггетон и хиты с тёмным хэллоуинским оттенком."
+        "en": "Blues-rock veteran, Sign of the Times tour.",
+        "ru": "Ветеран блюз-рока, тур Sign of the Times."
       },
       "url": "https://www.013.nl/"
     },
@@ -196,9 +44,10 @@
       },
       "date": "2026-11-01",
       "time": "15:00",
+      "end": "16:30",
       "venue": {
         "en": "Het Cenakel",
-        "ru": "Het Cenakel"
+        "ru": "Хет Ценакел"
       },
       "city": {
         "en": "Tilburg",
@@ -211,22 +60,46 @@
         "ru": "€17.50"
       },
       "note": {
-        "en": "Zuid-Nederlands Kamerkoor with piano, cello and violin between darkness and light.",
-        "ru": "Zuid-Nederlands Kamerkoor с фортепиано, виолончелью и скрипкой между тьмой и светом."
+        "en": "Zuid-Nederlands Kamerkoor, works by Gjeilo, Nees, Stanford, Duruflé and Bach Cello Suite.",
+        "ru": "Зюйд-Нидерландский камерный хор, произведения Gjeilo, Nees, Stanford, Duruflé и Сюита для виолончели Баха."
       },
       "url": "https://tilburg.com/agenda/from-dark-to-luminous-bij-het-cenakel/"
     },
     {
-      "id": "de-link-nieuw-amsterdams-peil-2026-11-03",
+      "id": "titanique-2026-11-01",
       "title": {
-        "en": "De Link: Nieuw Amsterdams Peil",
-        "ru": "De Link: Nieuw Amsterdams Peil"
+        "en": "Titanique",
+        "ru": "Титаник"
       },
-      "date": "2026-11-03",
-      "time": "20:00",
+      "date": "2026-11-01",
+      "time": "15:00",
       "venue": {
-        "en": "Het Cenakel",
-        "ru": "Het Cenakel"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Musical with Renée van Wegberg, Calvin Kromheer and others.",
+        "ru": "Мюзикл с Рене ван Вегберг, Кальвином Кромхеером и другими."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
+    {
+      "id": "brabant-koor-2026-11-01",
+      "title": {
+        "en": "Brabant Choir: Cycling with Your Eyes Closed",
+        "ru": "Брабантский хор: Велосипед с закрытыми глазами"
+      },
+      "date": "2026-11-01",
+      "time": "14:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
@@ -235,34 +108,62 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "Contemporary chamber music in the intimate chapel setting.",
-        "ru": "Современная камерная музыка в интимной часовне."
+        "en": "Jubilee concert of Brabant Koor.",
+        "ru": "Юбилейный концерт Брабантского хора."
       },
-      "url": "https://www.cenakel.nl/agenda"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
-      "id": "puscifer-2026-11-03",
+      "id": "hanneke-classical-afternoon-2026-11-01",
       "title": {
-        "en": "Puscifer The Normal Isn't Tour",
-        "ru": "Puscifer The Normal Isn't Tour"
+        "en": "Hanneke's Classical Afternoon: Presentation of New Piano Book",
+        "ru": "Классический полдень Ханнеке: Презентация новой книги для фортепиано"
       },
-      "date": "2026-11-03",
-      "time": "19:00",
+      "date": "2026-11-01",
+      "time": "15:00",
       "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "en": "Paradox",
+        "ru": "Парадокс"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
       "category": "music",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Chamber music presentation of a new piano book.",
+        "ru": "Презентация новой книги для фортепиано в жанре камерной музыки."
+      },
+      "url": "https://www.paradoxtilburg.nl/agenda/"
+    },
+    {
+      "id": "stuntelman-2026-11-01",
+      "title": {
+        "en": "Stuntelman (4+)",
+        "ru": "Стунтелман (4+)"
+      },
+      "date": "2026-11-01",
+      "time": "15:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
       "status": "on-sale",
       "note": {
-        "en": "Art rock, electro and absurdist performance from Maynard's universe.",
-        "ru": "Арт-рок, электро и абсурдистский перформанс из вселенной Мейнарда."
+        "en": "Family theater by Het Laagland, last tickets.",
+        "ru": "Семейный театр от Het Laagland, последние билеты."
       },
-      "url": "https://www.013.nl/"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     }
   ]
 }
