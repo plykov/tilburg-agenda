@@ -1,1 +1,41 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.agenda.v1",
+  "deliveryId": "50a050b3-d08d-4604-84ed-8ce463af5d81",
+  "generatedAt": "2026-11-03T08:09:00+01:00",
+  "source": "Grok daily automation 08:00 Amsterdam",
+  "headline": {
+    "en": "Puscifer and Nicko McBrain fill 013 while Het Cenakel and the Schouwburg host contemporary ensembles and physical music theater.",
+    "ru": "Пусифер и Нико МакБрейн заполняют 013, а Хет Ценакел и Схаубург принимают современные ансамбли и физический музыкальный театр."
+  },
+  "events": [
+    {
+      "id": "puscifer-normal-isnt-tour-2026-11-03",
+      "title": {
+        "en": "Puscifer — The Normal Isn't Tour",
+        "ru": "Puscifer — The Normal Isn't Tour"
+      },
+      "date": "2026-11-03",
+      "time": "20:00",
+      "end": "22:30",
+      "venue": {
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "from €65.80",
+        "ru": "от €65.80"
+      },
+      "note": {
+        "en": "Art-rock, electro and absurdist performance from Maynard James Keenan's most unpredictable project; doors 19:00.",
+        "ru": "Арт-рок, электро и абсурдистский перформанс самого непредсказуемого проекта Мейнарда Джеймса Кинана; двери в 19:00."
+      },
+      "url": "https://www.013.nl/programma/128504/puscifer"
+    }
+  ]
+}
