@@ -1,54 +1,24 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "32928b3d-c8a2-43f7-aa26-9de12d389b14",
-  "generatedAt": "2026-11-04T08:09:00+01:00",
+  "deliveryId": "bd1b7525-df08-4521-a8b7-ff660a82b7d8",
+  "generatedAt": "2026-11-05T08:09:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Sold-out Shinedown rocks 013 while Iris Hond and Kamerata Zuid open the Schouwburg with Einaudi and WonderYears reworks Stevie at Paradox.",
-    "ru": "Распроданный Shinedown рокает в 013, а Ирис Хонд и Kamerata Zuid открывают Схаубург с Эйнауди, WonderYears перерабатывает Stevie в Paradox."
+    "en": "Rolf Sanchez and experimental metal at Paradox headline a packed Thursday in Tilburg, with flamenco strings at the Schouwburg and sold-out Wende nearby.",
+    "ru": "Рольф Санчес и экспериментальный метал в Paradox возглавляют насыщенный четверг в Тилбурге, с фламенко-струнами в Схаубурге и распроданным концертом Венде рядом."
   },
   "events": [
     {
-      "id": "shinedown-dance-kid-dance-2026-11-04",
+      "id": "rolf-sanchez-013-2026-11-05",
       "title": {
-        "en": "Shinedown — Dance Kid Dance Act II",
-        "ru": "Shinedown — Dance Kid Dance Act II"
+        "en": "Rolf Sanchez Club Tour",
+        "ru": "Rolf Sanchez Club Tour"
       },
-      "date": "2026-11-04",
-      "time": "20:30",
-      "end": "22:30",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "price": {
-        "en": "Sold out",
-        "ru": "Распродано"
-      },
-      "note": {
-        "en": "Florida hard-rockers with Those Damn Crows; doors 18:30.",
-        "ru": "Хард-рок из Флориды с Those Damn Crows; двери в 18:30."
-      },
-      "url": "https://www.013.nl/en/events/126104/shinedown"
-    },
-    {
-      "id": "wies-ah-2026-11-04",
-      "title": {
-        "en": "WIES",
-        "ru": "WIES"
-      },
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "time": "20:00",
-      "end": "22:30",
       "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "en": "013",
+        "ru": "013"
       },
       "city": {
         "en": "Tilburg",
@@ -56,23 +26,43 @@
       },
       "category": "music",
       "status": "on-sale",
-      "price": {
-        "en": "€26.30",
-        "ru": "€26.30"
-      },
       "note": {
-        "en": "Dutch indie-pop with new album AH!; support JEN; doors 19:00.",
-        "ru": "Нидерландский инди-поп с новым альбомом AH!; поддержка JEN; двери в 19:00."
+        "en": "High-energy Latin pop club show.",
+        "ru": "Высокоэнергетичное латинское поп-шоу в клубе."
       },
-      "url": "https://www.013.nl/en/events/128736/wies"
+      "url": "https://www.013.nl/"
     },
     {
-      "id": "wonderyears-stevie-wonder-2026-11-04",
+      "id": "wende-013-next-2026-11-05",
       "title": {
-        "en": "WonderYears plays Stevie Wonder",
-        "ru": "WonderYears играет Stevie Wonder"
+        "en": "Wende – Het Experiment #2",
+        "ru": "Wende – Эксперимент #2"
       },
-      "date": "2026-11-04",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "venue": {
+        "en": "013 Next Stage",
+        "ru": "013 Next Stage"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "note": {
+        "en": "Pop that scrapes against electronics, chanson and theatre.",
+        "ru": "Поп, трущийся об электронику, шансон и театр."
+      },
+      "url": "https://www.013.nl/"
+    },
+    {
+      "id": "big-brave-paradox-2026-11-05",
+      "title": {
+        "en": "BIG|BRAVE and Dead Neanderthals",
+        "ru": "BIG|BRAVE и Dead Neanderthals"
+      },
+      "date": "2026-11-05",
       "time": "20:30",
       "venue": {
         "en": "Paradox",
@@ -85,22 +75,22 @@
       "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "€16",
-        "ru": "€16"
+        "en": "€20",
+        "ru": "€20"
       },
       "note": {
-        "en": "Jasper Blom, Felix Schlarmann, Sean Fasciani rework Stevie; doors 19:30.",
-        "ru": "Jasper Blom, Felix Schlarmann, Sean Fasciani перерабатывают Stevie; двери в 19:30."
+        "en": "Experimental metal meets free-jazz noise; doors 19:30.",
+        "ru": "Экспериментальный метал встречается с фри-джазовым нойзом; двери в 19:30."
       },
-      "url": "https://www.paradoxtilburg.nl/programma/wonderyears-plays-stevie-wonder/"
+      "url": "https://paradoxtilburg.nl/"
     },
     {
-      "id": "iris-hond-kamerata-einaudi-2026-11-04",
+      "id": "la-lyra-del-mar-schouwburg-2026-11-05",
       "title": {
-        "en": "Iris Hond & Kamerata Zuid play Einaudi",
-        "ru": "Ирис Хонд и Kamerata Zuid исполняют Эйнауди"
+        "en": "Flamenco Biënnale Nederland & Cello Biënnale – La Lyra del Mar",
+        "ru": "Flamenco Biënnale Nederland & Cello Biënnale – La Lyra del Mar"
       },
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "time": "20:00",
       "venue": {
         "en": "Schouwburg & Concertzaal Tilburg",
@@ -110,86 +100,29 @@
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "church",
+      "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "from €33.50",
-        "ru": "от €33.50"
+        "en": "€37.50",
+        "ru": "€37.50"
       },
       "note": {
-        "en": "Tenth-anniversary tour: Einaudi piano concerto Domino plus Scriabin and Rachmaninoff.",
-        "ru": "Турне к десятилетию: фортепианный концерт Эйнауди Domino плюс Скрябин и Рахманинов."
+        "en": "Mediterranean strings and obsessive rhythms with lyra, cello and flamenco guitar.",
+        "ru": "Средиземноморские струны и навязчивые ритмы с лирой, виолончелью и фламенко-гитарой."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/"
     },
     {
-      "id": "pauperpunk-hall-of-fame-2026-11-04",
+      "id": "paul-haenen-schouwburg-2026-11-05",
       "title": {
-        "en": "Pauperpunk",
-        "ru": "Pauperpunk"
+        "en": "Paul Haenen – Margreet Dolman brings Warmth and Pastor Gremdaat shows the Way",
+        "ru": "Пол Хаенен – Маргрет Долман приносит тепло, а пастор Гремдаат указывает путь"
       },
-      "date": "2026-11-04",
-      "time": "19:30",
-      "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Local punk night with D'r Neffe, SEXTC, Stoelen en Banken, Dino Dino Dynamite.",
-        "ru": "Местный панк-вечер с D'r Neffe, SEXTC, Stoelen en Banken, Dino Dino Dynamite."
-      },
-      "url": "https://www.podiuminfo.nl/concertagenda/podium/hall-of-fame/"
-    },
-    {
-      "id": "winter-love-festival-groenrijk-2026-11-04",
-      "title": {
-        "en": "Winter Love Festival",
-        "ru": "Фестиваль Winter Love"
-      },
-      "date": "2026-11-04",
-      "time": "18:00",
-      "end": "20:00",
-      "venue": {
-        "en": "GroenRijk Tilburg",
-        "ru": "GroenRijk Тилбург"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "family",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Winter treats, music and family activities; also weekend dates.",
-        "ru": "Зимние угощения, музыка и семейные активности; также в выходные."
-      },
-      "url": "https://tilburg.com/agenda/winter-love-festival-bij-groenrijk-3/"
-    },
-    {
-      "id": "the-drama-nieuwe-vorst-2026-11-04",
-      "title": {
-        "en": "The Drama",
-        "ru": "The Drama"
-      },
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "time": "20:30",
       "venue": {
-        "en": "Theater De Nieuwe Vorst",
-        "ru": "Театр Де Ньюве Ворст"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
@@ -198,16 +131,16 @@
       "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Theater Oostpool production by Florian Myjer.",
-        "ru": "Постановка Theater Oostpool Флориана Майера."
+        "en": "Waiting list. Classic Dutch cabaret characters.",
+        "ru": "Лист ожидания. Классические голландские кабаре-персонажи."
       },
-      "url": "https://denieuwevorst.nl/programma"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/"
     },
     {
-      "id": "smet-philzuid-string-trio-2026-11-08",
+      "id": "smet-cenakel-2026-11-08",
       "title": {
-        "en": "S.M.E.T. Chamber Music: Philzuid String Trio",
-        "ru": "S.M.E.T. камерная музыка: Philzuid String Trio"
+        "en": "S.M.E.T. Chamber Music – Philzuid String Trio",
+        "ru": "S.M.E.T. Камерная музыка – Струнное трио Philzuid"
       },
       "date": "2026-11-08",
       "time": "12:30",
@@ -221,44 +154,41 @@
       },
       "category": "church",
       "status": "on-sale",
-      "price": {
-        "en": "€18",
-        "ru": "€18"
-      },
       "note": {
-        "en": "Schubert and Beethoven string trios; includes coffee/tea.",
-        "ru": "Струнные трио Шуберта и Бетховена; включая кофе/чай."
+        "en": "Sunday lunchtime chamber concert series.",
+        "ru": "Воскресная серия камерных концертов в обеденное время."
       },
       "url": "https://www.cenakel.nl/agenda"
     },
     {
-      "id": "elf-elf-carnaval-2026-11-11",
+      "id": "gyo-kretz-rooi-harten-2026-11-07",
       "title": {
-        "en": "Elf-Elf Carnival Kick-off",
-        "ru": "Elf-Elf старт карнавала"
+        "en": "Gyo Kretz solo candlelight",
+        "ru": "Gyo Kretz соло при свечах"
       },
-      "date": "2026-11-11",
+      "date": "2026-11-07",
+      "time": "20:00",
       "venue": {
-        "en": "Tilburg centre (multiple sites)",
-        "ru": "Центр Тилбурга (несколько мест)"
+        "en": "Rooi Harten Klooster / WAU Effect",
+        "ru": "Klooster Rooi Harten / WAU Effect"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "festival",
-      "status": "free",
+      "category": "music",
+      "status": "sold-out",
       "note": {
-        "en": "Official start of carnival season across Piusplein, Heuvel, Stadhuisstraat.",
-        "ru": "Официальный старт карнавального сезона на Piusplein, Heuvel, Stadhuisstraat."
+        "en": "Intimate solo performance in chapel setting.",
+        "ru": "Интимное соло-выступление в часовне."
       },
-      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
+      "url": "https://resonatedharmonies.weticket.io/gyo-kretz-in-rooi-harten-wau-effect-tilburg"
     },
     {
-      "id": "betoverende-pianisten-katsaris-2026-11-15",
+      "id": "betoverende-pianisten-katsaris-cenakel-2026-11-15",
       "title": {
-        "en": "Enchanting Pianists: Cyprien Katsaris",
-        "ru": "Очаровательные пианисты: Cyprien Katsaris"
+        "en": "Betoverende Pianisten – Cyprien Katsaris",
+        "ru": "Очаровывающие пианисты – Сиприен Кацарис"
       },
       "date": "2026-11-15",
       "time": "16:00",
@@ -273,21 +203,45 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "World-renowned pianist pays tribute to Gershwin in the chapel.",
-        "ru": "Всемирно известный пианист воздаёт дань Gershwin в капелле."
+        "en": "Enchanting Pianists series.",
+        "ru": "Серия Очаровывающие пианисты."
       },
       "url": "https://www.cenakel.nl/agenda"
     },
     {
+      "id": "elf-elf-tilburg-2026-11-11",
+      "title": {
+        "en": "Elf-Elf carnival kick-off",
+        "ru": "Старт карнавала Elf-Elf"
+      },
+      "date": "2026-11-11",
+      "endDate": "2026-11-12",
+      "venue": {
+        "en": "Heuvel and city centre",
+        "ru": "Хёвел и центр города"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "festival",
+      "status": "free",
+      "note": {
+        "en": "Street parties, breakfast and new prince reveal around 20:11.",
+        "ru": "Уличные вечеринки, завтрак и открытие нового принца около 20:11."
+      },
+      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
+    },
+    {
       "id": "sinterklaas-intocht-2026-11-15",
       "title": {
-        "en": "Sinterklaas Arrival",
-        "ru": "Прибытие Синтерклааса"
+        "en": "Sinterklaas arrival",
+        "ru": "Прибытие Синтаклааса"
       },
       "date": "2026-11-15",
       "venue": {
-        "en": "Piushaven & Stadsforum",
-        "ru": "Piushaven и Stadsforum"
+        "en": "Piushaven and Stadsforum",
+        "ru": "Пюсхавен и Стадсфорум"
       },
       "city": {
         "en": "Tilburg",
@@ -296,32 +250,8 @@
       "category": "family",
       "status": "free",
       "note": {
-        "en": "Traditional boat arrival with Pieten; family afternoon in the harbour.",
-        "ru": "Традиционное прибытие на лодке с Питами; семейный день в гавани."
-      },
-      "url": "https://www.visit-tilburg.com/events"
-    },
-    {
-      "id": "tilburgs-winterparadijs-2026-11-20",
-      "title": {
-        "en": "Tilburg Winter Paradise",
-        "ru": "Зимний рай Тилбурга"
-      },
-      "date": "2026-11-20",
-      "endDate": "2027-01-10",
-      "venue": {
-        "en": "Heuvel",
-        "ru": "Heuvel"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "family",
-      "status": "free",
-      "note": {
-        "en": "City-centre winter market and atmosphere until early January.",
-        "ru": "Зимний рынок и атмосфера в центре до начала января."
+        "en": "Family parade and arrival of Sinterklaas.",
+        "ru": "Семейный парад и прибытие Синтаклааса."
       },
       "url": "https://www.visit-tilburg.com/events"
     }
