@@ -1,24 +1,24 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "bd1b7525-df08-4521-a8b7-ff660a82b7d8",
-  "generatedAt": "2026-11-05T08:09:00+01:00",
+  "deliveryId": "c2302e39-187e-4eec-911f-c8155127a902",
+  "generatedAt": "2026-11-06T08:10:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Rolf Sanchez and experimental metal at Paradox headline a packed Thursday in Tilburg, with flamenco strings at the Schouwburg and sold-out Wende nearby.",
-    "ru": "Рольф Санчес и экспериментальный метал в Paradox возглавляют насыщенный четверг в Тилбурге, с фламенко-струнами в Схаубурге и распроданным концертом Венде рядом."
+    "en": "Friday night lights: Flemming and Zer00’s Heroes at 013, jazz at Paradox, and Kunstscene opens across the city.",
+    "ru": "Пятничный вечер: Флемминг и Zer00’s Heroes в 013, джаз в Paradox и открытие Kunstscene по всему городу."
   },
   "events": [
     {
-      "id": "rolf-sanchez-013-2026-11-05",
+      "id": "flemming-013-2026-11-06",
       "title": {
-        "en": "Rolf Sanchez Club Tour",
-        "ru": "Rolf Sanchez Club Tour"
+        "en": "Flemming",
+        "ru": "Флемминг"
       },
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "time": "20:00",
       "venue": {
-        "en": "013",
-        "ru": "013"
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
       },
       "city": {
         "en": "Tilburg",
@@ -27,42 +27,41 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "High-energy Latin pop club show.",
-        "ru": "Высокоэнергетичное латинское поп-шоу в клубе."
+        "en": "Club tour with the new album.",
+        "ru": "Клубный тур с новым альбомом."
       },
       "url": "https://www.013.nl/"
     },
     {
-      "id": "wende-013-next-2026-11-05",
+      "id": "zeros-heroes-013-2026-11-06",
       "title": {
-        "en": "Wende – Het Experiment #2",
-        "ru": "Wende – Эксперимент #2"
+        "en": "Zer00’s Heroes",
+        "ru": "Zer00’s Heroes"
       },
-      "date": "2026-11-05",
-      "time": "20:00",
+      "date": "2026-11-06",
       "venue": {
-        "en": "013 Next Stage",
-        "ru": "013 Next Stage"
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "music",
-      "status": "sold-out",
+      "category": "nightlife",
+      "status": "on-sale",
       "note": {
-        "en": "Pop that scrapes against electronics, chanson and theatre.",
-        "ru": "Поп, трущийся об электронику, шансон и театр."
+        "en": "Back to the heyday of the 2000s–2009.",
+        "ru": "Возвращение в эпоху 2000–2009."
       },
       "url": "https://www.013.nl/"
     },
     {
-      "id": "big-brave-paradox-2026-11-05",
+      "id": "starklinnemann-paradox-2026-11-06",
       "title": {
-        "en": "BIG|BRAVE and Dead Neanderthals",
-        "ru": "BIG|BRAVE и Dead Neanderthals"
+        "en": "StarkLinnemann ft. Jasper Somsen",
+        "ru": "StarkLinnemann с Jasper Somsen"
       },
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "time": "20:30",
       "venue": {
         "en": "Paradox",
@@ -75,23 +74,47 @@
       "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "€20",
-        "ru": "€20"
+        "en": "€16",
+        "ru": "16 €"
       },
       "note": {
-        "en": "Experimental metal meets free-jazz noise; doors 19:30.",
-        "ru": "Экспериментальный метал встречается с фри-джазовым нойзом; двери в 19:30."
+        "en": "Modern creative jazz with original compositions.",
+        "ru": "Современный криативный джаз с оригинальными композициями."
       },
-      "url": "https://paradoxtilburg.nl/"
+      "url": "https://www.paradoxtilburg.nl/"
     },
     {
-      "id": "la-lyra-del-mar-schouwburg-2026-11-05",
+      "id": "guido-weijers-schouwburg-2026-11-06",
       "title": {
-        "en": "Flamenco Biënnale Nederland & Cello Biënnale – La Lyra del Mar",
-        "ru": "Flamenco Biënnale Nederland & Cello Biënnale – La Lyra del Mar"
+        "en": "Guido Weijers: New Year’s Conference 2026",
+        "ru": "Guido Weijers: Новогодняя конференция 2026"
       },
-      "date": "2026-11-05",
-      "time": "20:00",
+      "date": "2026-11-06",
+      "time": "20:15",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "sold-out",
+      "note": {
+        "en": "Waiting list only.",
+        "ru": "Только лист ожидания."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+    },
+    {
+      "id": "roel-calister-schouwburg-2026-11-06",
+      "title": {
+        "en": "Roël Calister Ensemble: The Work of Songs",
+        "ru": "Roël Calister Ensemble: Работа песен"
+      },
+      "date": "2026-11-06",
+      "time": "20:30",
       "venue": {
         "en": "Schouwburg & Concertzaal Tilburg",
         "ru": "Схаубург и концертный зал Тилбурга"
@@ -102,24 +125,132 @@
       },
       "category": "music",
       "status": "on-sale",
-      "price": {
-        "en": "€37.50",
-        "ru": "€37.50"
-      },
-      "note": {
-        "en": "Mediterranean strings and obsessive rhythms with lyra, cello and flamenco guitar.",
-        "ru": "Средиземноморские струны и навязчивые ритмы с лирой, виолончелью и фламенко-гитарой."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
-      "id": "paul-haenen-schouwburg-2026-11-05",
+      "id": "twisted-sister-littledevil-2026-11-06",
       "title": {
-        "en": "Paul Haenen – Margreet Dolman brings Warmth and Pastor Gremdaat shows the Way",
-        "ru": "Пол Хаенен – Маргрет Долман приносит тепло, а пастор Гремдаат указывает путь"
+        "en": "Twisted Sister Tribute",
+        "ru": "Трибьют Twisted Sister"
       },
-      "date": "2026-11-05",
-      "time": "20:30",
+      "date": "2026-11-06",
+      "time": "19:30",
+      "venue": {
+        "en": "Little Devil",
+        "ru": "Little Devil"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€10",
+        "ru": "10 €"
+      },
+      "url": "https://www.littledevil.nl/"
+    },
+    {
+      "id": "acid-bunker-halloffame-2026-11-06",
+      "title": {
+        "en": "Acid Bunker",
+        "ru": "Acid Bunker"
+      },
+      "date": "2026-11-06",
+      "time": "22:00",
+      "end": "04:00",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "nightlife",
+      "status": "on-sale",
+      "note": {
+        "en": "Techno with Beverly Hills 808303, Esther Dune, Marsman.",
+        "ru": "Техно с Beverly Hills 808303, Esther Dune, Marsman."
+      },
+      "url": "https://partyflock.nl/"
+    },
+    {
+      "id": "kunstscene-opening-nachtzuster-2026-11-06",
+      "title": {
+        "en": "Kunstscene official opening",
+        "ru": "Официальное открытие Kunstscene"
+      },
+      "date": "2026-11-06",
+      "time": "19:00",
+      "venue": {
+        "en": "De Nachtzuster",
+        "ru": "De Nachtzuster"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "festival",
+      "status": "free",
+      "note": {
+        "en": "Start of the weekend with 91 locations.",
+        "ru": "Начало уикенда на 91 локации."
+      },
+      "url": "https://tilburg.com/agenda-tilburg/"
+    },
+    {
+      "id": "unfold-patroon-013-2026-11-07",
+      "title": {
+        "en": "Unfold by Patroon",
+        "ru": "Unfold by Patroon"
+      },
+      "date": "2026-11-07",
+      "venue": {
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "nightlife",
+      "status": "on-sale",
+      "url": "https://www.013.nl/"
+    },
+    {
+      "id": "gyo-kretz-rooiharten-2026-11-07",
+      "title": {
+        "en": "Gyo Kretz",
+        "ru": "Gyo Kretz"
+      },
+      "date": "2026-11-07",
+      "time": "20:00",
+      "venue": {
+        "en": "Rooi Harten Klooster (WAU Effect)",
+        "ru": "Клостерь Rooi Harten (WAU Effect)"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "note": {
+        "en": "Intimate candlelight solo performance.",
+        "ru": "Интимное сольное выступление при свете свечей."
+      },
+      "url": "https://hipsy.nl/"
+    },
+    {
+      "id": "rhythmix-schouwburg-2026-11-07",
+      "title": {
+        "en": "Rhythmix (8+)",
+        "ru": "Rhythmix (8+)"
+      },
+      "date": "2026-11-07",
+      "time": "19:00",
       "venue": {
         "en": "Schouwburg & Concertzaal Tilburg",
         "ru": "Схаубург и концертный зал Тилбурга"
@@ -128,19 +259,19 @@
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "theater",
+      "category": "family",
       "status": "on-sale",
       "note": {
-        "en": "Waiting list. Classic Dutch cabaret characters.",
-        "ru": "Лист ожидания. Классические голландские кабаре-персонажи."
+        "en": "Philzuid & Percossa interactive family concert.",
+        "ru": "Интерактивный семейный концерт Philzuid & Percossa."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
       "id": "smet-cenakel-2026-11-08",
       "title": {
-        "en": "S.M.E.T. Chamber Music – Philzuid String Trio",
-        "ru": "S.M.E.T. Камерная музыка – Струнное трио Philzuid"
+        "en": "S.M.E.T. Chamber Music: Philzuid String Trio",
+        "ru": "S.M.E.T. Камерная музыка: Philzuid String Trio"
       },
       "date": "2026-11-08",
       "time": "12:30",
@@ -154,41 +285,36 @@
       },
       "category": "church",
       "status": "on-sale",
-      "note": {
-        "en": "Sunday lunchtime chamber concert series.",
-        "ru": "Воскресная серия камерных концертов в обеденное время."
-      },
       "url": "https://www.cenakel.nl/agenda"
     },
     {
-      "id": "gyo-kretz-rooi-harten-2026-11-07",
+      "id": "kunstscene-luistersessies-013-2026-11-08",
       "title": {
-        "en": "Gyo Kretz solo candlelight",
-        "ru": "Gyo Kretz соло при свечах"
+        "en": "Kunstscene: Listening Sessions",
+        "ru": "Kunstscene: Сеансы прослушивания"
       },
-      "date": "2026-11-07",
-      "time": "20:00",
+      "date": "2026-11-08",
       "venue": {
-        "en": "Rooi Harten Klooster / WAU Effect",
-        "ru": "Klooster Rooi Harten / WAU Effect"
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "sold-out",
+      "status": "free",
       "note": {
-        "en": "Intimate solo performance in chapel setting.",
-        "ru": "Интимное соло-выступление в часовне."
+        "en": "Intimate sessions with Wild Blaze, Daliss, Voorman.",
+        "ru": "Интимные сеансы с Wild Blaze, Daliss, Voorman."
       },
-      "url": "https://resonatedharmonies.weticket.io/gyo-kretz-in-rooi-harten-wau-effect-tilburg"
+      "url": "https://www.013.nl/"
     },
     {
       "id": "betoverende-pianisten-katsaris-cenakel-2026-11-15",
       "title": {
-        "en": "Betoverende Pianisten – Cyprien Katsaris",
-        "ru": "Очаровывающие пианисты – Сиприен Кацарис"
+        "en": "Enchanting Pianists: Cyprien Katsaris",
+        "ru": "Завораживающие пианисты: Cyprien Katsaris"
       },
       "date": "2026-11-15",
       "time": "16:00",
@@ -202,46 +328,18 @@
       },
       "category": "church",
       "status": "on-sale",
-      "note": {
-        "en": "Enchanting Pianists series.",
-        "ru": "Серия Очаровывающие пианисты."
-      },
       "url": "https://www.cenakel.nl/agenda"
-    },
-    {
-      "id": "elf-elf-tilburg-2026-11-11",
-      "title": {
-        "en": "Elf-Elf carnival kick-off",
-        "ru": "Старт карнавала Elf-Elf"
-      },
-      "date": "2026-11-11",
-      "endDate": "2026-11-12",
-      "venue": {
-        "en": "Heuvel and city centre",
-        "ru": "Хёвел и центр города"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "festival",
-      "status": "free",
-      "note": {
-        "en": "Street parties, breakfast and new prince reveal around 20:11.",
-        "ru": "Уличные вечеринки, завтрак и открытие нового принца около 20:11."
-      },
-      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
     },
     {
       "id": "sinterklaas-intocht-2026-11-15",
       "title": {
-        "en": "Sinterklaas arrival",
-        "ru": "Прибытие Синтаклааса"
+        "en": "Sinterklaas Arrival",
+        "ru": "Прибытие Синтерклааса"
       },
       "date": "2026-11-15",
       "venue": {
-        "en": "Piushaven and Stadsforum",
-        "ru": "Пюсхавен и Стадсфорум"
+        "en": "Piushaven & Stadsforum",
+        "ru": "Пиусхавен и Стадсфорум"
       },
       "city": {
         "en": "Tilburg",
@@ -249,11 +347,7 @@
       },
       "category": "family",
       "status": "free",
-      "note": {
-        "en": "Family parade and arrival of Sinterklaas.",
-        "ru": "Семейный парад и прибытие Синтаклааса."
-      },
-      "url": "https://www.visit-tilburg.com/events"
+      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
     }
   ]
 }
