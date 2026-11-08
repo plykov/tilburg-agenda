@@ -1,154 +1,47 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "cc1001c6-893c-4659-9f27-76439831d523",
-  "generatedAt": "2026-11-07T08:09:25+01:00",
+  "deliveryId": "a7f3b9c2-4e5d-6a8b-9c0d-1e2f3a4b5c6d",
+  "generatedAt": "2026-11-08T08:09:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Techno unfolds at 013, sold-out candlelight at Rooi Harten, Norwegian jazz at Paradox and family percussion at the Schouwburg.",
-    "ru": "Техно разворачивается в 013, распроданный свечной концерт в Rooi Harten, норвежский джаз в Paradox и семейная перкуссия в Схаубурге."
+    "en": "Sunday 8 November: Free jazz walk through the Dwaalgebied, chamber music at Het Cenakel and Kunstscene listening sessions at 013.",
+    "ru": "Воскресенье 8 ноября: бесплатная джазовая прогулка по Дваалгебид, камерная музыка в Хет Сенакел и сессии прослушивания Кунстсцене в 013."
   },
   "events": [
     {
-      "id": "unfold-patroon-013-2026-11-07",
+      "id": "kunstscene-luistersessies-013-2026-11-08",
       "title": {
-        "en": "Unfold by Patroon",
-        "ru": "Unfold by Patroon"
+        "en": "Kunstscene: Listening Sessions",
+        "ru": "Кунстсцене: сессии прослушивания"
       },
-      "date": "2026-11-07",
-      "endDate": "2026-11-08",
-      "time": "14:00",
-      "end": "00:00",
+      "date": "2026-11-08",
+      "time": "12:30",
+      "end": "17:30",
       "venue": {
-        "en": "013",
-        "ru": "013"
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Techno day-to-night with Afem Syko, Eva Vrijdag and more.",
-        "ru": "Техно от дня до ночи с Afem Syko, Eva Vrijdag и другими."
-      },
-      "url": "https://www.013.nl/"
-    },
-    {
-      "id": "gyo-kretz-rooi-harten-2026-11-07",
-      "title": {
-        "en": "Gyo Kretz solo candlelight",
-        "ru": "Gyo Kretz соло при свечах"
-      },
-      "date": "2026-11-07",
-      "time": "20:00",
-      "end": "22:00",
-      "venue": {
-        "en": "Rooi Harten Klooster / WAU Effect",
-        "ru": "Клостер Rooi Harten / WAU Effect"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "sold-out",
-      "price": {
-        "en": "Sold out",
-        "ru": "Распродано"
-      },
-      "note": {
-        "en": "Intimate solo acoustic in candlelit chapel; completely sold out.",
-        "ru": "Интимное соло акустическое в капелле при свечах; полностью распродано."
-      },
-      "url": "https://resonatedharmonies.weticket.io/gyo-kretz-in-rooi-harten-wau-effect-tilburg"
-    },
-    {
-      "id": "maridalen-paradox-2026-11-07",
-      "title": {
-        "en": "Maridalen",
-        "ru": "Maridalen"
-      },
-      "date": "2026-11-07",
-      "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€18",
-        "ru": "€18"
-      },
-      "note": {
-        "en": "Norwegian acoustic jazz trio, first time at Paradox; no drums.",
-        "ru": "Норвежское акустическое джаз-трио, впервые в Paradox; без ударных."
-      },
-      "url": "https://www.paradoxtilburg.nl/"
-    },
-    {
-      "id": "rhythmix-schouwburg-2026-11-07",
-      "title": {
-        "en": "Rhythmix (8+) Philzuid & Percossa",
-        "ru": "Rhythmix (8+) Philzuid & Percossa"
-      },
-      "date": "2026-11-07",
-      "time": "19:00",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Family concert with clapping, stomping and spectacular percussion.",
-        "ru": "Семейный концерт с хлопаньем, топаньем и эффектной перкуссией."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/rhythmix-philzuid-percossa"
-    },
-    {
-      "id": "winter-love-festival-groenrijk-2026-11-07",
-      "title": {
-        "en": "Winter Love Festival",
-        "ru": "Winter Love Festival"
-      },
-      "date": "2026-11-07",
-      "time": "12:00",
-      "end": "17:00",
-      "venue": {
-        "en": "GroenRijk Tilburg",
-        "ru": "GroenRijk Тилбург"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "family",
       "status": "free",
       "price": {
         "en": "Free",
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Winter treats, music and activities for all ages.",
-        "ru": "Зимние угощения, музыка и активности для всех возрастов."
+        "en": "Intimate sessions with Wild Blaze, Daliss and Voorman in the Next Stage foyer.",
+        "ru": "Интимные сессии с Wild Blaze, Daliss и Voorman в фойе Next Stage."
       },
-      "url": "https://tilburg.com/agenda/winter-love-festival-bij-groenrijk-3/"
+      "url": "https://www.013.nl/en/events/161568/kunstscene-luistersessies"
     },
     {
-      "id": "smet-philzuid-cenakel-2026-11-08",
+      "id": "smet-philzuid-string-trio-cenakel-2026-11-08",
       "title": {
         "en": "S.M.E.T. Chamber Music: Philzuid String Trio",
-        "ru": "S.M.E.T. Камерная музыка: Струнное трио Philzuid"
+        "ru": "С.М.Е.Т. Камерная музыка: Струнное трио Philzuid"
       },
       "date": "2026-11-08",
       "time": "12:30",
@@ -162,23 +55,56 @@
       },
       "category": "church",
       "status": "on-sale",
-      "note": {
-        "en": "Sunday lunchtime chamber concert in the historic chapel.",
-        "ru": "Воскресный камерный концерт в исторической капелле."
+      "price": {
+        "en": "€18 (incl. coffee/tea)",
+        "ru": "€18 (включая кофе/чай)"
       },
-      "url": "https://www.cenakel.nl/agenda"
+      "note": {
+        "en": "Schubert, Weinberg and Beethoven string trios. Students €10, children free.",
+        "ru": "Струнные трио Шуберта, Вайнберга и Бетховена. Студенты €10, дети бесплатно."
+      },
+      "url": "https://www.cenakel.nl/agenda/545-s-m-e-t-kamermuziek-20/2026-11-08-12-30"
     },
     {
-      "id": "m-kids-013-2026-11-08",
+      "id": "take-five-jazz-festival-dwaalgebied-2026-11-08",
       "title": {
-        "en": "M-Kids reunion",
-        "ru": "Воссоединение M-Kids"
+        "en": "Take Five Jazz Festival in the Dwaalgebied",
+        "ru": "Джазовый фестиваль Take Five в Дваалгебид"
       },
       "date": "2026-11-08",
-      "time": "19:00",
+      "time": "14:00",
+      "end": "19:30",
       "venue": {
-        "en": "013",
-        "ru": "013"
+        "en": "Dwaalgebied (Paradox, De Harmonie and others)",
+        "ru": "Дваалгебид (Paradox, De Harmonie и другие)"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "festival",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Walk between five venues for live jazz. Includes PARRA.DICE at Paradox.",
+        "ru": "Прогулка между пятью площадками с живым джазом. Включает PARRA.DICE в Paradox."
+      },
+      "url": "https://tilburg.com/agenda/take-five-jazz-festival-in-het-dwaalgebied/"
+    },
+    {
+      "id": "messa-013-2026-11-09",
+      "title": {
+        "en": "Messa EU/UK Tour",
+        "ru": "Messa тур ЕС/Великобритания"
+      },
+      "date": "2026-11-09",
+      "time": "20:00",
+      "venue": {
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
       },
       "city": {
         "en": "Tilburg",
@@ -186,17 +112,76 @@
       },
       "category": "music",
       "status": "on-sale",
-      "note": {
-        "en": "Only NL show of the iconic Flemish girl group.",
-        "ru": "Единственный концерт в Нидерландах легендарной фламандской группы."
+      "price": {
+        "en": "€23.30",
+        "ru": "€23.30"
       },
-      "url": "https://www.013.nl/"
+      "note": {
+        "en": "Italian scarlet doom with The Night Eternal. Doors 19:00.",
+        "ru": "Итальянский scarlet doom с The Night Eternal. Двери в 19:00."
+      },
+      "url": "https://www.013.nl/en/events/126189/messa"
     },
     {
-      "id": "betoverende-pianisten-katsaris-cenakel-2026-11-15",
+      "id": "elf-elf-tilburg-2026-11-11",
+      "title": {
+        "en": "Elf-Elf: Start of Carnival Season",
+        "ru": "Эльф-Эльф: начало карнавального сезона"
+      },
+      "date": "2026-11-11",
+      "time": "13:11",
+      "venue": {
+        "en": "Heuvel and city centre",
+        "ru": "Хёвел и центр города"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "festival",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Official kick-off of carnival season with parties across the city.",
+        "ru": "Официальный старт карнавального сезона с вечеринками по всему городу."
+      },
+      "url": "https://www.visit-tilburg.com/events"
+    },
+    {
+      "id": "sinterklaas-intocht-2026-11-15",
+      "title": {
+        "en": "Sinterklaas Arrival",
+        "ru": "Прибытие Синтаклааса"
+      },
+      "date": "2026-11-15",
+      "venue": {
+        "en": "Piushaven and Stadsforum",
+        "ru": "Пиусхавен и Стадсфорум"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Sinterklaas arrives by boat at Piushaven with parade through the city.",
+        "ru": "Синтаклаас прибывает на лодке в Пиусхавен с парадом по городу."
+      },
+      "url": "https://www.visit-tilburg.com/events"
+    },
+    {
+      "id": "cyprien-katsaris-cenakel-2026-11-15",
       "title": {
         "en": "Enchanting Pianists: Cyprien Katsaris",
-        "ru": "Очаровывающие пианисты: Cyprien Katsaris"
+        "ru": "Чарующие пианисты: Cyprien Katsaris"
       },
       "date": "2026-11-15",
       "time": "16:00",
@@ -211,8 +196,8 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "Piano recital in the Betoverende Pianisten series.",
-        "ru": "Фортепианный рецитал в серии «Очаровывающие пианисты»."
+        "en": "Piano recital in the intimate chapel series.",
+        "ru": "Фортепианный рецитал в интимной серии капеллы."
       },
       "url": "https://www.cenakel.nl/agenda"
     }
