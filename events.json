@@ -1,21 +1,22 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "0ad17eaa-1bde-4b6d-97ee-b0edfcda0ed8",
-  "generatedAt": "2026-11-09T08:08:00+01:00",
+  "deliveryId": "41b06244-54bc-4d08-b795-040a54922459",
+  "generatedAt": "2026-11-10T08:09:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Carnival season starts mid-week as doom metal and theater fill the evenings.",
-    "ru": "Карнавальный сезон начинается в середине недели, пока дум-метал и театр заполняют вечера."
+    "en": "The Fray headlines 013 tonight while free jazz and carnival pre-party warm up for Elf-Elf tomorrow.",
+    "ru": "The Fray возглавляет программу в 013 сегодня вечером, пока бесплатный джаз и предкарнавальная вечеринка разогревают к Elf-Elf завтра."
   },
   "events": [
     {
-      "id": "messa-2026-11-09",
+      "id": "the-fray-2026-11-10",
       "title": {
-        "en": "Messa with The Night Eternal",
-        "ru": "Messa с The Night Eternal"
+        "en": "The Fray Autumn Light Tour",
+        "ru": "The Fray тур Autumn Light"
       },
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "time": "19:00",
+      "end": "22:30",
       "venue": {
         "en": "013 Poppodium",
         "ru": "013 Poppodium"
@@ -27,61 +28,42 @@
       "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "€23.30",
-        "ru": "€23.30"
+        "en": "€44.80",
+        "ru": "€44.80"
       },
       "note": {
-        "en": "Italian scarlet doom; doors 19:00, support 20:00, Messa 21:00.",
-        "ru": "Итальянский алый дум; двери 19:00, разогрев 20:00, Messa 21:00."
+        "en": "Doors 19:00, JEN 20:00, The Fray 21:00; only NL show.",
+        "ru": "Двери 19:00, JEN 20:00, The Fray 21:00; единственный концерт в Нидерландах."
       },
-      "url": "https://www.013.nl/programma/126189/messa"
+      "url": "https://www.013.nl/en/events/127397/the-fray"
     },
     {
-      "id": "carnaval-premiere-2026-11-09",
+      "id": "jazzsessie-paradox-2026-11-10",
       "title": {
-        "en": "Public premiere of the film Carnaval",
-        "ru": "Публичная премьера фильма Carnaval"
-      },
-      "date": "2026-11-09",
-      "venue": {
-        "en": "Pathé Tilburg Stappegoor",
-        "ru": "Pathé Тилбург Стаппегоор"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Special screening with cast; carnival outfits welcome.",
-        "ru": "Специальный показ с участием актеров; карнавальные костюмы приветствуются."
-      },
-      "url": "https://tilburg.com/nieuws/een-weekend-vol-winterse-gezelligheid-carnavalskriebels-livemuziek-en-meer-dit-zijn-onze-weekend-uittips/"
-    },
-    {
-      "id": "the-fray-2026-11-10",
-      "title": {
-        "en": "The Fray",
-        "ru": "The Fray"
+        "en": "Jazz session with Kees van Schijndel",
+        "ru": "Джазовая сессия с Kees van Schijndel"
       },
       "date": "2026-11-10",
-      "time": "19:00",
+      "time": "20:30",
       "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "en": "Paradox",
+        "ru": "Paradox"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Only NL show of Autumn Light Tour; known for How to Save a Life.",
-        "ru": "Единственный концерт в Нидерландах тура Autumn Light; известны песней How to Save a Life."
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
       },
-      "url": "https://www.013.nl/programma"
+      "note": {
+        "en": "Open jazz session at the intimate jazz club.",
+        "ru": "Открытая джазовая сессия в интимном джаз-клубе."
+      },
+      "url": "https://paradoxtilburg.nl/"
     },
     {
       "id": "ons-kind-2026-11-10",
@@ -102,10 +84,90 @@
       "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Theater piece exploring family themes.",
-        "ru": "Театральная постановка на тему семьи."
+        "en": "Theater exploring family and psychology themes.",
+        "ru": "Театр, исследующий темы семьи и психологии."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda"
+    },
+    {
+      "id": "william-janz-2026-11-10",
+      "title": {
+        "en": "William Janz: Amor De Mis Amores (Tribute to Julio Iglesias)",
+        "ru": "William Janz: Amor De Mis Amores (трибьют Julio Iglesias)"
+      },
+      "date": "2026-11-10",
+      "time": "20:00",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "note": {
+        "en": "Waiting list only; Latin tribute concert.",
+        "ru": "Только лист ожидания; латиноамериканский трибьют-концерт."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda"
+    },
+    {
+      "id": "benees-musical-night-2026-11-10",
+      "title": {
+        "en": "Benee's Musical Night",
+        "ru": "Музыкальный вечер Benee's"
+      },
+      "date": "2026-11-10",
+      "time": "20:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg (Benee)",
+        "ru": "Схаубург и концертный зал Тилбурга (Benee)"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Free musical night, no reservation needed.",
+        "ru": "Бесплатный музыкальный вечер, бронь не нужна."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda"
+    },
+    {
+      "id": "ut-bekaant-2026-11-10",
+      "title": {
+        "en": "Ut Bekáánt carnival pre-party",
+        "ru": "Ut Bekáánt предкарнавальная вечеринка"
+      },
+      "date": "2026-11-10",
+      "time": "20:11",
+      "venue": {
+        "en": "Café De Boekanier",
+        "ru": "Café De Boekanier"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "nightlife",
+      "status": "on-sale",
+      "price": {
+        "en": "€25",
+        "ru": "€25"
+      },
+      "note": {
+        "en": "Countdown to carnival season with music and Schrobbelèr; proceeds to Kruikenstad.",
+        "ru": "Отсчёт до карнавального сезона с музыкой и Schrobbelèr; выручка на Kruikenstad."
+      },
+      "url": "https://tilburg.com/nieuws/een-weekend-vol-winterse-gezelligheid-carnavalskriebels-livemuziek-en-meer-dit-zijn-onze-weekend-uittips/"
     },
     {
       "id": "elf-elf-2026-11-11",
@@ -129,10 +191,10 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Official start of carnival season across Piusplein, Heuvel, Stadhuisstraat and more.",
-        "ru": "Официальный старт карнавального сезона на Piusplein, Heuvel, Stadhuisstraat и других площадках."
+        "en": "Official carnival season start: green-orange parties across Heuvel, Piusplein, Stadhuisstraat.",
+        "ru": "Официальный старт карнавального сезона: зелёно-оранжевые вечеринки на Heuvel, Piusplein, Stadhuisstraat."
       },
-      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
+      "url": "https://www.visit-tilburg.com/events"
     },
     {
       "id": "enter-shikari-2026-11-11",
@@ -152,22 +214,22 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "Only NL show.",
-        "ru": "Единственный концерт в Нидерландах."
+        "en": "Only NL show of the post-hardcore act.",
+        "ru": "Единственный концерт в Нидерландах пост-хардкор группы."
       },
-      "url": "https://www.013.nl/programma"
+      "url": "https://www.013.nl/en"
     },
     {
-      "id": "roxeanne-hazes-2026-11-12",
+      "id": "next-movement-2026-11-11",
       "title": {
-        "en": "Roxeanne Hazes ... with Heimwee",
-        "ru": "Roxeanne Hazes ... с Heimwee"
+        "en": "The Next Movement",
+        "ru": "The Next Movement"
       },
-      "date": "2026-11-12",
-      "time": "20:15",
+      "date": "2026-11-11",
+      "time": "20:30",
       "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
+        "en": "Paradox",
+        "ru": "Paradox"
       },
       "city": {
         "en": "Tilburg",
@@ -175,23 +237,27 @@
       },
       "category": "music",
       "status": "on-sale",
-      "note": {
-        "en": "Dutch pop concert.",
-        "ru": "Концерт голландской поп-музыки."
+      "price": {
+        "en": "€20",
+        "ru": "€20"
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+      "note": {
+        "en": "Swiss funk & jazzrock on Karma Dojo Tour.",
+        "ru": "Швейцарский фанк и джаз-рок в туре Karma Dojo."
+      },
+      "url": "https://paradoxtilburg.nl/"
     },
     {
-      "id": "filosofische-gesprekken-2026-11-12",
+      "id": "comedy-of-errors-2026-11-11",
       "title": {
-        "en": "Philosophical Conversations: Inequality",
-        "ru": "Философские беседы: Неравенство"
+        "en": "A Comedy of Errors",
+        "ru": "Комедия ошибок"
       },
-      "date": "2026-11-12",
-      "time": "11:00",
+      "date": "2026-11-11",
+      "time": "20:30",
       "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
+        "en": "Theater De Nieuwe Vorst",
+        "ru": "Театр De Nieuwe Vorst"
       },
       "city": {
         "en": "Tilburg",
@@ -200,10 +266,10 @@
       "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Series with Jan Verweij.",
-        "ru": "Серия с Яном Вервейем."
+        "en": "Shakespeare adaptation by Claessens and Kegels with doubles and confusion.",
+        "ru": "Адаптация Шекспира от Claessens и Kegels с двойниками и путаницей."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
+      "url": "https://denieuwevorst.nl/"
     },
     {
       "id": "cyprien-katsaris-2026-11-15",
@@ -224,7 +290,7 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "Piano recital in the chapel series Betoverende Pianisten.",
+        "en": "Piano recital in the Betoverende Pianisten series at the chapel.",
         "ru": "Фортепианный рецитал в серии Betoverende Pianisten в капелле."
       },
       "url": "https://www.cenakel.nl/agenda"
@@ -251,8 +317,8 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Traditional arrival by boat at Piushaven.",
-        "ru": "Традиционный въезд на лодке в Пейсхавен."
+        "en": "Traditional boat arrival at Piushaven with Pieten.",
+        "ru": "Традиционный въезд на лодке в Пейсхавен с Питами."
       },
       "url": "https://www.visit-tilburg.com/events"
     },
@@ -263,7 +329,7 @@
         "ru": "Зимний рай Тилбурга"
       },
       "date": "2026-11-20",
-      "endDate": "2027-01-03",
+      "endDate": "2027-01-10",
       "venue": {
         "en": "Heuvel",
         "ru": "Хёвел"
@@ -275,10 +341,10 @@
       "category": "festival",
       "status": "on-sale",
       "note": {
-        "en": "Winter hotspot on the Heuvel until early January.",
-        "ru": "Зимняя горячая точка на Хёвел до начала января."
+        "en": "Winter hotspot on the Heuvel until 10 January.",
+        "ru": "Зимняя горячая точка на Хёвел до 10 января."
       },
-      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
+      "url": "https://tilburg.com/nieuws/tilburg-trakteert-elf-elf-sinterklaas-tilburgs-winterparadijs-en-meer-dit-is-er-te-doen-in-november/"
     }
   ]
 }
