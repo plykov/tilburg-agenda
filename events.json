@@ -1,240 +1,13 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "215e4647-bd04-401a-95fd-b8205b28d1eb",
-  "generatedAt": "2026-11-12T08:08:00+01:00",
+  "deliveryId": "992d39ff-65b1-4100-877b-a1de5749625a",
+  "generatedAt": "2026-11-13T08:07:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Nordic Giants bring cinematic postrock to Little Devil while Roxeanne Hazes sings of homesickness and vinyl hunters raid the record fair.",
-    "ru": "Nordic Giants приносят кинематографический пост-рок в Little Devil, пока Roxeanne Hazes поёт о тоске по дому, а охотники за винилом штурмуют ярмарку пластинок."
+    "en": "Soulful Sessions XL and fast-forward family theater open a packed Tilburg weekend",
+    "ru": "Soulful Sessions XL и семейный театр в ускоренном режиме открывают насыщенный уикенд в Тилбурге"
   },
   "events": [
-    {
-      "id": "tilburgse-platenmarkt-2026-11-12",
-      "title": {
-        "en": "The Tilburg Record Fair",
-        "ru": "Тилбургская ярмарка пластинок"
-      },
-      "date": "2026-11-12",
-      "time": "13:00",
-      "end": "17:00",
-      "venue": {
-        "en": "Stadhuisplein & Katterug",
-        "ru": "Стадхёйсплейн и Каттерюг"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "family",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Free vinyl, CD and singles market on the town hall square.",
-        "ru": "Бесплатная ярмарка винила, CD и синглов на площади ратуши."
-      },
-      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
-    },
-    {
-      "id": "nordic-giants-2026-11-12",
-      "title": {
-        "en": "Nordic Giants European Tour with L.O.E.",
-        "ru": "Nordic Giants Европейский тур с L.O.E."
-      },
-      "date": "2026-11-12",
-      "time": "20:00",
-      "end": "22:30",
-      "venue": {
-        "en": "Little Devil (013 on location)",
-        "ru": "Little Devil (013 на локации)"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€19.30",
-        "ru": "€19.30"
-      },
-      "note": {
-        "en": "Instrumental postrock with cinematic horror visuals; doors 19:00.",
-        "ru": "Инструментальный пост-рок с кинематографическим хоррор-визуалом; двери 19:00."
-      },
-      "url": "https://www.013.nl/en/events/141473/nordic-giants"
-    },
-    {
-      "id": "roxeanne-hazes-2026-11-12",
-      "title": {
-        "en": "Roxeanne Hazes: With Homesickness",
-        "ru": "Roxeanne Hazes: С тоской по дому"
-      },
-      "date": "2026-11-12",
-      "time": "20:15",
-      "end": "22:20",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "from €27.50",
-        "ru": "от €27.50"
-      },
-      "note": {
-        "en": "Intimate theater tour; last tickets in first rank. Interval included.",
-        "ru": "Интимный театральный тур; последние билеты в первом ряду. Антракт включён."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/roxeanne-hazes-met-heimwee"
-    },
-    {
-      "id": "ares-andere-man-2026-11-12",
-      "title": {
-        "en": "Ares: The Other Man Tour",
-        "ru": "Ares: Тур Другой человек"
-      },
-      "date": "2026-11-12",
-      "time": "20:00",
-      "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€25.25",
-        "ru": "€25.25"
-      },
-      "note": {
-        "en": "Hip-hop with live band; support Morris. Album film screening first.",
-        "ru": "Хип-хоп с живой группой; поддержка Morris. Сначала показ фильма альбома."
-      },
-      "url": "https://tilburg.com/agenda/ares-bij-hall-of-fame/"
-    },
-    {
-      "id": "talent-meets-talent-2026-11-12",
-      "title": {
-        "en": "Talent Meets Talent: Marou & Massin + Dim",
-        "ru": "Talent Meets Talent: Marou & Massin + Dim"
-      },
-      "date": "2026-11-12",
-      "time": "19:00",
-      "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€6.75",
-        "ru": "€6.75"
-      },
-      "note": {
-        "en": "Emerging hip-hop showcases; supports Lau, Ajay, Rammes.",
-        "ru": "Витрины восходящего хип-хопа; поддержка Lau, Ajay, Rammes."
-      },
-      "url": "https://www.podiuminfo.nl/concert/493398/Talent-Meets-Talent-MAROU-MASSIN-DIM/Hall-Of-Fame/"
-    },
-    {
-      "id": "het-nut-als-vader-2026-11-12",
-      "title": {
-        "en": "Het NUT: When Fighting Is a Father",
-        "ru": "Het NUT: Когда боротьба — это отец"
-      },
-      "date": "2026-11-12",
-      "time": "20:30",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg (Studio)",
-        "ru": "Схаубург и концертный зал Тилбурга (Студия)"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "€19",
-        "ru": "€19"
-      },
-      "note": {
-        "en": "Theater about absent fathers and vulnerability; NRC best company 2024.",
-        "ru": "Театр об отсутствующих отцах и уязвимости; лучшая труппа NRC 2024."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/als-vader-vechten-is-het-nut"
-    },
-    {
-      "id": "asset-liability-equity-2026-11-12",
-      "title": {
-        "en": "Asset, Liability & Equity",
-        "ru": "Asset, Liability & Equity"
-      },
-      "date": "2026-11-12",
-      "time": "20:30",
-      "venue": {
-        "en": "Theater De Nieuwe Vorst",
-        "ru": "Театр De Nieuwe Vorst"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "€9.50–19",
-        "ru": "€9.50–19"
-      },
-      "note": {
-        "en": "Modern dance by ARK / Connor Schumacher on love, care and competition.",
-        "ru": "Современный танец ARK / Connor Schumacher о любви, заботе и конкуренции."
-      },
-      "url": "https://denieuwevorst.nl/programma"
-    },
-    {
-      "id": "paravocaal-2026-11-12",
-      "title": {
-        "en": "Paravocaal led by Louise Donker",
-        "ru": "Paravocaal под руководством Louise Donker"
-      },
-      "date": "2026-11-12",
-      "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Singer-songwriter and soul/pop session; doors 20:00.",
-        "ru": "Сессия сонграйтера и соул/поп; двери 20:00."
-      },
-      "url": "https://paradoxtilburg.nl/agenda/"
-    },
     {
       "id": "soulful-sessions-xl-2026-11-13",
       "title": {
@@ -255,20 +28,101 @@
       "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "€27–35.50",
-        "ru": "€27–35.50"
+        "en": "€27–€35.50",
+        "ru": "€27–€35.50"
       },
       "note": {
-        "en": "Soul, R&B, funk night with Sol & The Gang, Bo Saris and sing-along.",
-        "ru": "Вечер соул, R&B, фанк с Sol & The Gang, Bo Saris и синг-элонг."
+        "en": "XL soul, R&B and funk sing-along featuring Sol & The Gang, Bo Saris and more.",
+        "ru": "XL-сессия соула, R&B и фанка с Sol & The Gang, Bo Saris и другими."
       },
-      "url": "https://www.013.nl/programma/128999/the-soulful-sessions"
+      "url": "https://www.013.nl/en/events/128999/the-soulful-sessions"
+    },
+    {
+      "id": "nu-is-het-nog-rustig-2026-11-13",
+      "title": {
+        "en": "It's Still Quiet (8+)",
+        "ru": "Пока ещё тихо (8+)"
+      },
+      "date": "2026-11-13",
+      "time": "19:30",
+      "end": "20:50",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "€19.50",
+        "ru": "€19.50"
+      },
+      "note": {
+        "en": "Fast-forward family drama by Jetse Batelaan with Theater Artemis and Het Zuidelijk Toneel.",
+        "ru": "Семейная драма в ускоренном режиме от Йетсе Бателаана с Theater Artemis и Het Zuidelijk Toneel."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/nu-is-het-nog-rustig-theater-artemis-het-zuidelijk"
+    },
+    {
+      "id": "teddy-sicking-2026-11-13",
+      "title": {
+        "en": "Teddy Sicking & TJ's Pretty People",
+        "ru": "Teddy Sicking & TJ's Pretty People"
+      },
+      "date": "2026-11-13",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€16",
+        "ru": "€16"
+      },
+      "note": {
+        "en": "Modern creative jazz; Conservatorium Talent Award winner.",
+        "ru": "Современный креативный джаз; победитель Conservatorium Talent Award."
+      },
+      "url": "https://www.paradoxtilburg.nl/"
+    },
+    {
+      "id": "julia-sabate-2026-11-13",
+      "title": {
+        "en": "Julia Sabaté – Egoísta Tour",
+        "ru": "Julia Sabaté – Egoísta Tour"
+      },
+      "date": "2026-11-13",
+      "time": "20:00",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Alternative tour stop at the cultuurfabriek.",
+        "ru": "Остановка альтернативного тура в культуурфабрике."
+      },
+      "url": "https://www.podiuminfo.nl/concertagenda/podium/hall-of-fame/"
     },
     {
       "id": "cyprien-katsaris-2026-11-15",
       "title": {
         "en": "Enchanting Pianists: Cyprien Katsaris",
-        "ru": "Очаровательные пианисты: Cyprien Katsaris"
+        "ru": "Очаровывающие пианисты: Cyprien Katsaris"
       },
       "date": "2026-11-15",
       "time": "16:00",
@@ -282,24 +136,85 @@
       },
       "category": "church",
       "status": "on-sale",
-      "note": {
-        "en": "Piano recital in the Betoverende Pianisten series at the former monastery chapel.",
-        "ru": "Фортепианный рецитал в серии Betoverende Pianisten в бывшей монастырской капелле."
+      "price": {
+        "en": "€25 (students €10, under 12 free)",
+        "ru": "€25 (студенты €10, до 12 лет бесплатно)"
       },
-      "url": "https://www.cenakel.nl/agenda"
+      "note": {
+        "en": "Haydn, Schubert, Beethoven, Chopin and Liszt in the intimate chapel; coffee or tea included.",
+        "ru": "Гайдн, Шуберт, Бетховен, Шопен и Лист в интимной часовне; кофе или чай включены."
+      },
+      "url": "https://www.cenakel.nl/agenda/551-betoverende-pianisten-20/2026-11-15-16-00"
+    },
+    {
+      "id": "adem-van-het-woud-2026-11-14",
+      "title": {
+        "en": "Breath of the Forest",
+        "ru": "Дыхание леса"
+      },
+      "date": "2026-11-14",
+      "time": "20:00",
+      "end": "21:15",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "€34.50",
+        "ru": "€34.50"
+      },
+      "note": {
+        "en": "Theatrical concert with Nederlands Blazers Ensemble and Duda Paiva Company inspired by the Amazon.",
+        "ru": "Театральный концерт Nederlands Blazers Ensemble и Duda Paiva Company, вдохновлённый Амазонкой."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/nederlands-blazers-ensemble-duda-paiva-company-adem-van-het-woud"
+    },
+    {
+      "id": "carmina-burana-2026-11-15",
+      "title": {
+        "en": "Carmina Burana",
+        "ru": "Carmina Burana"
+      },
+      "date": "2026-11-15",
+      "time": "14:00",
+      "end": "17:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "sold-out",
+      "price": {
+        "en": "Waiting list",
+        "ru": "Лист ожидания"
+      },
+      "note": {
+        "en": "Orff's masterpiece with Studiosi Cantandi, Koninklijk Mannenkoor Sint Caecilia and full orchestra.",
+        "ru": "Шедевр Орфа с Studiosi Cantandi, Koninklijk Mannenkoor Sint Caecilia и полным оркестром."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/carmina-burana-studiosi-cantandi"
     },
     {
       "id": "sinterklaas-intocht-2026-11-15",
       "title": {
-        "en": "Sinterklaas arrival",
-        "ru": "Въезд Синтерклааса"
+        "en": "Sinterklaas Arrival",
+        "ru": "Прибытие Синтаклааса"
       },
       "date": "2026-11-15",
-      "time": "11:30",
-      "end": "16:00",
+      "time": "15:00",
       "venue": {
-        "en": "Piushaven & Willemsplein",
-        "ru": "Пейсхавен и Виллемсплейн"
+        "en": "Piushaven",
+        "ru": "Piushaven"
       },
       "city": {
         "en": "Tilburg",
@@ -312,10 +227,10 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Boat arrival around 11:30 at Piushaven, procession to Willemsplein.",
-        "ru": "Прибытие лодки около 11:30 в Пейсхавен, шествие на Виллемсплейн."
+        "en": "Sinterklaas arrives by boat at the Piushaven; city-wide celebration.",
+        "ru": "Синтаклаас прибывает на лодке в Piushaven; городской праздник."
       },
-      "url": "https://www.tilburg.nl/nieuws/item/intocht-sint-zondag-15-november/"
+      "url": "https://www.visit-tilburg.com/events"
     }
   ]
 }
