@@ -1,38 +1,62 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "a4f56d50-5ca6-4b65-a5af-001f506bbb31",
-  "generatedAt": "2026-11-14T19:15:00+01:00",
+  "deliveryId": "79151f84-2aa3-403f-8070-dfce933b87d3",
+  "generatedAt": "2026-11-15T19:10:31+01:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:15 Amsterdam",
+  "source": "Grok verified permalinks 19:10 Amsterdam",
   "headline": {
-    "nl": "Begroting 2027 vastgesteld; Sinterklaas komt morgen aan in de Piushaven",
-    "en": "2027 budget adopted; Sinterklaas arrives tomorrow in the Piushaven",
-    "ru": "Бюджет 2027 принят; Синтерклаас прибудет завтра в Пиусхавен"
+    "nl": "Sinterklaas arriveert vandaag in Tilburg; brand vernielt elektrische auto in Berkel-Enschot",
+    "en": "Sinterklaas arrives today in Tilburg; fire destroys electric car in Berkel-Enschot",
+    "ru": "Синтерклаас прибывает сегодня в Тилбург; пожар уничтожил электромобиль в Беркель-Энсхот"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 9,
   "items": [
     {
-      "id": "omroep-brabant-2026-11-13-jim-gardner",
+      "id": "omroep-brabant-2026-11-15-brand-auto-berkel",
       "sourceId": "omroep-brabant",
       "sourceName": "Omroep Brabant",
-      "category": "cultuur",
-      "publishedAt": "2026-11-13T21:42:00+01:00",
+      "category": "incident",
+      "publishedAt": "2026-11-15T05:56:00+01:00",
       "title": {
-        "nl": "Jim schreef voor Hardwell, nu staat hij in het voorprogramma van Flemming",
-        "en": "Jim wrote for Hardwell, now he opens for Flemming",
-        "ru": "Джим писал для Hardwell, теперь он выступает в разогреве у Flemming"
+        "nl": "Brand verwoest elektrische auto tijdens opladen, ook laadpaal gaat eraan",
+        "en": "Fire destroys electric car while charging, charging point also destroyed",
+        "ru": "Пожар уничтожил электромобиль во время зарядки, зарядная станция также пострадала"
       },
       "teaser": {
-        "nl": "Jim van Hooff uit Berkel-Enschot schreef jarenlang nummers voor artiesten als Hardwell en Armin van Buuren. Nu staat hij zelf op het podium als Jim Gardner in het voorprogramma van Flemming.",
-        "en": "Jim van Hooff from Berkel-Enschot wrote songs for years for artists like Hardwell and Armin van Buuren. Now he takes the stage himself as Jim Gardner opening for Flemming.",
-        "ru": "Джим ван Хоофф из Беркель-Энсхот годами писал песни для артистов вроде Hardwell и Armin van Buuren. Теперь он сам выходит на сцену как Jim Gardner в разогреве у Flemming."
+        "nl": "Een elektrische auto is zaterdagavond door brand verwoest aan de Habijtstraat in Berkel-Enschot tijdens het opladen. Ook de laadpaal en een naastgelegen auto raakten beschadigd. Vermoedelijk technisch mankement.",
+        "en": "An electric car was destroyed by fire on Saturday evening on Habijtstraat in Berkel-Enschot while charging. The charging point and an adjacent car were also damaged. Probably a technical defect.",
+        "ru": "Электромобиль сгорел в субботу вечером на улице Хабейтстраат в Беркель-Энсхот во время зарядки. Зарядная станция и соседний автомобиль также пострадали. Вероятно, техническая неисправность."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6034759/jim-schreef-voor-hardwell-nu-staat-hij-in-het-voorprogramma-van-flemming",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034830/brand-verwoest-elektrische-auto-tijdens-opladen-ook-laadpaal-gaat-eraan",
       "paywall": false,
       "city": "Berkel-Enschot",
-      "tags": ["muziek", "cultuur"]
+      "area": "Habijtstraat",
+      "tags": ["brand", "auto", "incident"]
+    },
+    {
+      "id": "omroep-brabant-2026-11-14-fatbiker-sibeliusstraat",
+      "sourceId": "omroep-brabant",
+      "sourceName": "Omroep Brabant",
+      "category": "incident",
+      "publishedAt": "2026-11-14T22:02:00+01:00",
+      "title": {
+        "nl": "Fatbiker slaat op de vlucht en botst met politiewagen in Tilburg",
+        "en": "Fatbiker flees and collides with police car in Tilburg",
+        "ru": "Водитель фэтбайка сбегает и сталкивается с полицейской машиной в Тилбурге"
+      },
+      "teaser": {
+        "nl": "Een man op een fatbike is zaterdagavond gebotst met een politiewagen aan de Sibeliusstraat in Tilburg. De politie was ter plaatse na een melding van vuurwerkoverlast.",
+        "en": "A man on a fatbike collided with a police car on Sibeliusstraat in Tilburg on Saturday evening. Police were on site after a report of fireworks nuisance.",
+        "ru": "Мужчина на фэтбайке столкнулся с полицейской машиной на Сибелиусстраат в Тилбурге в субботу вечером. Полиция была на месте после сообщения о нарушении порядка из-за фейерверков."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroepbrabant.nl/nieuws/6034822/fatbiker-slaat-op-de-vlucht-en-botst-met-politiewagen-in-tilburg",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "Sibeliusstraat",
+      "tags": ["politie", "incident", "verkeer"]
     },
     {
       "id": "omroep-tilburg-2026-11-13-dillenburglaan",
@@ -150,7 +174,7 @@
       "id": "gemeente-2026-11-10-intocht-sint",
       "sourceId": "gemeente",
       "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
+      "category": "cultuur",
       "publishedAt": "2026-11-10T00:00:00+01:00",
       "title": {
         "nl": "Intocht Sint zondag 15 november",
@@ -191,28 +215,6 @@
       "city": "Tilburg",
       "area": "Landgoed Sparrenhof",
       "tags": ["groen", "werkzaamheden"]
-    },
-    {
-      "id": "omroep-brabant-2026-11-09-kerstconcert-abdij",
-      "sourceId": "omroep-brabant",
-      "sourceName": "Omroep Brabant",
-      "category": "cultuur",
-      "publishedAt": "2026-11-09T12:00:00+01:00",
-      "title": {
-        "nl": "Traditioneel kerstconcert in trappistenabdij afgelast: 'Moeilijk besluit'",
-        "en": "Traditional Christmas concert at Trappist abbey cancelled: 'Difficult decision'",
-        "ru": "Традиционный рождественский концерт в траппистском аббатстве отменён: «Трудное решение»"
-      },
-      "teaser": {
-        "nl": "Het jaarlijkse kerstconcert in de abdijkerk in Berkel-Enschot gaat niet door vanwege te hoge verwarmingskosten. De opbrengsten gingen normaal naar een goed doel.",
-        "en": "The annual Christmas concert in the abbey church in Berkel-Enschot will not take place due to excessively high heating costs. Proceeds normally went to a good cause.",
-        "ru": "Ежегодный рождественский концерт в аббатской церкви в Беркель-Энсхот не состоится из-за слишком высоких затрат на отопление. Обычно средства шли на благотворительность."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6034060/traditioneel-kerstconcert-in-trappistenabdij-afgelast-moeilijk-besluit",
-      "paywall": false,
-      "city": "Berkel-Enschot",
-      "tags": ["cultuur", "concert", "kerst"]
     }
   ]
 }
