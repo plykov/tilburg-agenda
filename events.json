@@ -1,216 +1,25 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "5dcd9fbe-8992-40ba-a6b5-21d10b83d778",
-  "generatedAt": "2026-11-14T08:08:00+01:00",
+  "deliveryId": "1daaf215-b08d-4bf3-88c7-21a08f830fdb",
+  "generatedAt": "2026-11-15T08:08:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Saturday 14 November: Sold-out hardstyle spectacle at 013, theatrical Amazon concert at Schouwburg, and intimate jazz at Paradox.",
-    "ru": "Суббота 14 ноября: распродано hardstyle-шоу в 013, театральный амазонский концерт в Схаубурге и интимный джаз в Paradox."
+    "en": "Sinterklaas arrives in Tilburg amid Carmina Burana, Cyprien Katsaris at the Cenakel and sold-out President at 013",
+    "ru": "Синтерклаас прибывает в Тилбург на фоне Кармина Бурана, Сиприена Катсариса в Сенакеле и распроданного President в 013"
   },
   "events": [
     {
-      "id": "peacock-in-concert-013-2026-11-14",
-      "title": {
-        "en": "Peacock In Concert: The Orchestrated Universe",
-        "ru": "Peacock In Concert: The Orchestrated Universe"
-      },
-      "date": "2026-11-14",
-      "time": "20:00",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "price": {
-        "en": "Sold out",
-        "ru": "Распродано"
-      },
-      "note": {
-        "en": "Dr. Peacock returns with orchestrated hardstyle spectacle.",
-        "ru": "Dr. Peacock возвращается с оркестровым hardstyle-спектаклем."
-      },
-      "url": "https://www.013.nl/"
-    },
-    {
-      "id": "adem-van-het-woud-schouwburg-2026-11-14",
-      "title": {
-        "en": "Breath of the Forest (Adem van het woud)",
-        "ru": "Дыхание леса (Adem van het woud)"
-      },
-      "date": "2026-11-14",
-      "time": "20:00",
-      "end": "21:15",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "From €24.50",
-        "ru": "От €24.50"
-      },
-      "note": {
-        "en": "Netherlands Wind Ensemble & Duda Paiva: live music, puppetry, Amazon/Kamayurá ritual.",
-        "ru": "Нидерландский духовой ансамбль и Duda Paiva: живая музыка, куклы, ритуал Амазонки/Камайура."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/nederlands-blazers-ensemble-duda-paiva-company-adem-van-het-woud"
-    },
-    {
-      "id": "pitou-hall-of-fame-2026-11-14",
-      "title": {
-        "en": "Pitou",
-        "ru": "Pitou"
-      },
-      "date": "2026-11-14",
-      "time": "19:30",
-      "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€19.75",
-        "ru": "€19.75"
-      },
-      "note": {
-        "en": "Amsterdam singer-songwriter: folk, classical, experimental pop. Support: FEMI.",
-        "ru": "Амстердамская певица-автор: фолк, классика, экспериментальный поп. Поддержка: FEMI."
-      },
-      "url": "https://www.hall-fame.nl/"
-    },
-    {
-      "id": "maarten-hogenhuis-bloom-paradox-2026-11-14",
-      "title": {
-        "en": "Maarten Hogenhuis' BLOOM",
-        "ru": "Maarten Hogenhuis' BLOOM"
-      },
-      "date": "2026-11-14",
-      "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€18",
-        "ru": "€18"
-      },
-      "note": {
-        "en": "Paradox Residency Concert: electronics, funk, jazz-rock.",
-        "ru": "Концерт резиденции Paradox: электроника, фанк, джаз-рок."
-      },
-      "url": "https://www.paradoxtilburg.nl/agenda/"
-    },
-    {
-      "id": "dutch-eagles-schouwburg-2026-11-14",
-      "title": {
-        "en": "The Dutch Eagles: Life in the Fast Lane",
-        "ru": "The Dutch Eagles: Life in the Fast Lane"
-      },
-      "date": "2026-11-14",
-      "time": "20:15",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Tribute to the Eagles.",
-        "ru": "Трибьют группе Eagles."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
-    },
-    {
-      "id": "organ-waalwijk-sint-jan-2026-11-14",
-      "title": {
-        "en": "Organ concert by Niels-Jan van der Hoek",
-        "ru": "Органный концерт Нильса-Яна ван дер Хука"
-      },
-      "date": "2026-11-14",
-      "time": "15:45",
-      "venue": {
-        "en": "Sint Jan de Doperkerk",
-        "ru": "Церковь Святого Иоанна Крестителя"
-      },
-      "city": {
-        "en": "Waalwijk",
-        "ru": "Ваалвейк"
-      },
-      "category": "church",
-      "status": "free",
-      "price": {
-        "en": "Free (voluntary contribution)",
-        "ru": "Бесплатно (добровольный взнос)"
-      },
-      "note": {
-        "en": "Organ recital, free entry.",
-        "ru": "Органный концерт, свободный вход."
-      },
-      "url": "https://www.brabantorgel.nl/concertagenda/"
-    },
-    {
-      "id": "cyprien-katsaris-cenakel-2026-11-15",
-      "title": {
-        "en": "Enchanting Pianists: Cyprien Katsaris",
-        "ru": "Очаровывающие пианисты: Киприен Катсарис"
-      },
-      "date": "2026-11-15",
-      "time": "16:00",
-      "venue": {
-        "en": "Het Cenakel",
-        "ru": "Het Cenakel"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "on-sale",
-      "price": {
-        "en": "€25 (students €10)",
-        "ru": "€25 (студенты €10)"
-      },
-      "note": {
-        "en": "Haydn, Schubert, Beethoven, Chopin, Liszt. Living legend pianist.",
-        "ru": "Гайдн, Шуберт, Бетховен, Шопен, Лист. Живая легенда фортепиано."
-      },
-      "url": "https://www.cenakel.nl/agenda/551-betoverende-pianisten-20/2026-11-15-16-00"
-    },
-    {
       "id": "sinterklaas-intocht-tilburg-2026-11-15",
       "title": {
-        "en": "Sinterklaas Arrival in Tilburg",
-        "ru": "Прибытие Синтаклааса в Тилбург"
+        "en": "Sinterklaas Arrival Parade",
+        "ru": "Прибытие Синтерклааса"
       },
       "date": "2026-11-15",
+      "time": "12:00",
+      "end": "16:00",
       "venue": {
-        "en": "Stadsforum & Piushaven",
-        "ru": "Стaдсфорум и Пейсхавен"
+        "en": "Piushaven to Willemsplein",
+        "ru": "Пиухавен до Виллемсплейн"
       },
       "city": {
         "en": "Tilburg",
@@ -223,10 +32,202 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Traditional Sinterklaas entry with Piet, pepernoten for families.",
-        "ru": "Традиционный въезд Синтаклааса с Питами и пепернотен для семей."
+        "en": "Boat arrives around midday at Piushaven; parade through streets ends ~15:00 at Willemsplein with music and dance.",
+        "ru": "Лодка прибывает около полудня в Пиухавен; шествие по улицам заканчивается около 15:00 на Виллемсплейн с музыкой и танцами."
       },
-      "url": "https://www.tilburg.nl/ondernemers/evenementen/evenementenkalender-2026/"
+      "url": "https://www.visit-tilburg.com/events/intocht-sinterklaas-2"
+    },
+    {
+      "id": "carmina-burana-schouwburg-2026-11-15",
+      "title": {
+        "en": "Carmina Burana",
+        "ru": "Кармина Бурана"
+      },
+      "date": "2026-11-15",
+      "time": "14:00",
+      "end": "16:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "sold-out",
+      "price": {
+        "en": "€20–25, mostly sold out / waitlist",
+        "ru": "€20–25, в основном распродано / лист ожидания"
+      },
+      "note": {
+        "en": "Orff’s masterpiece with Studiosi Cantandi (Berlin), Tilburg men’s choir, Sophia’s orchestra and more.",
+        "ru": "Шедевр Орфа с Studiosi Cantandi (Берлин), мужским хором Тилбурга, оркестром Sophia’s и другими."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/carmina-burana-studiosi-cantandi"
+    },
+    {
+      "id": "cyprien-katsaris-cenakel-2026-11-15",
+      "title": {
+        "en": "Enchanting Pianists: Cyprien Katsaris",
+        "ru": "Чарующие пианисты: Сиприен Катсарис"
+      },
+      "date": "2026-11-15",
+      "time": "16:00",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Хет Сенакел"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "World-famous pianist tribute to Gershwin in the intimate chapel concert hall.",
+        "ru": "Мировой знаменитый пианист с данью Гершвину в интимном зале бывшей часовни."
+      },
+      "url": "https://www.wearepublic.nl/venues/het-cenakel"
+    },
+    {
+      "id": "when-we-were-birds-paradox-2026-11-15",
+      "title": {
+        "en": "When We Were Birds",
+        "ru": "Когда мы были птицами"
+      },
+      "date": "2026-11-15",
+      "time": "15:00",
+      "end": "17:00",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Парадокс"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€15",
+        "ru": "€15"
+      },
+      "note": {
+        "en": "Ineke Vandoorn (voice), Yuri Honing (sax), Marc van Vugt (guitar) – improvisational vocal jazz.",
+        "ru": "Инеке Вандорн (голос), Юри Хонинг (сакс), Марк ван Вюгт (гитара) – импровизационный вокальный джаз."
+      },
+      "url": "https://www.paradoxtilburg.nl/"
+    },
+    {
+      "id": "de-geheime-club-nieuwe-vorst-2026-11-15",
+      "title": {
+        "en": "The Secret Club 3.0 (6+)",
+        "ru": "Тайный клуб 3.0 (6+)"
+      },
+      "date": "2026-11-15",
+      "time": "15:00",
+      "end": "16:00",
+      "venue": {
+        "en": "Theater De Nieuwe Vorst",
+        "ru": "Театр Де Ниуве Ворст"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "€9",
+        "ru": "€9"
+      },
+      "note": {
+        "en": "Musical theatre by BonteHond et al. for ages 6+; nothing is what it seems.",
+        "ru": "Музыкальный театр от BonteHond и др. для 6+; ничто не то, чем кажется."
+      },
+      "url": "https://denieuwevorst.nl/programma/de-geheime-club"
+    },
+    {
+      "id": "president-013-2026-11-15",
+      "title": {
+        "en": "PRESIDENT – The Blood of Your Empire",
+        "ru": "PRESIDENT – The Blood of Your Empire"
+      },
+      "date": "2026-11-15",
+      "time": "19:30",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "note": {
+        "en": "Mysterious British metalcore sensation; sold out.",
+        "ru": "Загадочная британская metalcore-сенсация; распродано."
+      },
+      "url": "https://www.013.nl/"
+    },
+    {
+      "id": "employed-to-serve-halloffame-2026-11-15",
+      "title": {
+        "en": "Employed To Serve + CABAL",
+        "ru": "Employed To Serve + CABAL"
+      },
+      "date": "2026-11-15",
+      "time": "19:30",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€25.80",
+        "ru": "€25.80"
+      },
+      "note": {
+        "en": "Heavy double bill: metalcore/thrash + Danish black/hardcore/industrial; Cold Culture support.",
+        "ru": "Тяжёлый двойной билл: metalcore/thrash + датский black/hardcore/industrial; поддержка Cold Culture."
+      },
+      "url": "https://www.013.nl/en/events/146729/employed-to-serve-cabal"
+    },
+    {
+      "id": "siso-sunday-ellece-2026-11-15",
+      "title": {
+        "en": "SISO Sunday with ELLECE",
+        "ru": "SISO Sunday с ELLECE"
+      },
+      "date": "2026-11-15",
+      "time": "15:00",
+      "end": "17:00",
+      "venue": {
+        "en": "LOC Brewery",
+        "ru": "LOC Brewery"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Relaxed Sunday afternoon of covers and original pop by young singer-songwriter ELLECE.",
+        "ru": "Расслабленный воскресный день каверов и собственного попа молодой певицы-автора ELLECE."
+      },
+      "url": "https://tilburg.com/agenda/siso-sunday-met-ellece/"
     }
   ]
 }
