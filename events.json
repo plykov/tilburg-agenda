@@ -1,7 +1,7 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "8414f9f5-e423-4824-b8b2-36093c972e96",
-  "generatedAt": "2026-11-16T08:08:00+01:00",
+  "deliveryId": "9f98f7a2-fb12-4506-84a8-f8a1b55d30dc",
+  "generatedAt": "2026-11-16T08:30:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
     "en": "Carsick rocks Hall of Fame tonight while Kneecap and Quatuor Molinari headline tomorrow",
@@ -38,35 +38,6 @@
       "url": "https://www.013.nl/en/events/157536/carsick"
     },
     {
-      "id": "spelletjesavond-giardino-2026-11-16",
-      "title": {
-        "en": "Board Game Night",
-        "ru": "Вечер настольных игр"
-      },
-      "date": "2026-11-16",
-      "time": "19:30",
-      "end": "23:00",
-      "venue": {
-        "en": "Giardino d’Italia",
-        "ru": "Giardino d’Italia"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "family",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Monthly third-Monday board game night; bar open, kitchen closed.",
-        "ru": "Ежемесячный вечер настольных игр в третий понедельник; бар открыт, кухня закрыта."
-      },
-      "url": "https://tilburg.com/agenda/spelletjesavond-bij-giardino-ditalia-16/"
-    },
-    {
       "id": "kneecap-013-2026-11-17",
       "title": {
         "en": "Kneecap – Fenian Tour",
@@ -92,7 +63,7 @@
         "en": "Belfast hip-hop trio on Fenian tour; support FAWZI X SMOKAHOLIC; doors 19:00.",
         "ru": "Хип-хоп трио из Белфаста в туре Fenian; поддержка FAWZI X SMOKAHOLIC; двери 19:00."
       },
-      "url": "https://www.013.nl/programma/152830/kneecap"
+      "url": "https://www.013.nl/en/events/152830/kneecap"
     },
     {
       "id": "quatuor-molinari-cenakel-2026-11-17",
@@ -119,9 +90,38 @@
       "url": "https://delink.nl/concert/quatuor-molinari/"
     },
     {
+      "id": "uprising-opera-zuid-schouwburg-2026-11-17",
+      "title": {
+        "en": "Opera Zuid – Uprising",
+        "ru": "Opera Zuid – Uprising"
+      },
+      "date": "2026-11-17",
+      "time": "20:00",
+      "end": "22:00",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "€44.50 (student €13.50)",
+        "ru": "€44.50 (студент €13.50)"
+      },
+      "note": {
+        "en": "Concertante community opera on climate crisis by Jonathan Dove; English with surtitles.",
+        "ru": "Концертная комьюнити-опера о климатическом кризисе Джонатана Дава; на английском с субтитрами."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/uprising-opera-zuid"
+    },
+    {
       "id": "eus-klassemigrant-schouwburg-2026-11-17",
       "title": {
-        "en": "Eus – De Klassenmigrant",
+        "en": "Eus – The Class Migrant",
         "ru": "Эус – Классовый мигрант"
       },
       "date": "2026-11-17",
@@ -136,9 +136,13 @@
       },
       "category": "theater",
       "status": "on-sale",
+      "price": {
+        "en": "€28.50",
+        "ru": "€28.50"
+      },
       "note": {
-        "en": "Özcan Akyol’s show on class migration.",
-        "ru": "Шоу Озжана Акьола о классовой миграции."
+        "en": "Özcan Akyol’s personal story on social mobility and language.",
+        "ru": "Личная история Озжана Акьола о социальной мобильности и языке."
       },
       "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/eus-de-klassemigrant"
     },
@@ -160,6 +164,10 @@
       },
       "category": "music",
       "status": "on-sale",
+      "price": {
+        "en": "€24.50",
+        "ru": "€24.50"
+      },
       "note": {
         "en": "Kora and accordion meeting of Senegalese and French traditions.",
         "ru": "Встреча коры и аккордеона сенегальских и французских традиций."
@@ -193,30 +201,6 @@
         "ru": "Открытая джазовая сессия под руководством Дирка де Нейса."
       },
       "url": "https://www.paradoxtilburg.nl/"
-    },
-    {
-      "id": "hail-the-sun-halloffame-2026-11-17",
-      "title": {
-        "en": "Hail the Sun",
-        "ru": "Hail the Sun"
-      },
-      "date": "2026-11-17",
-      "time": "19:00",
-      "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "note": {
-        "en": "Post-hardcore / progressive rock.",
-        "ru": "Пост-хардкор / прогрессивный рок."
-      },
-      "url": "https://www.djguide.nl/events.p?idlocation=5545"
     },
     {
       "id": "kokoroko-013-2026-11-18",
@@ -265,7 +249,7 @@
         "en": "Ice rink (indoor/outdoor) and thousands of Christmas lights on the Heuvel.",
         "ru": "Каток (внутренний/наружный) и тысячи рождественских огней на Хёвеле."
       },
-      "url": "https://www.visit-tilburg.com/events/tilburgs-winterparadijs"
+      "url": "https://www.visit-tilburg.com/events"
     }
   ]
 }
