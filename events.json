@@ -1,25 +1,54 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "1daaf215-b08d-4bf3-88c7-21a08f830fdb",
-  "generatedAt": "2026-11-15T08:08:00+01:00",
+  "deliveryId": "8414f9f5-e423-4824-b8b2-36093c972e96",
+  "generatedAt": "2026-11-16T08:08:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Sinterklaas arrives in Tilburg amid Carmina Burana, Cyprien Katsaris at the Cenakel and sold-out President at 013",
-    "ru": "Синтерклаас прибывает в Тилбург на фоне Кармина Бурана, Сиприена Катсариса в Сенакеле и распроданного President в 013"
+    "en": "Carsick rocks Hall of Fame tonight while Kneecap and Quatuor Molinari headline tomorrow",
+    "ru": "Carsick гремит в Hall of Fame сегодня вечером, а Kneecap и Quatuor Molinari возглавляют программу завтра"
   },
   "events": [
     {
-      "id": "sinterklaas-intocht-tilburg-2026-11-15",
+      "id": "carsick-halloffame-2026-11-16",
       "title": {
-        "en": "Sinterklaas Arrival Parade",
-        "ru": "Прибытие Синтерклааса"
+        "en": "Carsick + CARNE",
+        "ru": "Carsick + CARNE"
       },
-      "date": "2026-11-15",
-      "time": "12:00",
-      "end": "16:00",
+      "date": "2026-11-16",
+      "time": "20:30",
+      "end": "22:45",
       "venue": {
-        "en": "Piushaven to Willemsplein",
-        "ru": "Пиухавен до Виллемсплейн"
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€18.30",
+        "ru": "€18.30"
+      },
+      "note": {
+        "en": "British post-punk/rock with electronic edges; doors 19:30, support CARNE.",
+        "ru": "Британский пост-панк/рок с электронными элементами; двери 19:30, поддержка CARNE."
+      },
+      "url": "https://www.013.nl/en/events/157536/carsick"
+    },
+    {
+      "id": "spelletjesavond-giardino-2026-11-16",
+      "title": {
+        "en": "Board Game Night",
+        "ru": "Вечер настольных игр"
+      },
+      "date": "2026-11-16",
+      "time": "19:30",
+      "end": "23:00",
+      "venue": {
+        "en": "Giardino d’Italia",
+        "ru": "Giardino d’Italia"
       },
       "city": {
         "en": "Tilburg",
@@ -32,48 +61,47 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Boat arrives around midday at Piushaven; parade through streets ends ~15:00 at Willemsplein with music and dance.",
-        "ru": "Лодка прибывает около полудня в Пиухавен; шествие по улицам заканчивается около 15:00 на Виллемсплейн с музыкой и танцами."
+        "en": "Monthly third-Monday board game night; bar open, kitchen closed.",
+        "ru": "Ежемесячный вечер настольных игр в третий понедельник; бар открыт, кухня закрыта."
       },
-      "url": "https://www.visit-tilburg.com/events/intocht-sinterklaas-2"
+      "url": "https://tilburg.com/agenda/spelletjesavond-bij-giardino-ditalia-16/"
     },
     {
-      "id": "carmina-burana-schouwburg-2026-11-15",
+      "id": "kneecap-013-2026-11-17",
       "title": {
-        "en": "Carmina Burana",
-        "ru": "Кармина Бурана"
+        "en": "Kneecap – Fenian Tour",
+        "ru": "Kneecap – Fenian Tour"
       },
-      "date": "2026-11-15",
-      "time": "14:00",
-      "end": "16:30",
+      "date": "2026-11-17",
+      "time": "21:00",
       "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
+        "en": "013",
+        "ru": "013"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "church",
-      "status": "sold-out",
+      "category": "music",
+      "status": "on-sale",
       "price": {
-        "en": "€20–25, mostly sold out / waitlist",
-        "ru": "€20–25, в основном распродано / лист ожидания"
+        "en": "€60.80",
+        "ru": "€60.80"
       },
       "note": {
-        "en": "Orff’s masterpiece with Studiosi Cantandi (Berlin), Tilburg men’s choir, Sophia’s orchestra and more.",
-        "ru": "Шедевр Орфа с Studiosi Cantandi (Берлин), мужским хором Тилбурга, оркестром Sophia’s и другими."
+        "en": "Belfast hip-hop trio on Fenian tour; support FAWZI X SMOKAHOLIC; doors 19:00.",
+        "ru": "Хип-хоп трио из Белфаста в туре Fenian; поддержка FAWZI X SMOKAHOLIC; двери 19:00."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/carmina-burana-studiosi-cantandi"
+      "url": "https://www.013.nl/programma/152830/kneecap"
     },
     {
-      "id": "cyprien-katsaris-cenakel-2026-11-15",
+      "id": "quatuor-molinari-cenakel-2026-11-17",
       "title": {
-        "en": "Enchanting Pianists: Cyprien Katsaris",
-        "ru": "Чарующие пианисты: Сиприен Катсарис"
+        "en": "Quatuor Molinari – Mondriaan / Molinari",
+        "ru": "Quatuor Molinari – Mondriaan / Molinari"
       },
-      "date": "2026-11-15",
-      "time": "16:00",
+      "date": "2026-11-17",
+      "time": "20:00",
       "venue": {
         "en": "Het Cenakel",
         "ru": "Хет Сенакел"
@@ -85,52 +113,22 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "World-famous pianist tribute to Gershwin in the intimate chapel concert hall.",
-        "ru": "Мировой знаменитый пианист с данью Гершвину в интимном зале бывшей часовни."
+        "en": "De Link series: Quebec string quartet with visual artist Udo Prinsen on Mondriaan inspirations.",
+        "ru": "Серия De Link: квартет из Квебека с визуальным художником Удо Принсеном по мотивам Мондриана."
       },
-      "url": "https://www.wearepublic.nl/venues/het-cenakel"
+      "url": "https://delink.nl/concert/quatuor-molinari/"
     },
     {
-      "id": "when-we-were-birds-paradox-2026-11-15",
+      "id": "eus-klassemigrant-schouwburg-2026-11-17",
       "title": {
-        "en": "When We Were Birds",
-        "ru": "Когда мы были птицами"
+        "en": "Eus – De Klassenmigrant",
+        "ru": "Эус – Классовый мигрант"
       },
-      "date": "2026-11-15",
-      "time": "15:00",
-      "end": "17:00",
+      "date": "2026-11-17",
+      "time": "20:15",
       "venue": {
-        "en": "Paradox",
-        "ru": "Парадокс"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€15",
-        "ru": "€15"
-      },
-      "note": {
-        "en": "Ineke Vandoorn (voice), Yuri Honing (sax), Marc van Vugt (guitar) – improvisational vocal jazz.",
-        "ru": "Инеке Вандорн (голос), Юри Хонинг (сакс), Марк ван Вюгт (гитара) – импровизационный вокальный джаз."
-      },
-      "url": "https://www.paradoxtilburg.nl/"
-    },
-    {
-      "id": "de-geheime-club-nieuwe-vorst-2026-11-15",
-      "title": {
-        "en": "The Secret Club 3.0 (6+)",
-        "ru": "Тайный клуб 3.0 (6+)"
-      },
-      "date": "2026-11-15",
-      "time": "15:00",
-      "end": "16:00",
-      "venue": {
-        "en": "Theater De Nieuwe Vorst",
-        "ru": "Театр Де Ниуве Ворст"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
@@ -138,51 +136,23 @@
       },
       "category": "theater",
       "status": "on-sale",
-      "price": {
-        "en": "€9",
-        "ru": "€9"
-      },
       "note": {
-        "en": "Musical theatre by BonteHond et al. for ages 6+; nothing is what it seems.",
-        "ru": "Музыкальный театр от BonteHond и др. для 6+; ничто не то, чем кажется."
+        "en": "Özcan Akyol’s show on class migration.",
+        "ru": "Шоу Озжана Акьола о классовой миграции."
       },
-      "url": "https://denieuwevorst.nl/programma/de-geheime-club"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/eus-de-klassemigrant"
     },
     {
-      "id": "president-013-2026-11-15",
+      "id": "ablaye-cissoko-schouwburg-2026-11-17",
       "title": {
-        "en": "PRESIDENT – The Blood of Your Empire",
-        "ru": "PRESIDENT – The Blood of Your Empire"
+        "en": "Ablaye Cissoko & Cyrille Brotto in Concert",
+        "ru": "Ablaye Cissoko & Cyrille Brotto в концерте"
       },
-      "date": "2026-11-15",
-      "time": "19:30",
+      "date": "2026-11-17",
+      "time": "20:30",
       "venue": {
-        "en": "013",
-        "ru": "013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "note": {
-        "en": "Mysterious British metalcore sensation; sold out.",
-        "ru": "Загадочная британская metalcore-сенсация; распродано."
-      },
-      "url": "https://www.013.nl/"
-    },
-    {
-      "id": "employed-to-serve-halloffame-2026-11-15",
-      "title": {
-        "en": "Employed To Serve + CABAL",
-        "ru": "Employed To Serve + CABAL"
-      },
-      "date": "2026-11-15",
-      "time": "19:30",
-      "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
@@ -190,28 +160,23 @@
       },
       "category": "music",
       "status": "on-sale",
-      "price": {
-        "en": "€25.80",
-        "ru": "€25.80"
-      },
       "note": {
-        "en": "Heavy double bill: metalcore/thrash + Danish black/hardcore/industrial; Cold Culture support.",
-        "ru": "Тяжёлый двойной билл: metalcore/thrash + датский black/hardcore/industrial; поддержка Cold Culture."
+        "en": "Kora and accordion meeting of Senegalese and French traditions.",
+        "ru": "Встреча коры и аккордеона сенегальских и французских традиций."
       },
-      "url": "https://www.013.nl/en/events/146729/employed-to-serve-cabal"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/ablaye-cissoko-cyrille-brotto-in-concert"
     },
     {
-      "id": "siso-sunday-ellece-2026-11-15",
+      "id": "jazzsessie-paradox-2026-11-17",
       "title": {
-        "en": "SISO Sunday with ELLECE",
-        "ru": "SISO Sunday с ELLECE"
+        "en": "Jazz Session",
+        "ru": "Джазовая сессия"
       },
-      "date": "2026-11-15",
-      "time": "15:00",
-      "end": "17:00",
+      "date": "2026-11-17",
+      "time": "20:30",
       "venue": {
-        "en": "LOC Brewery",
-        "ru": "LOC Brewery"
+        "en": "Paradox",
+        "ru": "Парадокс"
       },
       "city": {
         "en": "Tilburg",
@@ -224,10 +189,83 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Relaxed Sunday afternoon of covers and original pop by young singer-songwriter ELLECE.",
-        "ru": "Расслабленный воскресный день каверов и собственного попа молодой певицы-автора ELLECE."
+        "en": "Open jazz session led by Dirk de Nijs.",
+        "ru": "Открытая джазовая сессия под руководством Дирка де Нейса."
       },
-      "url": "https://tilburg.com/agenda/siso-sunday-met-ellece/"
+      "url": "https://www.paradoxtilburg.nl/"
+    },
+    {
+      "id": "hail-the-sun-halloffame-2026-11-17",
+      "title": {
+        "en": "Hail the Sun",
+        "ru": "Hail the Sun"
+      },
+      "date": "2026-11-17",
+      "time": "19:00",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Post-hardcore / progressive rock.",
+        "ru": "Пост-хардкор / прогрессивный рок."
+      },
+      "url": "https://www.djguide.nl/events.p?idlocation=5545"
+    },
+    {
+      "id": "kokoroko-013-2026-11-18",
+      "title": {
+        "en": "Kokoroko",
+        "ru": "Kokoroko"
+      },
+      "date": "2026-11-18",
+      "time": "20:00",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "London jazz scene pearl; last tickets.",
+        "ru": "Жемчужина лондонской джазовой сцены; последние билеты."
+      },
+      "url": "https://www.013.nl/en"
+    },
+    {
+      "id": "winterparadijs-heuvel-2026-11-20",
+      "title": {
+        "en": "Tilburg Winter Paradise",
+        "ru": "Зимний рай Тилбурга"
+      },
+      "date": "2026-11-20",
+      "endDate": "2027-01-03",
+      "time": "19:00",
+      "venue": {
+        "en": "Heuvel",
+        "ru": "Хёвел"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "on-sale",
+      "note": {
+        "en": "Ice rink (indoor/outdoor) and thousands of Christmas lights on the Heuvel.",
+        "ru": "Каток (внутренний/наружный) и тысячи рождественских огней на Хёвеле."
+      },
+      "url": "https://www.visit-tilburg.com/events/tilburgs-winterparadijs"
     }
   ]
 }
