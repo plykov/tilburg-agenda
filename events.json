@@ -1,42 +1,13 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "9f98f7a2-fb12-4506-84a8-f8a1b55d30dc",
-  "generatedAt": "2026-11-16T08:30:00+01:00",
+  "deliveryId": "b8c7d6e5-f4a3-4210-9b8c-7d6e5f4a3b2c",
+  "generatedAt": "2026-11-17T08:07:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Carsick rocks Hall of Fame tonight while Kneecap and Quatuor Molinari headline tomorrow",
-    "ru": "Carsick гремит в Hall of Fame сегодня вечером, а Kneecap и Quatuor Molinari возглавляют программу завтра"
+    "en": "Tuesday in Tilburg: Kneecap at 013, Quatuor Molinari at Het Cenakel, and Eus on stage.",
+    "ru": "Вторник в Тилбурге: Kneecap в 013, Quatuor Molinari в Хет Ценакел и Эус на сцене."
   },
   "events": [
-    {
-      "id": "carsick-halloffame-2026-11-16",
-      "title": {
-        "en": "Carsick + CARNE",
-        "ru": "Carsick + CARNE"
-      },
-      "date": "2026-11-16",
-      "time": "20:30",
-      "end": "22:45",
-      "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€18.30",
-        "ru": "€18.30"
-      },
-      "note": {
-        "en": "British post-punk/rock with electronic edges; doors 19:30, support CARNE.",
-        "ru": "Британский пост-панк/рок с электронными элементами; двери 19:30, поддержка CARNE."
-      },
-      "url": "https://www.013.nl/en/events/157536/carsick"
-    },
     {
       "id": "kneecap-013-2026-11-17",
       "title": {
@@ -46,8 +17,8 @@
       "date": "2026-11-17",
       "time": "21:00",
       "venue": {
-        "en": "013",
-        "ru": "013"
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
       },
       "city": {
         "en": "Tilburg",
@@ -57,25 +28,25 @@
       "status": "on-sale",
       "price": {
         "en": "€60.80",
-        "ru": "€60.80"
+        "ru": "€60,80"
       },
       "note": {
-        "en": "Belfast hip-hop trio on Fenian tour; support FAWZI X SMOKAHOLIC; doors 19:00.",
-        "ru": "Хип-хоп трио из Белфаста в туре Fenian; поддержка FAWZI X SMOKAHOLIC; двери 19:00."
+        "en": "Irish rap trio with support FAWZI X SMOKAHOLIC. Doors 19:00.",
+        "ru": "Ирландское рэп-трио с поддержкой FAWZI X SMOKAHOLIC. Двери в 19:00."
       },
       "url": "https://www.013.nl/en/events/152830/kneecap"
     },
     {
       "id": "quatuor-molinari-cenakel-2026-11-17",
       "title": {
-        "en": "Quatuor Molinari – Mondriaan / Molinari",
-        "ru": "Quatuor Molinari – Mondriaan / Molinari"
+        "en": "Quatuor Molinari",
+        "ru": "Quatuor Molinari"
       },
       "date": "2026-11-17",
       "time": "20:00",
       "venue": {
         "en": "Het Cenakel",
-        "ru": "Хет Сенакел"
+        "ru": "Хет Ценакел"
       },
       "city": {
         "en": "Tilburg",
@@ -84,45 +55,16 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "De Link series: Quebec string quartet with visual artist Udo Prinsen on Mondriaan inspirations.",
-        "ru": "Серия De Link: квартет из Квебека с визуальным художником Удо Принсеном по мотивам Мондриана."
+        "en": "De Link series: Quebec string quartet with visuals on Mondriaan inspirations.",
+        "ru": "Серия De Link: квебекский струнный квартет с визуалами по мотивам Мондриана."
       },
-      "url": "https://delink.nl/concert/quatuor-molinari/"
-    },
-    {
-      "id": "uprising-opera-zuid-schouwburg-2026-11-17",
-      "title": {
-        "en": "Opera Zuid – Uprising",
-        "ru": "Opera Zuid – Uprising"
-      },
-      "date": "2026-11-17",
-      "time": "20:00",
-      "end": "22:00",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "€44.50 (student €13.50)",
-        "ru": "€44.50 (студент €13.50)"
-      },
-      "note": {
-        "en": "Concertante community opera on climate crisis by Jonathan Dove; English with surtitles.",
-        "ru": "Концертная комьюнити-опера о климатическом кризисе Джонатана Дава; на английском с субтитрами."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/uprising-opera-zuid"
+      "url": "https://www.cenakel.nl/agenda/558-de-link-62/2026-11-17-20-00"
     },
     {
       "id": "eus-klassemigrant-schouwburg-2026-11-17",
       "title": {
-        "en": "Eus – The Class Migrant",
-        "ru": "Эус – Классовый мигрант"
+        "en": "Özcan Akyol: The Class Migrant",
+        "ru": "Озджан Акьол: Классовый мигрант"
       },
       "date": "2026-11-17",
       "time": "20:15",
@@ -138,19 +80,19 @@
       "status": "on-sale",
       "price": {
         "en": "€28.50",
-        "ru": "€28.50"
+        "ru": "€28,50"
       },
       "note": {
-        "en": "Özcan Akyol’s personal story on social mobility and language.",
-        "ru": "Личная история Озжана Акьола о социальной мобильности и языке."
+        "en": "Theater lecture on social mobility by Eus.",
+        "ru": "Театральная лекция о социальной мобильности от Эуса."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/eus-de-klassemigrant"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/eus-de-klassemigrant"
     },
     {
       "id": "ablaye-cissoko-schouwburg-2026-11-17",
       "title": {
-        "en": "Ablaye Cissoko & Cyrille Brotto in Concert",
-        "ru": "Ablaye Cissoko & Cyrille Brotto в концерте"
+        "en": "Ablaye Cissoko & Cyrille Brotto",
+        "ru": "Ablaye Cissoko & Cyrille Brotto"
       },
       "date": "2026-11-17",
       "time": "20:30",
@@ -166,25 +108,25 @@
       "status": "on-sale",
       "price": {
         "en": "€24.50",
-        "ru": "€24.50"
+        "ru": "€24,50"
       },
       "note": {
-        "en": "Kora and accordion meeting of Senegalese and French traditions.",
-        "ru": "Встреча коры и аккордеона сенегальских и французских традиций."
+        "en": "Kora and accordion duo in the Studio.",
+        "ru": "Дуэт коры и аккордеона в Студии."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/ablaye-cissoko-cyrille-brotto-in-concert"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/ablaye-cissoko-cyrille-brotto-in-concert"
     },
     {
       "id": "jazzsessie-paradox-2026-11-17",
       "title": {
-        "en": "Jazz Session",
-        "ru": "Джазовая сессия"
+        "en": "Jazz Session with Dirk de Nijs",
+        "ru": "Джазовая сессия с Дирком де Нейсом"
       },
       "date": "2026-11-17",
       "time": "20:30",
       "venue": {
         "en": "Paradox",
-        "ru": "Парадокс"
+        "ru": "Paradox"
       },
       "city": {
         "en": "Tilburg",
@@ -197,10 +139,62 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Open jazz session led by Dirk de Nijs.",
-        "ru": "Открытая джазовая сессия под руководством Дирка де Нейса."
+        "en": "Free weekly open jam session.",
+        "ru": "Бесплатная еженедельная открытая джем-сессия."
       },
-      "url": "https://www.paradoxtilburg.nl/"
+      "url": "https://www.paradoxtilburg.nl/agenda/"
+    },
+    {
+      "id": "hail-the-sun-bayline-hof-2026-11-17",
+      "title": {
+        "en": "Hail the Sun + Bayline",
+        "ru": "Hail the Sun + Bayline"
+      },
+      "date": "2026-11-17",
+      "time": "20:00",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€19",
+        "ru": "€19"
+      },
+      "note": {
+        "en": "Post-hardcore and emo night.",
+        "ru": "Вечер пост-хардкора и эмо."
+      },
+      "url": "https://www.hall-fame.nl/"
+    },
+    {
+      "id": "uprising-opera-zuid-schouwburg-2026-11-17",
+      "title": {
+        "en": "Opera Zuid – Uprising",
+        "ru": "Opera Zuid – Uprising"
+      },
+      "date": "2026-11-17",
+      "time": "20:00",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "English-language concertante opera on climate themes.",
+        "ru": "Англоязычная концертная опера на климатические темы."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda"
     },
     {
       "id": "kokoroko-013-2026-11-18",
@@ -211,8 +205,8 @@
       "date": "2026-11-18",
       "time": "20:00",
       "venue": {
-        "en": "013",
-        "ru": "013"
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
       },
       "city": {
         "en": "Tilburg",
@@ -221,10 +215,66 @@
       "category": "music",
       "status": "on-sale",
       "note": {
-        "en": "London jazz scene pearl; last tickets.",
-        "ru": "Жемчужина лондонской джазовой сцены; последние билеты."
+        "en": "London jazz ensemble; last tickets.",
+        "ru": "Лондонский джазовый ансамбль; последние билеты."
       },
       "url": "https://www.013.nl/en"
+    },
+    {
+      "id": "fred-wesley-paradox-2026-11-18",
+      "title": {
+        "en": "Fred Wesley Generations",
+        "ru": "Fred Wesley Generations"
+      },
+      "date": "2026-11-18",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "price": {
+        "en": "Sold out",
+        "ru": "Распродано"
+      },
+      "note": {
+        "en": "Funk architect with Generations.",
+        "ru": "Фанк-архитектор с Generations."
+      },
+      "url": "https://www.paradoxtilburg.nl/programma/fred-wesley-generations-funk-architect/"
+    },
+    {
+      "id": "all-before-death-is-life-dnv-2026-11-18",
+      "title": {
+        "en": "All before death is life",
+        "ru": "All before death is life"
+      },
+      "date": "2026-11-18",
+      "time": "19:30",
+      "venue": {
+        "en": "Theater De Nieuwe Vorst",
+        "ru": "Театр Де Ниюве Ворст"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "€19",
+        "ru": "€19"
+      },
+      "note": {
+        "en": "Solo by Benjamin Verdonck (8+); magic that fails and continues.",
+        "ru": "Соло Бенджамина Вердонка (8+); магия, которая терпит неудачу и продолжается."
+      },
+      "url": "https://www.denieuwevorst.nl/"
     },
     {
       "id": "winterparadijs-heuvel-2026-11-20",
@@ -234,7 +284,6 @@
       },
       "date": "2026-11-20",
       "endDate": "2027-01-03",
-      "time": "19:00",
       "venue": {
         "en": "Heuvel",
         "ru": "Хёвел"
@@ -246,10 +295,38 @@
       "category": "family",
       "status": "on-sale",
       "note": {
-        "en": "Ice rink (indoor/outdoor) and thousands of Christmas lights on the Heuvel.",
-        "ru": "Каток (внутренний/наружный) и тысячи рождественских огней на Хёвеле."
+        "en": "Indoor and outdoor ice rink with Christmas lights and pavilion.",
+        "ru": "Внутренний и наружный каток с рождественскими огнями и павильоном."
       },
-      "url": "https://www.visit-tilburg.com/events"
+      "url": "https://www.stichtingwinterevents.nl/evenementen/tilburgs-winterparadijs/"
+    },
+    {
+      "id": "bachcantates-cenakel-2026-11-22",
+      "title": {
+        "en": "Bach Cantatas",
+        "ru": "Кантаты Баха"
+      },
+      "date": "2026-11-22",
+      "time": "16:30",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Хет Ценакел"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "price": {
+        "en": "€20",
+        "ru": "€20"
+      },
+      "note": {
+        "en": "Bachcantates Tilburg: Buxtehude, Vivaldi and Bach BWV 116.",
+        "ru": "Bachcantates Tilburg: Букстехуде, Вивальди и Бах BWV 116."
+      },
+      "url": "https://www.cenakel.nl/agenda/566-bachcantates-11/2026-11-22-16-30"
     }
   ]
 }
