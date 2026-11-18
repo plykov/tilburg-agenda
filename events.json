@@ -1,1 +1,68 @@
-PLACEHOLDER
+{
+  "schema": "tilburg.agenda.v1",
+  "deliveryId": "5d9104e6-6ef4-42be-9746-0f9bf287d725",
+  "generatedAt": "2026-11-18T08:07:00+01:00",
+  "source": "Grok daily automation 08:00 Amsterdam",
+  "headline": {
+    "en": "Kokoroko jazz and sold-out funk at Paradox lead a packed Wednesday in Tilburg",
+    "ru": "Джаз Kokoroko и распроданный фанк в Paradox задают тон насыщенной среде в Тилбурге"
+  },
+  "events": [
+    {
+      "id": "kokoroko-013-2026-11-18",
+      "title": {
+        "en": "Kokoroko",
+        "ru": "Kokoroko"
+      },
+      "date": "2026-11-18",
+      "time": "20:00",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€33.80",
+        "ru": "€33.80"
+      },
+      "note": {
+        "en": "London afrobeat/jazz collective, last tickets, doors 19:00",
+        "ru": "Лондонский афробит/джазовый коллектив, последние билеты, двери в 19:00"
+      },
+      "url": "https://www.013.nl/en/events/143169/kokoroko"
+    },
+    {
+      "id": "fred-wesley-paradox-2026-11-18",
+      "title": {
+        "en": "Fred Wesley Generations",
+        "ru": "Fred Wesley Generations"
+      },
+      "date": "2026-11-18",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "price": {
+        "en": "Sold out",
+        "ru": "Распродано"
+      },
+      "note": {
+        "en": "Funk architect with Generations trio, doors 19:30",
+        "ru": "Архитектор фанка с трио Generations, двери в 19:30"
+      },
+      "url": "https://www.paradoxtilburg.nl/programma/fred-wesley-generations-funk-architect/"
+    }
+  ]
+}
