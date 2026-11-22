@@ -1,261 +1,76 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "df60c8c5-da5d-41ae-82b8-d2289da8ae3c",
-  "generatedAt": "2026-11-21T08:08:00+01:00",
+  "deliveryId": "a7b8c9d0-e1f2-3456-7890-abcdef123456",
+  "generatedAt": "2026-11-22T08:07:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Embrace the Winter opens the city center while Triggerfinger, Fun 'N Folk and Lost Memories Indoor fill the night.",
-    "ru": "Обними зиму открывает центр города, пока Triggerfinger, Fun 'N Folk и Lost Memories Indoor наполняют ночь."
+    "en": "Tilburg in Choir closes FTZ 60-year jubilee free at Concertzaal; Sinterklaas shows at 013 and Factorium plus Bach cantatas at Cenakel fill Sunday.",
+    "ru": "«Тилбург в хоре» бесплатно закрывает 60-летний юбилей FTZ в Концертзале; шоу Синт-Николааса в 013 и Factorium плюс кантаты Баха в Ценакеле наполняют воскресенье."
   },
   "events": [
     {
-      "id": "omarm-de-winter-2026-11-21",
+      "id": "tilburg-in-koor-ftz-2026-11-22",
       "title": {
-        "en": "Embrace the Winter in Tilburg!",
-        "ru": "Обними зиму в Тильбурге!"
-      },
-      "date": "2026-11-21",
-      "time": "12:00",
-      "end": "16:00",
-      "venue": {
-        "en": "City center (Winterhuis Frederikstraat 43-45)",
-        "ru": "Центр города (Зимний дом, Фредерикстраат 43-45)"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тильбург"
-      },
-      "category": "festival",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Kick-off of Winter in Tilburg with street theater, Pieters, face painting and official opening of the Winterhuis at 12:30; runs through early January.",
-        "ru": "Старт Зимы в Тильбурге со уличным театром, Питами, гримом и официальным открытием Зимнего дома в 12:30; до начала января."
-      },
-      "url": "https://tilburg.com/agenda/omarm-de-winter-in-tilburg/"
-    },
-    {
-      "id": "lochal-open-source-2026-11-21",
-      "title": {
-        "en": "LocHal Open Source Event 2026",
-        "ru": "LocHal Open Source Event 2026"
-      },
-      "date": "2026-11-21",
-      "time": "10:00",
-      "end": "16:00",
-      "venue": {
-        "en": "LocHal",
-        "ru": "LocHal"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тильбург"
-      },
-      "category": "family",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Digital commons theme with Brewster Kahle (Internet Archive); workshops on privacy, open knowledge, Linux and alternatives to Big Tech.",
-        "ru": "Тема цифровых общин с Brewster Kahle (Internet Archive); воркшопы по приватности, открытым знаниям, Linux и альтернативам Big Tech."
-      },
-      "url": "https://tilburg.com/agenda/lochal-open-source-event-2026-ontdek-een-digitale-wereld-zonder-big-tech/"
-    },
-    {
-      "id": "fun-n-folk-2026-11-21",
-      "title": {
-        "en": "Fun 'N Folk",
-        "ru": "Fun 'N Folk"
-      },
-      "date": "2026-11-21",
-      "time": "17:00",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тильбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "price": {
-        "en": "€20",
-        "ru": "€20"
-      },
-      "note": {
-        "en": "Sold-out alternative folk festival with Ferocious Dog, Bohemian Betyars, Politie Warnsveld and Lo Poloko in Next + Foyer.",
-        "ru": "Распроданный альтернативный фолк-фестиваль с Ferocious Dog, Bohemian Betyars, Politie Warnsveld и Lo Poloko в Next + Foyer."
-      },
-      "url": "https://www.013.nl/en/events/122573/fun-n-folk"
-    },
-    {
-      "id": "triggerfinger-2026-11-21",
-      "title": {
-        "en": "Triggerfinger",
-        "ru": "Triggerfinger"
-      },
-      "date": "2026-11-21",
-      "time": "19:00",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тильбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€42.80",
-        "ru": "€42.80"
-      },
-      "note": {
-        "en": "Antwerp rock band with Bushmen support; Main hall, doors 19:00.",
-        "ru": "Антверпенская рок-группа с поддержкой Bushmen; главный зал, двери в 19:00."
-      },
-      "url": "https://www.013.nl/programma/129939/triggerfinger"
-    },
-    {
-      "id": "lost-memories-indoor-2026-11-21",
-      "title": {
-        "en": "Lost Memories Indoor: Angels & Demons",
-        "ru": "Lost Memories Indoor: Angels & Demons"
-      },
-      "date": "2026-11-21",
-      "time": "14:00",
-      "end": "00:00",
-      "venue": {
-        "en": "Koepelhal",
-        "ru": "Koepelhal"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тильбург"
-      },
-      "category": "festival",
-      "status": "on-sale",
-      "price": {
-        "en": "From €39.50",
-        "ru": "От €39.50"
-      },
-      "note": {
-        "en": "Hardstyle and hardcore indoor festival in the iconic Koepelhal; tickets via lostmemories.nl.",
-        "ru": "Индор-фестиваль hardstyle и hardcore в иконическом Koepelhal; билеты на lostmemories.nl."
-      },
-      "url": "https://partyflock.nl/party/485471:Lost-Memories-Indoor"
-    },
-    {
-      "id": "a-ticket-to-aleppo-2026-11-21",
-      "title": {
-        "en": "A Ticket to Aleppo",
-        "ru": "Билет в Алеппо"
-      },
-      "date": "2026-11-21",
-      "time": "20:30",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тильбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тильбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "New European Ensemble & Orchestre Partout; last tickets available.",
-        "ru": "New European Ensemble & Orchestre Partout; последние билеты."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/new-european-ensemble-orchestre-partout-a-ticket-to-aleppo"
-    },
-    {
-      "id": "laatste-kaarten-2026-11-21",
-      "title": {
-        "en": "Last Tickets (Laatste Kaarten)",
-        "ru": "Последние билеты"
-      },
-      "date": "2026-11-21",
-      "time": "18:45",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тильбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тильбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Collectief BLAUWDRUK theater piece about a missed ticket escalating wildly.",
-        "ru": "Театральная пьеса Collectief BLAUWDRUK о пропущенном билете, которая выходит из-под контроля."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/laatste-kaarten-collectief-blauwdruk"
-    },
-    {
-      "id": "meraki-short-film-2026-11-21",
-      "title": {
-        "en": "Meraki Short Film Festival x Under Construction",
-        "ru": "Meraki Short Film Festival x Under Construction"
-      },
-      "date": "2026-11-21",
-      "time": "13:00",
-      "venue": {
-        "en": "Theater De Nieuwe Vorst",
-        "ru": "Theater De Nieuwe Vorst"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тильбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Short films with big stories; film festival at De Nieuwe Vorst.",
-        "ru": "Короткие фильмы с большими историями; кинофестиваль в De Nieuwe Vorst."
-      },
-      "url": "https://denieuwevorst.nl/programma"
-    },
-    {
-      "id": "bachcantates-2026-11-22",
-      "title": {
-        "en": "Bach Cantatas",
-        "ru": "Кантаты Баха"
+        "en": "Tilburg in Choir: festive close of 60 years FTZ",
+        "ru": "Тилбург в хоре: праздничное закрытие 60 лет FTZ"
       },
       "date": "2026-11-22",
-      "time": "16:30",
+      "time": "12:30",
+      "end": "15:00",
       "venue": {
-        "en": "Het Cenakel",
-        "ru": "Het Cenakel"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
-        "ru": "Тильбург"
+        "ru": "Тилбург"
       },
       "category": "church",
-      "status": "on-sale",
+      "status": "free",
       "price": {
-        "en": "€20",
-        "ru": "€20"
+        "en": "Free",
+        "ru": "Бесплатно"
       },
       "note": {
-        "en": "Bachcantates Tilburg with works by Buxtehude, Vivaldi and Bach (BWV 116); doors 16:00, intimate chapel setting.",
-        "ru": "Bachcantates Tilburg с произведениями Buxtehude, Vivaldi и Баха (BWV 116); двери в 16:00, интимная капелла."
+        "en": "Eleven local choirs from pop to classical and sign language; free entry, no reservation.",
+        "ru": "Одиннадцать местных хоров от попа до классики и языка жестов; бесплатный вход, без брони."
       },
-      "url": "https://www.cenakel.nl/agenda/566-bachcantates-11/2026-11-22-16-30"
+      "url": "https://tilburg.com/agenda/tilburg-in-koor-feestelijke-afsluiting-van-60-jaar-ftz/"
+    },
+    {
+      "id": "ernst-bobbie-pimp-de-sint-013-2026-11-22",
+      "title": {
+        "en": "Ernst, Bobbie & the rest Pimp the Sint show",
+        "ru": "Ernst, Bobbie и остальные: шоу Пимп де Синт"
+      },
+      "date": "2026-11-22",
+      "time": "11:00",
+      "end": "18:00",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "on-sale",
+      "price": {
+        "en": "€5",
+        "ru": "€5"
+      },
+      "note": {
+        "en": "Four family shows with Sinterklaas; chaos, music and jokes for kids.",
+        "ru": "Четыре семейных шоу с Синт-Николаасом; хаос, музыка и шутки для детей."
+      },
+      "url": "https://www.013.nl/programma/159480/ernst-bobbie-de-rest"
     },
     {
       "id": "sint-special-factorium-2026-11-22",
       "title": {
-        "en": "Factorium Sint Special",
-        "ru": "Factorium Sint Special"
+        "en": "Sint Special at Factorium",
+        "ru": "Синт Спешиал в Factorium"
       },
       "date": "2026-11-22",
       "time": "10:00",
@@ -266,7 +81,7 @@
       },
       "city": {
         "en": "Tilburg",
-        "ru": "Тильбург"
+        "ru": "Тилбург"
       },
       "category": "family",
       "status": "on-sale",
@@ -275,38 +90,143 @@
         "ru": "€5"
       },
       "note": {
-        "en": "Sinterklaas morning for kids up to 8 with concert by Koninklijke Harmonie Orpheus, sing-along, crafts; ticket includes coffee/tea.",
-        "ru": "Утро Синтерклааса для детей до 8 лет с концертом Koninklijke Harmonie Orpheus, песнями и поделками; билет включает кофе/чай."
+        "en": "Sinterklaas morning for kids up to 8 with Harmonie Orpheus concert, sing-along and workshops.",
+        "ru": "Утро Синт-Николааса для детей до 8 лет с концертом Гармонии Орфей, пением вместе и мастер-классами."
       },
       "url": "https://tilburg.com/agenda/sint-special-bij-factorium/"
     },
     {
-      "id": "tilburg-in-koor-2026-11-22",
+      "id": "bachcantates-cenakel-2026-11-22",
       "title": {
-        "en": "Tilburg in Choir",
-        "ru": "Тильбург в хоре"
+        "en": "Bach Cantatas",
+        "ru": "Кантаты Баха"
       },
       "date": "2026-11-22",
-      "time": "12:00",
+      "time": "16:30",
       "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тильбурга"
+        "en": "Het Cenakel",
+        "ru": "Хет Ценакел"
       },
       "city": {
         "en": "Tilburg",
-        "ru": "Тильбург"
+        "ru": "Тилбург"
       },
       "category": "church",
-      "status": "free",
+      "status": "on-sale",
       "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
+        "en": "€20",
+        "ru": "€20"
       },
       "note": {
-        "en": "Festive closing of 60 years FTZ; local choirs, free entry, no reservation needed.",
-        "ru": "Праздничное закрытие 60 лет FTZ; местные хоры, бесплатный вход, бронирование не нужно."
+        "en": "Buxtehude, Vivaldi bassoon concerto and Bach BWV 116; baroque comfort and joy in the chapel.",
+        "ru": "Букстехуде, концерт Вивальди для фагота и Бах BWV 116; барочное утешение и радость в часовне."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/tilburg-in-koor-ftz"
+      "url": "https://www.cenakel.nl/agenda/566-bachcantates-11/2026-11-22-16-30"
+    },
+    {
+      "id": "iron-jinn-temple-fang-hall-of-fame-2026-11-22",
+      "title": {
+        "en": "Iron Jinn + Temple Fang",
+        "ru": "Iron Jinn + Temple Fang"
+      },
+      "date": "2026-11-22",
+      "time": "19:30",
+      "end": "23:00",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Heavy psych double bill; dreamy chaos meets long wandering pieces.",
+        "ru": "Двойной хеви-сайкеделик; мечтательный хаос встречает длинные скитальческие пьесы."
+      },
+      "url": "https://www.djguide.nl/party.p/567780/iron-jinn-temple-fang"
+    },
+    {
+      "id": "nailed-to-obscurity-little-devil-2026-11-22",
+      "title": {
+        "en": "Nailed To Obscurity + Nephylim",
+        "ru": "Nailed To Obscurity + Nephylim"
+      },
+      "date": "2026-11-22",
+      "time": "19:00",
+      "venue": {
+        "en": "Little Devil",
+        "ru": "Little Devil"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€15",
+        "ru": "€15"
+      },
+      "note": {
+        "en": "Melodic death metal evening.",
+        "ru": "Вечер мелодичного дет-метала."
+      },
+      "url": "https://www.littledevil.nl/"
+    },
+    {
+      "id": "pjo-new-trees-paradox-2026-11-22",
+      "title": {
+        "en": "PJO – New Trees on Old Ground",
+        "ru": "PJO – New Trees on Old Ground"
+      },
+      "date": "2026-11-22",
+      "time": "15:00",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€20",
+        "ru": "€20"
+      },
+      "note": {
+        "en": "Blues, Americana and modern creative jazz with Teus Nobel & friends.",
+        "ru": "Блюз, американа и современный креативный джаз с Teus Nobel и друзьями."
+      },
+      "url": "https://www.paradoxtilburg.nl/"
+    },
+    {
+      "id": "voces8-kamermuziek-2026-11-26",
+      "title": {
+        "en": "VOCES8 Kamermuziek Souvenir",
+        "ru": "VOCES8 Камерная музыка Souvenir"
+      },
+      "date": "2026-11-26",
+      "time": "20:00",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "A cappella vocal ensemble; last tickets for some ranks, waiting list elsewhere.",
+        "ru": "А капелла вокальный ансамбль; последние билеты на некоторые места, лист ожидания на других."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/voces8-kamermuziek-souvenir"
     }
   ]
 }
