@@ -1,51 +1,22 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "a7b8c9d0-e1f2-3456-7890-abcdef123456",
-  "generatedAt": "2026-11-22T08:07:00+01:00",
+  "deliveryId": "aa9b6587-ca62-4b9b-b95c-db4f088805fe",
+  "generatedAt": "2026-11-23T08:07:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Tilburg in Choir closes FTZ 60-year jubilee free at Concertzaal; Sinterklaas shows at 013 and Factorium plus Bach cantatas at Cenakel fill Sunday.",
-    "ru": "«Тилбург в хоре» бесплатно закрывает 60-летний юбилей FTZ в Концертзале; шоу Синт-Николааса в 013 и Factorium плюс кантаты Баха в Ценакеле наполняют воскресенье."
+    "en": "Quiet Monday with family Sinterklaas shows at 013 and ice rink on the Heuvel; jazz Coltrane sold out tomorrow and classical returns at Cenakel next week.",
+    "ru": "Тихий понедельник с семейными шоу Синт-Николааса в 013 и катком на Хёвеле; джаз Колтрейн распродан завтра, а классика возвращается в Ценакеле на следующей неделе."
   },
   "events": [
     {
-      "id": "tilburg-in-koor-ftz-2026-11-22",
+      "id": "ernst-bobbie-pimp-de-sint-013-2026-11-23",
       "title": {
-        "en": "Tilburg in Choir: festive close of 60 years FTZ",
-        "ru": "Тилбург в хоре: праздничное закрытие 60 лет FTZ"
+        "en": "Ernst, Bobbie & the Rest: Pimp the Sint Show",
+        "ru": "Эрнст, Бобби и остальные: Шоу Пимп де Синт"
       },
-      "date": "2026-11-22",
-      "time": "12:30",
-      "end": "15:00",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Eleven local choirs from pop to classical and sign language; free entry, no reservation.",
-        "ru": "Одиннадцать местных хоров от попа до классики и языка жестов; бесплатный вход, без брони."
-      },
-      "url": "https://tilburg.com/agenda/tilburg-in-koor-feestelijke-afsluiting-van-60-jaar-ftz/"
-    },
-    {
-      "id": "ernst-bobbie-pimp-de-sint-013-2026-11-22",
-      "title": {
-        "en": "Ernst, Bobbie & the rest Pimp the Sint show",
-        "ru": "Ernst, Bobbie и остальные: шоу Пимп де Синт"
-      },
-      "date": "2026-11-22",
-      "time": "11:00",
-      "end": "18:00",
+      "date": "2026-11-23",
+      "time": "15:30",
+      "end": "19:00",
       "venue": {
         "en": "013",
         "ru": "013"
@@ -61,23 +32,24 @@
         "ru": "€5"
       },
       "note": {
-        "en": "Four family shows with Sinterklaas; chaos, music and jokes for kids.",
-        "ru": "Четыре семейных шоу с Синт-Николаасом; хаос, музыка и шутки для детей."
+        "en": "Two family Sinterklaas shows with music, jokes and chaos; tickets via Jumbo/Eventim.",
+        "ru": "Два семейных шоу Синт-Николааса с музыкой, шутками и хаосом; билеты через Jumbo/Eventim."
       },
-      "url": "https://www.013.nl/programma/159480/ernst-bobbie-de-rest"
+      "url": "https://www.013.nl/programma/159485/ernst-bobbie-de-rest"
     },
     {
-      "id": "sint-special-factorium-2026-11-22",
+      "id": "tilburgs-winterparadijs-2026-11-23",
       "title": {
-        "en": "Sint Special at Factorium",
-        "ru": "Синт Спешиал в Factorium"
+        "en": "Tilburg Winter Paradise",
+        "ru": "Тилбургский зимний рай"
       },
-      "date": "2026-11-22",
-      "time": "10:00",
-      "end": "12:00",
+      "date": "2026-11-23",
+      "endDate": "2027-01-03",
+      "time": "11:00",
+      "end": "22:00",
       "venue": {
-        "en": "Factorium",
-        "ru": "Factorium"
+        "en": "Heuvel",
+        "ru": "Хёвел"
       },
       "city": {
         "en": "Tilburg",
@@ -86,104 +58,47 @@
       "category": "family",
       "status": "on-sale",
       "price": {
-        "en": "€5",
-        "ru": "€5"
+        "en": "€8",
+        "ru": "€8"
       },
       "note": {
-        "en": "Sinterklaas morning for kids up to 8 with Harmonie Orpheus concert, sing-along and workshops.",
-        "ru": "Утро Синт-Николааса для детей до 8 лет с концертом Гармонии Орфей, пением вместе и мастер-классами."
+        "en": "Illuminated indoor/outdoor ice rink and Christmas lights; open daily until early January.",
+        "ru": "Освещённый каток в закрытом и открытом варианте и рождественские огни; открыт ежедневно до начала января."
       },
-      "url": "https://tilburg.com/agenda/sint-special-bij-factorium/"
+      "url": "https://www.visit-tilburg.com/events"
     },
     {
-      "id": "bachcantates-cenakel-2026-11-22",
+      "id": "kluun-help-ik-heb-een-puber-2026-11-24",
       "title": {
-        "en": "Bach Cantatas",
-        "ru": "Кантаты Баха"
+        "en": "Kluun & Yvanka van der Zwaan: Best of... 'Help, I Have a Teenager!' LIVE",
+        "ru": "Клуун и Иванка ван дер Зваан: Лучшее из... «Помогите, у меня подросток!» LIVE"
       },
-      "date": "2026-11-22",
-      "time": "16:30",
+      "date": "2026-11-24",
+      "time": "20:15",
       "venue": {
-        "en": "Het Cenakel",
-        "ru": "Хет Ценакел"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
       },
       "city": {
         "en": "Tilburg",
         "ru": "Тилбург"
       },
-      "category": "church",
-      "status": "on-sale",
-      "price": {
-        "en": "€20",
-        "ru": "€20"
-      },
-      "note": {
-        "en": "Buxtehude, Vivaldi bassoon concerto and Bach BWV 116; baroque comfort and joy in the chapel.",
-        "ru": "Букстехуде, концерт Вивальди для фагота и Бах BWV 116; барочное утешение и радость в часовне."
-      },
-      "url": "https://www.cenakel.nl/agenda/566-bachcantates-11/2026-11-22-16-30"
-    },
-    {
-      "id": "iron-jinn-temple-fang-hall-of-fame-2026-11-22",
-      "title": {
-        "en": "Iron Jinn + Temple Fang",
-        "ru": "Iron Jinn + Temple Fang"
-      },
-      "date": "2026-11-22",
-      "time": "19:30",
-      "end": "23:00",
-      "venue": {
-        "en": "Hall of Fame",
-        "ru": "Hall of Fame"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
+      "category": "theater",
       "status": "on-sale",
       "note": {
-        "en": "Heavy psych double bill; dreamy chaos meets long wandering pieces.",
-        "ru": "Двойной хеви-сайкеделик; мечтательный хаос встречает длинные скитальческие пьесы."
+        "en": "Comedy show based on the bestselling book about parenting teens.",
+        "ru": "Комедийное шоу по мотивам бестселлера о воспитании подростков."
       },
-      "url": "https://www.djguide.nl/party.p/567780/iron-jinn-temple-fang"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/kluun-help-ik-heb-een-puber"
     },
     {
-      "id": "nailed-to-obscurity-little-devil-2026-11-22",
+      "id": "paradox-james-carter-coltrane-2026-11-24",
       "title": {
-        "en": "Nailed To Obscurity + Nephylim",
-        "ru": "Nailed To Obscurity + Nephylim"
+        "en": "PaRaDoX Jazz Orchestra ft. James Carter: The Music of John Coltrane",
+        "ru": "Джазовый оркестр PaRaDoX с Джеймсом Картером: Музыка Джона Колтрейна"
       },
-      "date": "2026-11-22",
+      "date": "2026-11-24",
       "time": "19:00",
-      "venue": {
-        "en": "Little Devil",
-        "ru": "Little Devil"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€15",
-        "ru": "€15"
-      },
-      "note": {
-        "en": "Melodic death metal evening.",
-        "ru": "Вечер мелодичного дет-метала."
-      },
-      "url": "https://www.littledevil.nl/"
-    },
-    {
-      "id": "pjo-new-trees-paradox-2026-11-22",
-      "title": {
-        "en": "PJO – New Trees on Old Ground",
-        "ru": "PJO – New Trees on Old Ground"
-      },
-      "date": "2026-11-22",
-      "time": "15:00",
       "venue": {
         "en": "Paradox",
         "ru": "Paradox"
@@ -193,25 +108,73 @@
         "ru": "Тилбург"
       },
       "category": "music",
-      "status": "on-sale",
+      "status": "sold-out",
       "price": {
-        "en": "€20",
-        "ru": "€20"
+        "en": "€25",
+        "ru": "€25"
       },
       "note": {
-        "en": "Blues, Americana and modern creative jazz with Teus Nobel & friends.",
-        "ru": "Блюз, американа и современный креативный джаз с Teus Nobel и друзьями."
+        "en": "Straight-ahead jazz tribute; sold out, second night 25 Nov also sold out.",
+        "ru": "Прямой джаз-трибьют; распродано, вторая ночь 25 ноября тоже распродана."
       },
-      "url": "https://www.paradoxtilburg.nl/"
+      "url": "https://www.paradoxtilburg.nl/agenda/"
     },
     {
-      "id": "voces8-kamermuziek-2026-11-26",
+      "id": "sven-ratzke-kopfkino-waalwijk-2026-11-24",
       "title": {
-        "en": "VOCES8 Kamermuziek Souvenir",
-        "ru": "VOCES8 Камерная музыка Souvenir"
+        "en": "Sven Ratzke: Kopfkino",
+        "ru": "Свен Ратцке: Kopfkino"
+      },
+      "date": "2026-11-24",
+      "time": "20:00",
+      "venue": {
+        "en": "Theater De Leest",
+        "ru": "Театр Де Лест"
+      },
+      "city": {
+        "en": "Waalwijk",
+        "ru": "Ваалвейк"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Solo performance; day-trip option to Waalwijk.",
+        "ru": "Соло-выступление; вариант поездки в Ваалвейк."
+      },
+      "url": "https://www.deleest.nl/"
+    },
+    {
+      "id": "mythos-ragnarok-2026-11-25",
+      "title": {
+        "en": "Mythological Theatre: Mythos: Ragnarök",
+        "ru": "Мифологический театр: Мифос: Рагнарёк"
+      },
+      "date": "2026-11-25",
+      "time": "20:00",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Mythological theatre piece on Ragnarök.",
+        "ru": "Мифологическая театральная пьеса о Рагнарёке."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/mythos-ragnarok-the-mythological-theatre"
+    },
+    {
+      "id": "nederlands-kamerorkest-pogorelic-2026-11-26",
+      "title": {
+        "en": "Netherlands Chamber Orchestra & Ivo Pogorelić: Chopin's Piano Concerto No. 2 & Mozart's Symphony No. 40",
+        "ru": "Нидерландский камерный оркестр и Иво Погорелич: Концерт для фортепиано № 2 Шопена и Симфония № 40 Моцарта"
       },
       "date": "2026-11-26",
-      "time": "20:00",
+      "time": "20:30",
       "venue": {
         "en": "Schouwburg & Concertzaal Tilburg",
         "ru": "Схаубург и концертный зал Тилбурга"
@@ -223,10 +186,86 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "A cappella vocal ensemble; last tickets for some ranks, waiting list elsewhere.",
-        "ru": "А капелла вокальный ансамбль; последние билеты на некоторые места, лист ожидания на других."
+        "en": "Major classical evening with piano concerto and symphony.",
+        "ru": "Крупный классический вечер с концертом для фортепиано и симфонией."
       },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/voces8-kamermuziek-souvenir"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/nederlands-kamerorkest-chopins-pianoconcert"
+    },
+    {
+      "id": "de-link-quatuor-bozzini-cenakel-2026-12-01",
+      "title": {
+        "en": "De Link: Quatuor Bozzini",
+        "ru": "Де Линк: Квартет Боззини"
+      },
+      "date": "2026-12-01",
+      "time": "20:00",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Хет Ценакел"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "Contemporary string quartet in the intimate chapel; Dutch premiere of Cassandra Miller work.",
+        "ru": "Современный струнный квартет в интимной часовне; голландская премьера произведения Кассандры Миллер."
+      },
+      "url": "https://www.cenakel.nl/agenda/559-de-link-63/2026-12-01-20-00"
+    },
+    {
+      "id": "brabant-sinfonia-cenakel-2026-12-11",
+      "title": {
+        "en": "Brabant Sinfonia: Unfinished Dreams",
+        "ru": "Брабант Синфония: Незавершённые мечты"
+      },
+      "date": "2026-12-11",
+      "time": "20:00",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Хет Ценакел"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "Orchestral concert in the former monastery chapel.",
+        "ru": "Оркестровый концерт в бывшей монастырской часовне."
+      },
+      "url": "https://www.cenakel.nl/agenda/565-brabant-sinfonia-2/2026-12-11-20-00"
+    },
+    {
+      "id": "smet-kamermuziek-hoorntrio-cenakel-2026-12-13",
+      "title": {
+        "en": "S.M.E.T. Chamber Music: Horn Trio",
+        "ru": "S.M.E.T. Камерная музыка: Трио с валторной"
+      },
+      "date": "2026-12-13",
+      "time": "12:30",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Хет Ценакел"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "price": {
+        "en": "€18",
+        "ru": "€18"
+      },
+      "note": {
+        "en": "Sunday 12:30 series; Brahms and Ligeti horn trios with coffee included.",
+        "ru": "Воскресная серия в 12:30; трио с валторной Брамса и Лигети, кофе включен."
+      },
+      "url": "https://www.cenakel.nl/agenda/546-s-m-e-t-kamermuziek-21/2026-12-13-12-30"
     }
   ]
 }
