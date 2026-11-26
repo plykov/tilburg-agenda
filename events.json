@@ -1,21 +1,50 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "000d8c93-a4f7-45b7-a489-918a1417b89a",
-  "generatedAt": "2026-11-25T08:08:00+01:00",
+  "deliveryId": "a214bf7f-de1b-4ea9-adbc-07e725f55ca5",
+  "generatedAt": "2026-11-26T08:07:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Sinterklaas shows, sold-out Coltrane jazz, and Mythos wrestling theater fill Wednesday in Tilburg.",
-    "ru": "Шоу Синтерклааса, распроданный джаз Колтрейна и театральное шоу Mythos наполняют среду в Тилбурге."
+    "en": "Dolf Jansen dissects 2026, VOCES8 chamber night, and Smoulder metal fill Thursday in Tilburg.",
+    "ru": "Dolf Jansen разбирает 2026 год, камерный вечер VOCES8 и метал Smoulder наполняют четверг в Тилбурге."
   },
   "events": [
     {
-      "id": "ernst-bobbie-pimp-de-sint-2026-11-25",
+      "id": "walk-with-her-2026-11-26",
+      "title": {
+        "en": "Walk with Her: Musical Walking Tour",
+        "ru": "Walk with Her: Музыкальная прогулка"
+      },
+      "date": "2026-11-26",
+      "time": "16:30",
+      "end": "17:30",
+      "venue": {
+        "en": "Paleis-Raadhuis",
+        "ru": "Paleis-Raadhuis"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Headphone musical walk with stories of Tilburg women during Orange the World; registration advised.",
+        "ru": "Музыкальная прогулка с наушниками и историями тилбургских женщин в рамках Orange the World; рекомендуется регистрация."
+      },
+      "url": "https://tilburg.com/agenda/muzikale-wandeling-maakt-verhalen-van-tilburgse-vrouwen-hoorbaar-tijdens-orange-the-world/"
+    },
+    {
+      "id": "ernst-bobbie-pimp-de-sint-2026-11-26",
       "title": {
         "en": "Ernst, Bobbie & the rest: Pimp the Sint show",
         "ru": "Эрнст, Бобби и остальные: Шоу Pimp de Sint"
       },
-      "date": "2026-11-25",
-      "time": "13:30",
+      "date": "2026-11-26",
+      "time": "15:30",
       "end": "19:00",
       "venue": {
         "en": "013 Poppodium",
@@ -32,188 +61,16 @@
         "ru": "€5"
       },
       "note": {
-        "en": "Family Sinterklaas show with music and chaos at 013.",
-        "ru": "Семейное шоу Синтерклааса с музыкой и хаосом в 013."
+        "en": "Family Sinterklaas show with two performances; tickets via Jumbo savings.",
+        "ru": "Семейное шоу Синтерклааса с двумя сеансами; билеты через накопления Jumbo."
       },
-      "url": "https://www.013.nl/programma/159487/ernst-bobbie-de-rest"
-    },
-    {
-      "id": "paradox-jazz-orchestra-james-carter-2026-11-25",
-      "title": {
-        "en": "Paradox Jazz Orchestra ft. James Carter: The Music of John Coltrane",
-        "ru": "Paradox Jazz Orchestra с James Carter: Музыка Джона Колтрейна"
-      },
-      "date": "2026-11-25",
-      "time": "19:00",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "sold-out",
-      "price": {
-        "en": "€25",
-        "ru": "€25"
-      },
-      "note": {
-        "en": "Sold-out big band tribute to Coltrane with public rehearsal.",
-        "ru": "Распроданный биг-бэнд в честь Колтрейна с открытой репетицией."
-      },
-      "url": "https://www.paradoxtilburg.nl/agenda/"
-    },
-    {
-      "id": "mythos-ragnarok-2026-11-25",
-      "title": {
-        "en": "Mythos: Ragnarök",
-        "ru": "Mythos: Ragnarök"
-      },
-      "date": "2026-11-25",
-      "time": "20:15",
-      "end": "22:15",
-      "venue": {
-        "en": "Schouwburg Tilburg",
-        "ru": "Схаубург Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "From €26",
-        "ru": "От €26"
-      },
-      "note": {
-        "en": "Norse mythology meets professional wrestling in high-energy theater.",
-        "ru": "Скандинавская мифология встречается с профессиональным рестлингом в энергичном театре."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/mythos-ragnarok-the-mythological-theatre"
-    },
-    {
-      "id": "kluun-help-ik-heb-een-puber-2026-11-25",
-      "title": {
-        "en": "Kluun & Yvanka van der Zwaan: Best of 'Help, I have a teenager!' LIVE",
-        "ru": "Kluun и Yvanka van der Zwaan: Лучшее из 'Help, ik heb een puber!' LIVE"
-      },
-      "date": "2026-11-25",
-      "time": "20:00",
-      "end": "21:30",
-      "venue": {
-        "en": "Concertzaal Tilburg",
-        "ru": "Концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "From €24.50",
-        "ru": "От €24.50"
-      },
-      "note": {
-        "en": "Theater lecture on parenting teenagers from the popular podcast.",
-        "ru": "Театральная лекция о воспитании подростков из популярного подкаста."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/kluun-help-ik-heb-een-puber"
-    },
-    {
-      "id": "culs-cult-hondenfokker-2026-11-25",
-      "title": {
-        "en": "Cul's Cult: Hondenfokker + Mek’dr’dr",
-        "ru": "Cul's Cult: Hondenfokker + Mek’dr’dr"
-      },
-      "date": "2026-11-25",
-      "time": "21:00",
-      "end": "23:00",
-      "venue": {
-        "en": "Cul de Sac",
-        "ru": "Cul de Sac"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Free punk/garage night with emerging Dutch and Belgian bands; arrive early, full = full.",
-        "ru": "Бесплатный вечер панк/гараж с восходящими голландскими и бельгийскими группами; приходите рано, полный зал = полный."
-      },
-      "url": "https://www.013.nl/programma/152587/culs-cult"
-    },
-    {
-      "id": "inside-gaza-2026-11-25",
-      "title": {
-        "en": "Inside Gaza",
-        "ru": "Inside Gaza"
-      },
-      "date": "2026-11-25",
-      "time": "20:30",
-      "end": "22:30",
-      "venue": {
-        "en": "Schouwburg Studio",
-        "ru": "Студия Схаубурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "€5",
-        "ru": "€5"
-      },
-      "note": {
-        "en": "Documentary screening on journalism under fire in Gaza, with makers present.",
-        "ru": "Показ документального фильма о журналистике под огнём в Газе, с участием создателей."
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/tagency"
-    },
-    {
-      "id": "live-jazz-benee-2026-11-25",
-      "title": {
-        "en": "Live Jazz Night at Benee",
-        "ru": "Живой джаз-вечер в Benee"
-      },
-      "date": "2026-11-25",
-      "time": "21:00",
-      "venue": {
-        "en": "Theatercafé Benee, Schouwburg",
-        "ru": "Theatercafé Benee, Схаубург"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "free",
-      "price": {
-        "en": "Free",
-        "ru": "Бесплатно"
-      },
-      "note": {
-        "en": "Intimate free monthly jazz night in the theater café.",
-        "ru": "Интимный бесплатный ежемесячный джаз-вечер в театральном кафе."
-      },
-      "url": "https://www.podiuminfo.nl/concert/485415/Live-Jazz-Night-bij-Benee/Schouwburg-Concertzaal-Tilburg/"
+      "url": "https://www.013.nl/programma/159494/ernst-bobbie-de-rest"
     },
     {
       "id": "dolf-jansen-schaamteloos-2026-11-26",
       "title": {
-        "en": "Dolf Jansen: Schaamteloos - New Year's 2026",
-        "ru": "Dolf Jansen: Schaamteloos - Новогодний 2026"
+        "en": "Dolf Jansen: Shameless - New Year's 2026",
+        "ru": "Dolf Jansen: Бесстыдный - Новогодний 2026"
       },
       "date": "2026-11-26",
       "time": "20:15",
@@ -233,16 +90,182 @@
         "ru": "От €25.50"
       },
       "note": {
-        "en": "Stand-up, poetry and improvisation reviewing 2026.",
-        "ru": "Стенд-ап, поэзия и импровизация с обзором 2026 года."
+        "en": "Stand-up, poetry and improvisation reviewing 2026 with no interval.",
+        "ru": "Стенд-ап, поэзия и импровизация с обзором 2026 года без антракта."
       },
-      "url": "https://tilburg.com/agenda/dolf-jansen-met-schaamteloos-in-schouwburg-tilburg/"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/dolf-jansen-oudejaars-2026"
+    },
+    {
+      "id": "voces8-kamermuziek-souvenir-2026-11-26",
+      "title": {
+        "en": "VOCES8: Chamber Music Souvenir",
+        "ru": "VOCES8: Сувенир камерной музыки"
+      },
+      "date": "2026-11-26",
+      "time": "20:00",
+      "venue": {
+        "en": "Concertzaal Tilburg",
+        "ru": "Концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "sold-out",
+      "price": {
+        "en": "Waiting list",
+        "ru": "Лист ожидания"
+      },
+      "note": {
+        "en": "Acclaimed British vocal ensemble; waiting list only.",
+        "ru": "Признанный британский вокальный ансамбль; только лист ожидания."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/voces8-kamermuziek-souvenir"
+    },
+    {
+      "id": "smoulder-2026-11-26",
+      "title": {
+        "en": "Smoulder + Entropic Dissonance",
+        "ru": "Smoulder + Entropic Dissonance"
+      },
+      "date": "2026-11-26",
+      "time": "19:00",
+      "venue": {
+        "en": "Little Devil",
+        "ru": "Little Devil"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€15",
+        "ru": "€15"
+      },
+      "note": {
+        "en": "Canadian blackened epic power doom metal night.",
+        "ru": "Канадский blackened epic power doom метал-вечер."
+      },
+      "url": "https://www.littledevil.nl/"
+    },
+    {
+      "id": "emilio-live-boemel-2026-11-26",
+      "title": {
+        "en": "Emilio live at De Boemel",
+        "ru": "Emilio live в De Boemel"
+      },
+      "date": "2026-11-26",
+      "time": "20:00",
+      "end": "23:00",
+      "venue": {
+        "en": "Stadstheater De Boemel",
+        "ru": "Stadstheater De Boemel"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Acoustic covers of hits from latin to rock-n-roll by Emilio Helderman.",
+        "ru": "Акустические каверы хитов от latin до rock-n-roll от Emilio Helderman."
+      },
+      "url": "https://tilburg.com/agenda/emilio-live-bij-de-boemel/"
+    },
+    {
+      "id": "hermes-ahmadi-welkom-2026-11-26",
+      "title": {
+        "en": "Hermes Ahmadi: Welcome",
+        "ru": "Hermes Ahmadi: Добро пожаловать"
+      },
+      "date": "2026-11-26",
+      "time": "20:30",
+      "venue": {
+        "en": "Studio, Schouwburg Tilburg",
+        "ru": "Студия, Схаубург Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Theater performance in the Studio space.",
+        "ru": "Театральное представление в пространстве Studio."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/hermes-ahmadi-welkom"
+    },
+    {
+      "id": "milieucafe-2026-11-26",
+      "title": {
+        "en": "Milieucafé",
+        "ru": "Milieucafé"
+      },
+      "date": "2026-11-26",
+      "time": "20:00",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "price": {
+        "en": "€3",
+        "ru": "€3"
+      },
+      "note": {
+        "en": "Environmental debate café closing the year.",
+        "ru": "Экологическое дебатное кафе, закрывающее год."
+      },
+      "url": "https://www.paradoxtilburg.nl/agenda/"
+    },
+    {
+      "id": "allt-ataraxia-2026-11-27",
+      "title": {
+        "en": "Allt: Ataraxia European Tour 2026",
+        "ru": "Allt: Ataraxia European Tour 2026"
+      },
+      "date": "2026-11-27",
+      "time": "19:00",
+      "end": "22:30",
+      "venue": {
+        "en": "013 Poppodium",
+        "ru": "013 Poppodium"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€25.30",
+        "ru": "€25.30"
+      },
+      "note": {
+        "en": "Swedish progressive metalcore, only NL show; support Avralize & Bite Down.",
+        "ru": "Шведский прогрессивный металкор, единственный концерт в NL; поддержка Avralize и Bite Down."
+      },
+      "url": "https://www.013.nl/programma/143470/allt"
     },
     {
       "id": "nederlands-kamerorkest-pogorelic-2026-11-27",
       "title": {
-        "en": "Nederlands Kamerorkest & Ivo Pogorelić: Chopin’s Piano Concerto No. 2 & Mozart’s Symphony No. 40",
-        "ru": "Nederlands Kamerorkest и Ivo Pogorelić: Фортепианный концерт №2 Шопена и Симфония №40 Моцарта"
+        "en": "Netherlands Chamber Orchestra & Ivo Pogorelić: Chopin's Piano Concerto No. 2 & Mozart's Symphony No. 40",
+        "ru": "Нидерландский камерный оркестр и Ivo Pogorelić: Фортепианный концерт №2 Шопена и Симфония №40 Моцарта"
       },
       "date": "2026-11-27",
       "time": "20:00",
@@ -262,23 +285,22 @@
         "ru": "От €46"
       },
       "note": {
-        "en": "Legendary pianist Pogorelić plays Chopin with chamber orchestra.",
-        "ru": "Легендарный пианист Pogorelić исполняет Шопена с камерным оркестром."
+        "en": "Legendary pianist Pogorelić with chamber orchestra under Gordan Nikolić.",
+        "ru": "Легендарный пианист Pogorelić с камерным оркестром под управлением Gordan Nikolić."
       },
       "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/nederlands-kamerorkest-chopins-pianoconcert"
     },
     {
-      "id": "allt-ataraxia-2026-11-27",
+      "id": "mark-lotz-freshta-2026-11-27",
       "title": {
-        "en": "Allt: Ataraxia European Tour 2026",
-        "ru": "Allt: Ataraxia European Tour 2026"
+        "en": "Mark Lotz Freshta Quintet",
+        "ru": "Mark Lotz Freshta Quintet"
       },
       "date": "2026-11-27",
-      "time": "20:00",
-      "end": "22:30",
+      "time": "20:30",
       "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "en": "Paradox",
+        "ru": "Paradox"
       },
       "city": {
         "en": "Tilburg",
@@ -287,14 +309,67 @@
       "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "€25.30",
-        "ru": "€25.30"
+        "en": "€18",
+        "ru": "€18"
       },
       "note": {
-        "en": "Swedish progressive metalcore, only NL show on tour.",
-        "ru": "Шведский прогрессивный металкор, единственный концерт в Нидерландах на туре."
+        "en": "Modern creative jazz with Jeroen van Vliet, Claudio Puntin & Jörg Brinkmann.",
+        "ru": "Современный креативный джаз с Jeroen van Vliet, Claudio Puntin и Jörg Brinkmann."
       },
-      "url": "https://www.013.nl/programma/143470/allt"
+      "url": "https://www.paradoxtilburg.nl/programma/mark-lotz-freshta-quintet/"
+    },
+    {
+      "id": "recirquel-paradisum-2026-11-27",
+      "title": {
+        "en": "Recirquel: Paradisum",
+        "ru": "Recirquel: Paradisum"
+      },
+      "date": "2026-11-27",
+      "time": "20:15",
+      "venue": {
+        "en": "Schouwburg Tilburg",
+        "ru": "Схаубург Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Cirque-danse visual spectacle.",
+        "ru": "Цирк-танец визуальное зрелище."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/recirquel-paradisum"
+    },
+    {
+      "id": "studio-six-first-time-live-2026-11-27",
+      "title": {
+        "en": "Studio Six Presents: First Time Live",
+        "ru": "Studio Six Presents: First Time Live"
+      },
+      "date": "2026-11-27",
+      "time": "19:00",
+      "end": "22:00",
+      "venue": {
+        "en": "Factorium",
+        "ru": "Factorium"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Youth talent first stage experience from Studio Six students.",
+        "ru": "Первый сценический опыт молодых талантов из студентов Studio Six."
+      },
+      "url": "https://www.factorium.nl/agenda"
     },
     {
       "id": "de-link-quatuor-bozzini-2026-12-01",
@@ -315,10 +390,34 @@
       "category": "church",
       "status": "on-sale",
       "note": {
-        "en": "Canadian string quartet premieres Cassandra Miller work in intimate chapel setting.",
-        "ru": "Канадский струнный квартет с премьерой работы Cassandra Miller в интимной капелле."
+        "en": "Canadian string quartet with Dutch premiere of Cassandra Miller work in chapel.",
+        "ru": "Канадский струнный квартет с голландской премьерой работы Cassandra Miller в капелле."
       },
       "url": "https://www.cenakel.nl/agenda/559-de-link-63/2026-12-01-20-00"
+    },
+    {
+      "id": "betoverende-pianisten-scholtes-janssens-2026-12-20",
+      "title": {
+        "en": "Enchanting Pianists: Pianoduo Scholtes & Janssens",
+        "ru": "Очаровывающие пианисты: Pianoduo Scholtes & Janssens"
+      },
+      "date": "2026-12-20",
+      "time": "16:00",
+      "venue": {
+        "en": "Het Cenakel",
+        "ru": "Het Cenakel"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "Intimate piano duo in the former monastery chapel.",
+        "ru": "Интимный фортепианный дуэт в бывшей монастырской капелле."
+      },
+      "url": "https://www.cenakel.nl/agenda/552-betoverende-pianisten-21/2026-12-20-16-00"
     }
   ]
 }
