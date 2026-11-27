@@ -1,127 +1,149 @@
 {
   "schema": "tilburg.news.v1",
-  "deliveryId": "cb185e8a-97f4-4ad4-868b-96ef87df392c",
-  "generatedAt": "2026-11-25T19:12:00+01:00",
+  "deliveryId": "61e71736-fd58-46a4-86d6-ae826532283f",
+  "generatedAt": "2026-11-27T19:20:00+01:00",
   "timezone": "Europe/Amsterdam",
-  "source": "Grok verified permalinks 19:12 Amsterdam",
+  "source": "Grok verified permalinks 19:20 Amsterdam",
   "headline": {
-    "nl": "Oisterwijk stapt over op Tilburgs BAT; Zusters van Liefde openen klooster voor de stad",
-    "en": "Oisterwijk switches to Tilburg's BAT; Sisters of Charity open convent to the city",
-    "ru": "Остервейк переходит на тилбургский BAT; сёстры милосердия открывают монастырь для города"
+    "nl": "Stroomstoring in Tilburg hersteld; Die Antwoord naar Live At Spoorpark",
+    "en": "Power outage in Tilburg resolved; Die Antwoord to Live At Spoorpark",
+    "ru": "Отключение электричества в Тилбурге устранено; Die Antwoord на Live At Spoorpark"
   },
   "headlineLangNote": "ui-translated",
   "itemCount": 10,
   "items": [
     {
-      "id": "omroep-tilburg-2026-11-25-oisterwijk-bat",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-11-25T14:45:00+01:00",
-      "title": {
-        "nl": "Oisterwijk stapt over naar afvalinzamelaar BAT: dit verandert er",
-        "en": "Oisterwijk switches to waste collector BAT: what changes",
-        "ru": "Остервейк переходит к сборщику отходов BAT: что меняется"
-      },
-      "teaser": {
-        "nl": "Vanaf 4 januari 2027 haalt het Tilburgse Babants Afval Team (BAT) het huishoudelijk afval in Oisterwijk op in plaats van de Afvalstoffendienst. Inwoners krijgen een nieuwe app en soms een andere PMD-dag.",
-        "en": "From 4 January 2027 the Tilburg-based Babants Afval Team (BAT) will collect household waste in Oisterwijk instead of the Afvalstoffendienst. Residents get a new app and sometimes a different PMD day.",
-        "ru": "С 4 января 2027 года тилбургский Babants Afval Team (BAT) будет вывозить бытовые отходы в Остервейке вместо Afvalstoffendienst. Жители получат новое приложение и иногда другой день PMD."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/oisterwijk/oisterwijk-stapt-over-naar-afvalinzamelaar-bat-dit-verandert-er/",
-      "paywall": false,
-      "city": "Oisterwijk",
-      "tags": ["afval", "BAT"]
-    },
-    {
-      "id": "omroep-tilburg-2026-11-25-milieucafe",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "cultuur",
-      "publishedAt": "2026-11-25T00:00:00+01:00",
-      "title": {
-        "nl": "Milieucafé sluit jaar af met talkshow over hergebruik, boomteelt en faunabeheer",
-        "en": "Milieucafé closes the year with a talkshow on reuse, tree cultivation and wildlife management",
-        "ru": "Milieucafé завершает год ток-шоу о повторном использовании, лесоводстве и управлении дикой природой"
-      },
-      "teaser": {
-        "nl": "Donderdag 26 november in Paradox: talkshow over hergebruik van spullen, natuurinclusieve boomteelt en faunabeheer, met muziek en cabaret.",
-        "en": "Thursday 26 November at Paradox: talkshow on reusing things, nature-inclusive tree cultivation and wildlife management, with music and cabaret.",
-        "ru": "Четверг 26 ноября в Paradox: ток-шоу о повторном использовании вещей, природоориентированном лесоводстве и управлении дикой природой, с музыкой и кабаре."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/tv/milieucafe/milieucafe-sluit-jaar-af-met-talkshow-over-hergebruik-boomteelt-en-faunabeheer/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["milieu", "evenement"]
-    },
-    {
-      "id": "omroep-brabant-2026-11-24-zusters-klooster",
+      "id": "omroep-brabant-2026-11-27-stroomstoring",
       "sourceId": "omroep-brabant",
       "sourceName": "Omroep Brabant",
-      "category": "omroep",
-      "publishedAt": "2026-11-24T19:30:00+01:00",
+      "category": "incident",
+      "publishedAt": "2026-11-27T10:02:00+01:00",
       "title": {
-        "nl": "Zusters gaan klooster delen met de stad: 'Gesprekken met jongerenhospice'",
-        "en": "Sisters will share convent with the city: 'Talks with youth hospice'",
-        "ru": "Сёстры разделят монастырь с городом: «Переговоры с хосписом для молодёжи»"
+        "nl": "Stroomstoring in Tilburg: herstel verwacht rond twee uur",
+        "en": "Power outage in Tilburg: restoration expected around two o'clock",
+        "ru": "Отключение электричества в Тилбурге: восстановление ожидалось около двух часов"
       },
       "teaser": {
-        "nl": "De Zusters van Liefde openen hun moederhuis aan de Oude Dijk voor maatschappelijke initiatieven, onder meer gesprekken met jongerenhospice Xenia.",
-        "en": "The Sisters of Charity are opening their mother house on the Oude Dijk to social initiatives, including talks with youth hospice Xenia.",
-        "ru": "Сёстры милосердия открывают материнский дом на Oude Dijk для общественных инициатив, в том числе переговоров с молодёжным хосписом Xenia."
+        "nl": "De stroomstoring in Tilburg is voorbij. Minder dan 100 adressen zaten vrijdag zonder stroom vanaf 09:54; de storing werd opgelost om 13:16.",
+        "en": "The power outage in Tilburg is over. Fewer than 100 addresses were without power on Friday from 09:54; the outage was resolved at 13:16.",
+        "ru": "Отключение электричества в Тилбурге закончилось. Менее 100 адресов оставались без света в пятницу с 09:54; сбой был устранён в 13:16."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroepbrabant.nl/nieuws/6035957/zusters-gaan-klooster-delen-met-de-stad-gesprekken-met-jongerenhospice",
+      "url": "https://www.omroepbrabant.nl/nieuws/6036487/stroomstoring-in-tilburg-herstel-verwacht-rond-twee-uur",
       "paywall": false,
       "city": "Tilburg",
-      "area": "Oude Dijk",
-      "tags": ["klooster", "zorg"]
+      "tags": ["stroom", "storing"]
     },
     {
-      "id": "omroep-tilburg-2026-11-24-a58-onderhoud",
-      "sourceId": "omroep-tilburg",
-      "sourceName": "Omroep Tilburg",
-      "category": "omroep",
-      "publishedAt": "2026-11-24T00:00:00+01:00",
-      "title": {
-        "nl": "A58 drie nachten gedeeltelijk afgesloten voor onderhoud",
-        "en": "A58 partially closed for three nights for maintenance",
-        "ru": "A58 частично закрыта на три ночи для обслуживания"
-      },
-      "teaser": {
-        "nl": "Begin december is de A58 drie nachten deels dicht tussen Tilburg Reeshof en De Baars/Sint-Annabosch; extra reistijd circa een kwartier via N260.",
-        "en": "In early December the A58 will be partly closed for three nights between Tilburg Reeshof and De Baars/Sint-Annabosch; extra travel time about 15 minutes via N260.",
-        "ru": "В начале декабря A58 будет частично закрыта на три ночи между Tilburg Reeshof и De Baars/Sint-Annabosch; дополнительное время в пути около 15 минут по N260."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/a58-drie-nachten-gedeeltelijk-afgesloten-voor-onderhoud/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["verkeer", "A58"]
-    },
-    {
-      "id": "omroep-tilburg-2026-11-24-sinterklaas-activiteiten",
+      "id": "omroep-tilburg-2026-11-27-die-antwoord",
       "sourceId": "omroep-tilburg",
       "sourceName": "Omroep Tilburg",
       "category": "cultuur",
-      "publishedAt": "2026-11-24T11:36:00+01:00",
+      "publishedAt": "2026-11-27T00:00:00+01:00",
       "title": {
-        "nl": "Van Pietenpret tot Sinterklaasshows: dit is er de komende tijd te doen in Tilburg en omgeving",
-        "en": "From Piet fun to Sinterklaas shows: what's on in Tilburg and surroundings",
-        "ru": "От развлечений Пьетов до шоу Синтерклааса: что будет в Тилбурге и окрестностях"
+        "nl": "Controversiële band Die Antwoord naar Live At Spoorpark: ‘Festival moet uitleggen waarom het de band boekt’",
+        "en": "Controversial band Die Antwoord to Live At Spoorpark: ‘Festival must explain why it books the band’",
+        "ru": "Спорная группа Die Antwoord на Live At Spoorpark: «Фестиваль должен объяснить, почему бронирует группу»"
       },
       "teaser": {
-        "nl": "Op 25 november Sinterklaasbezoek en knutselmiddagen in Tilburg; verdere shows, avonturen en markten in de regio tot pakjesavond.",
-        "en": "On 25 November Sinterklaas visit and craft afternoons in Tilburg; further shows, adventures and markets in the region until gift evening.",
-        "ru": "25 ноября визит Синтерклааса и мастер-классы в Тилбурге; дальше шоу, приключения и рынки в регионе до вечера подарков."
+        "nl": "De Zuid-Afrikaanse band Die Antwoord staat op 26 juni 2027 op Live At Spoorpark. De band wordt al jaren beschuldigd van misbruik; media-ethicus Huub Evers vraagt openheid.",
+        "en": "South African band Die Antwoord is scheduled for 26 June 2027 at Live At Spoorpark. The band has faced abuse allegations for years; media ethicist Huub Evers calls for openness.",
+        "ru": "Южноафриканская группа Die Antwoord запланирована на 26 июня 2027 на Live At Spoorpark. Группу годами обвиняют в злоупотреблениях; медиаэтик Хууб Эверс требует открытости."
       },
       "langNote": "ui-translated",
-      "url": "https://www.omroeptilburg.nl/regio/tilburg/van-pietenpret-tot-sinterklaasshows-dit-is-er-de-komende-tijd-te-doen-in-tilburg-en-omgeving/",
+      "url": "https://www.omroeptilburg.nl/cultuur/controversiele-band-die-antwoord-naar-live-at-spoorpark-festival-moet-uitleggen-waarom-het-de-band-boekt/",
       "paywall": false,
       "city": "Tilburg",
-      "tags": ["sinterklaas", "cultuur"]
+      "tags": ["cultuur", "festival"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-27-mma-sardari",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-27T00:00:00+01:00",
+      "title": {
+        "nl": "Tilburgse MMA-vechter Agy Sardari vecht in Brazilië voor Jungle Fight-titel",
+        "en": "Tilburg MMA fighter Agy Sardari fights in Brazil for Jungle Fight title",
+        "ru": "Тилбургский боец ММА Аги Сардари сражается в Бразилии за титул Jungle Fight"
+      },
+      "teaser": {
+        "nl": "Agy Sardari staat vrijdag in Itajaí in het hoofdgevecht van Jungle Fight 157 tegen kampioen Marcelo Medeiros. Hij schat zijn winstkansen hoog in.",
+        "en": "Agy Sardari fights Friday in Itajaí in the main event of Jungle Fight 157 against champion Marcelo Medeiros. He rates his chances of winning highly.",
+        "ru": "Аги Сардари в пятницу в Итажаи в главном бою Jungle Fight 157 против чемпиона Марсело Медеироса. Он высоко оценивает свои шансы на победу."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/sport/tilburgse-mma-vechter-agy-sardari-vecht-in-brazilie-voor-jungle-fight-titel/",
+      "paywall": false,
+      "city": "Tilburg",
+      "tags": ["sport", "MMA"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-27-hugo-maas",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "omroep",
+      "publishedAt": "2026-11-27T00:00:00+01:00",
+      "title": {
+        "nl": "Hugo Maas voorgedragen als nieuwe burgemeester van Hilvarenbeek",
+        "en": "Hugo Maas nominated as new mayor of Hilvarenbeek",
+        "ru": "Хуго Маас выдвинут на пост нового мэра Хилваренбека"
+      },
+      "teaser": {
+        "nl": "De gemeenteraad van Hilvarenbeek heeft op 25 november Hugo Maas voorgedragen als nieuwe burgemeester. Benoeming verwacht in tweede helft januari 2027.",
+        "en": "The municipal council of Hilvarenbeek nominated Hugo Maas as new mayor on 25 November. Appointment expected in the second half of January 2027.",
+        "ru": "Муниципальный совет Хилваренбека 25 ноября выдвинул Хуго Мааса на пост нового мэра. Назначение ожидается во второй половине января 2027."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/hilvarenbeek/hugo-maas-voorgedragen-als-nieuwe-burgemeester-van-hilvarenbeek/",
+      "paywall": false,
+      "city": "Hilvarenbeek",
+      "tags": ["burgemeester", "politiek"]
+    },
+    {
+      "id": "gemeente-2026-11-26-groene-wellen",
+      "sourceId": "gemeente",
+      "sourceName": "Gemeente Tilburg",
+      "category": "gemeente",
+      "publishedAt": "2026-11-26T00:00:00+01:00",
+      "title": {
+        "nl": "De Groene Wellen komende zomer nog niet open",
+        "en": "De Groene Wellen not open next summer yet",
+        "ru": "De Groene Wellen ещё не откроется следующим летом"
+      },
+      "teaser": {
+        "nl": "Zwembad de Groene Wellen in Udenhout kan nog niet open in het komende zwemseizoen. Beschermde dieren (vleermuizen, dassen, steenmarters) vertragen de verbouwing.",
+        "en": "Swimming pool de Groene Wellen in Udenhout cannot open in the coming swimming season yet. Protected animals (bats, badgers, stone martens) delay the renovation.",
+        "ru": "Бассейн de Groene Wellen в Уденхауте ещё не может открыться в предстоящем сезоне. Охраняемые животные (летучие мыши, барсуки, каменные куницы) задерживают реконструкцию."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.tilburg.nl/nieuws/item/de-groene-wellen-komende-zomer-nog-niet-open/",
+      "paywall": false,
+      "city": "Udenhout",
+      "tags": ["zwembad", "natuur"]
+    },
+    {
+      "id": "omroep-tilburg-2026-11-26-wilde-achtervolging",
+      "sourceId": "omroep-tilburg",
+      "sourceName": "Omroep Tilburg",
+      "category": "incident",
+      "publishedAt": "2026-11-26T12:12:00+01:00",
+      "title": {
+        "nl": "Wilde achtervolging door Tilburg eindigt met aanhouding",
+        "en": "Wild chase through Tilburg ends with arrest",
+        "ru": "Дикая погоня через Тилбург заканчивается задержанием"
+      },
+      "teaser": {
+        "nl": "Een wilde politieachtervolging trok donderdagochtend veel bekijks in het centrum van Tilburg. De bestuurder werd aangehouden na een crash waarbij een politiewagen een verkeerslicht raakte; hij wordt verdacht van poging tot doodslag.",
+        "en": "A wild police chase drew a lot of attention in the center of Tilburg on Thursday morning. The driver was arrested after a crash in which a police car hit a traffic light; he is suspected of attempted manslaughter.",
+        "ru": "Дикая полицейская погоня привлекла много внимания в центре Тилбурга в четверг утром. Водитель был задержан после аварии, в которой полицейская машина врезалась в светофор; его подозревают в покушении на убийство."
+      },
+      "langNote": "ui-translated",
+      "url": "https://www.omroeptilburg.nl/regio/tilburg/wilde-achtervolging-door-tilburg-eindigt-met-aanhouding/",
+      "paywall": false,
+      "city": "Tilburg",
+      "area": "centrum",
+      "tags": ["politie", "achtervolging"]
     },
     {
       "id": "gemeente-2026-11-19-noodsteunpunt",
@@ -202,37 +224,15 @@
         "ru": "Повторное использование более 200 тонн вещей через Circulair Ambachts Netwerk Tilburg"
       },
       "teaser": {
-        "nl": "In 2026 al ruim 200 ton hergebruikt dankzij Tilburgers en partners; minder afval en circa 34.000 euro besparing.",
-        "en": "In 2026 already over 200 tonnes reused thanks to Tilburg residents and partners; less waste and about 34,000 euro savings.",
-        "ru": "В 2026 году уже более 200 тонн повторно использовано благодаря жителям Тилбурга и партнёрам; меньше отходов и экономия около 34 000 евро."
+        "nl": "In 2026 al ruim 200 ton hergebruikt dankzij Tilburgers en partners; minder afval en lagere verwerkingskosten.",
+        "en": "In 2026 already over 200 tonnes reused thanks to Tilburg residents and partners; less waste and lower processing costs.",
+        "ru": "В 2026 году уже более 200 тонн повторно использовано благодаря жителям Тилбурга и партнёрам; меньше отходов и ниже затраты на переработку."
       },
       "langNote": "ui-translated",
       "url": "https://www.tilburg.nl/nieuws/item/hergebruik-van-meer-dan-200-ton-spullen-via-circulair-ambachts-netwerk-tilburg/",
       "paywall": false,
       "city": "Tilburg",
       "tags": ["circulair", "afval"]
-    },
-    {
-      "id": "gemeente-2026-11-13-begroting-2027",
-      "sourceId": "gemeente",
-      "sourceName": "Gemeente Tilburg",
-      "category": "gemeente",
-      "publishedAt": "2026-11-13T00:00:00+01:00",
-      "title": {
-        "nl": "Programmabegroting 2027 vastgesteld",
-        "en": "2027 programme budget adopted",
-        "ru": "Программный бюджет 2027 утверждён"
-      },
-      "teaser": {
-        "nl": "Raad stelde op 12 november de begroting 2027 vast met investeringen in wonen, groen, veiligheid en voorzieningen.",
-        "en": "Council adopted the 2027 budget on 12 November with investments in housing, green, safety and facilities.",
-        "ru": "Совет утвердил 12 ноября бюджет 2027 с инвестициями в жильё, зелень, безопасность и объекты."
-      },
-      "langNote": "ui-translated",
-      "url": "https://www.tilburg.nl/nieuws/item/programmabegroting-2027-vastgesteld/",
-      "paywall": false,
-      "city": "Tilburg",
-      "tags": ["begroting", "raad"]
     }
   ]
 }
