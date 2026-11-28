@@ -1,53 +1,24 @@
 {
   "schema": "tilburg.agenda.v1",
-  "deliveryId": "f0ba475d-88bd-431f-a28b-62c953cdc0d7",
-  "generatedAt": "2026-11-27T08:07:00+01:00",
+  "deliveryId": "966e7902-cd33-40d7-92d2-9c112b8d31ab",
+  "generatedAt": "2026-11-28T08:08:00+01:00",
   "source": "Grok daily automation 08:00 Amsterdam",
   "headline": {
-    "en": "Warandeloop launches tonight amid metalcore peaks and Chopin at the Concertzaal",
-    "ru": "Варанделоп стартует сегодня вечером на фоне металкоров и Шопена в Концертзале"
+    "en": "Subquake's 13th anniversary drum & bass at 013, Sinterklaas visit at Westermarkt, and youth orchestra at Schouwburg.",
+    "ru": "13-летие Subquake с драм-н-бассом в 013, визит Синтерклааса на Вестермаркт и молодёжный оркестр в Схаубурге."
   },
   "events": [
     {
-      "id": "warandeloop-by-night-2026-11-27",
+      "id": "subquake-013-2026-11-28",
       "title": {
-        "en": "Warande by Night (Black Friday theme)",
-        "ru": "Варанде бай Найт (тема Чёрной пятницы)"
+        "en": "Subquake (0)13 Year Anniversary",
+        "ru": "Subquake (0)13 Годовщина"
       },
-      "date": "2026-11-27",
-      "endDate": "2026-11-29",
-      "time": "19:30",
+      "date": "2026-11-28",
+      "time": "15:00",
       "venue": {
-        "en": "Oude Warande / Stadsbos013",
-        "ru": "Ауде Варанде / Стадсбос013"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "festival",
-      "status": "on-sale",
-      "price": {
-        "en": "€26–28.50",
-        "ru": "€26–28.50"
-      },
-      "note": {
-        "en": "Fun run 4 or 8 km through lit forest and university, afterparty; part of three-day Warandeloop with NK Cross on Sunday",
-        "ru": "Весёлая пробежка 4 или 8 км по освещённому лесу и университету, афтерпати; часть трёхдневного Варанделопа с НК кросса в воскресенье"
-      },
-      "url": "https://warandeloop.nl/wbn/"
-    },
-    {
-      "id": "allt-ataraxia-tour-2026-11-27",
-      "title": {
-        "en": "Allt – Ataraxia European Tour",
-        "ru": "Allt – европейский тур Ataraxia"
-      },
-      "date": "2026-11-27",
-      "time": "19:00",
-      "venue": {
-        "en": "013 Poppodium",
-        "ru": "013 Poppodium"
+        "en": "013",
+        "ru": "013"
       },
       "city": {
         "en": "Tilburg",
@@ -56,163 +27,26 @@
       "category": "music",
       "status": "on-sale",
       "price": {
-        "en": "€25.30",
-        "ru": "€25.30"
+        "en": "From €19.99",
+        "ru": "От €19.99"
       },
       "note": {
-        "en": "Swedish progressive metalcore with Avralize and Bite Down; only NL show, Core Season",
-        "ru": "Шведский прогрессивный металкор с Avralize и Bite Down; единственный концерт в NL, Core Season"
+        "en": "Drum & bass with Wilkinson, Koven, Black Sun Empire and more across two halls.",
+        "ru": "Драм-н-басс с Wilkinson, Koven, Black Sun Empire и другими в двух залах."
       },
-      "url": "https://www.013.nl/programma/143470/allt"
+      "url": "https://www.013.nl/en/events/150057/013-years-subquake"
     },
     {
-      "id": "sugar-spine-little-devil-2026-11-27",
+      "id": "kyella-lunchconcert-2026-11-28",
       "title": {
-        "en": "Sugar Spine – Soul Before Spirit Tour",
-        "ru": "Sugar Spine – тур Soul Before Spirit"
+        "en": "Kyella Lunch Concert",
+        "ru": "Ланч-концерт Kyella"
       },
-      "date": "2026-11-27",
-      "time": "19:00",
-      "venue": {
-        "en": "Little Devil (013 op locatie)",
-        "ru": "Little Devil (013 op locatie)"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€18.30",
-        "ru": "€18.30"
-      },
-      "note": {
-        "en": "Aggressive hardcore/metalcore/deathcore with local BRACES and Torn From Oblivion",
-        "ru": "Агрессивный хардкор/металкор/деткор с местными BRACES и Torn From Oblivion"
-      },
-      "url": "https://www.013.nl/en/events/145139/sugar-spine"
-    },
-    {
-      "id": "nko-pogorelic-chopin-2026-11-27",
-      "title": {
-        "en": "Nederlands Kamerorkest & Ivo Pogorelić: Chopin's Piano Concerto No. 2 & Mozart's Symphony No. 40",
-        "ru": "Нидерландский камерный оркестр и Иво Погорелич: Второй фортепианный концерт Шопена и Симфония № 40 Моцарта"
-      },
-      "date": "2026-11-27",
-      "time": "20:00",
-      "end": "22:00",
+      "date": "2026-11-28",
+      "time": "12:00",
       "venue": {
         "en": "Schouwburg & Concertzaal Tilburg",
         "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "church",
-      "status": "on-sale",
-      "price": {
-        "en": "€46–54.50 (student €13.50)",
-        "ru": "€46–54.50 (студент €13.50)"
-      },
-      "note": {
-        "en": "Gordan Nikolić conducts; Pogorelić's legendary Chopin interpretation",
-        "ru": "Дирижирует Гордан Николич; легендарная интерпретация Шопена Погорелича"
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/nederlands-kamerorkest-chopins-pianoconcert"
-    },
-    {
-      "id": "recirquel-paradisum-2026-11-27",
-      "title": {
-        "en": "Recirquel: Paradisum",
-        "ru": "Recirquel: Paradisum"
-      },
-      "date": "2026-11-27",
-      "time": "20:15",
-      "venue": {
-        "en": "Schouwburg & Concertzaal Tilburg",
-        "ru": "Схаубург и концертный зал Тилбурга"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "price": {
-        "en": "€37–49.50 (student €13.50)",
-        "ru": "€37–49.50 (студент €13.50)"
-      },
-      "note": {
-        "en": "Hungarian cirque-danse on rebirth after apocalypse; no interval",
-        "ru": "Венгерский цирк-танец о возрождении после апокалипсиса; без антракта"
-      },
-      "url": "https://www.schouwburgconcertzaaltilburg.nl/nl/agenda/recirquel-paradisum"
-    },
-    {
-      "id": "mark-lotz-freshta-paradox-2026-11-27",
-      "title": {
-        "en": "Mark Lotz Freshta Quintet",
-        "ru": "Марк Лотц Фрешта Квинтет"
-      },
-      "date": "2026-11-27",
-      "time": "20:30",
-      "venue": {
-        "en": "Paradox",
-        "ru": "Paradox"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "music",
-      "status": "on-sale",
-      "price": {
-        "en": "€18",
-        "ru": "€18"
-      },
-      "note": {
-        "en": "Modern creative jazz with Jeroen van Vliet, Claudio Puntin & Jörg Brinkmann",
-        "ru": "Современный креативный джаз с Йеруном ван Флитом, Клаудио Пунтином и Йоргом Бринкманном"
-      },
-      "url": "https://www.paradoxtilburg.nl/programma/mark-lotz-freshta-quintet/"
-    },
-    {
-      "id": "silence-of-the-dogs-tryout-2026-11-27",
-      "title": {
-        "en": "Silence of the dogs (try-out)",
-        "ru": "Silence of the dogs (прогон)"
-      },
-      "date": "2026-11-27",
-      "time": "20:30",
-      "venue": {
-        "en": "De Nieuwe Vorst",
-        "ru": "Де Ньюве Ворст"
-      },
-      "city": {
-        "en": "Tilburg",
-        "ru": "Тилбург"
-      },
-      "category": "theater",
-      "status": "on-sale",
-      "note": {
-        "en": "Het Zuidelijk Toneel production; premiere Saturday",
-        "ru": "Постановка Хет Зёйделийк Тонеел; премьера в субботу"
-      },
-      "url": "https://denieuwevorst.nl/programma"
-    },
-    {
-      "id": "studio-six-first-time-live-2026-11-27",
-      "title": {
-        "en": "Studio Six Presents: First Time Live",
-        "ru": "Studio Six представляет: Первый выход на сцену"
-      },
-      "date": "2026-11-27",
-      "time": "19:00",
-      "venue": {
-        "en": "Factorium",
-        "ru": "Факториум"
       },
       "city": {
         "en": "Tilburg",
@@ -225,24 +59,154 @@
         "ru": "Бесплатно"
       },
       "note": {
-        "en": "Students' first public stage experience",
-        "ru": "Первый публичный выход на сцену учеников"
+        "en": "Free lunchtime concert.",
+        "ru": "Бесплатный ланч-концерт."
       },
-      "url": "https://factorium.nl/agenda"
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/lunchconcert-kyella"
     },
     {
-      "id": "wijn-festijn-koepelhal-2026-11-27",
+      "id": "euregio-jeugdorkest-royaal-2026-11-28",
       "title": {
-        "en": "Het Wijn Festijn",
-        "ru": "Винный фестиваль"
+        "en": "Euregio Youth Orchestra ROYAAL",
+        "ru": "Молодёжный оркестр Эурегио ROYAAL"
       },
-      "date": "2026-11-27",
-      "endDate": "2026-11-28",
-      "time": "16:00",
-      "end": "23:00",
+      "date": "2026-11-28",
+      "time": "20:00",
       "venue": {
-        "en": "Koepelhal",
-        "ru": "Кёпелхал"
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "church",
+      "status": "on-sale",
+      "note": {
+        "en": "Youth talent classical concert.",
+        "ru": "Классический концерт молодёжного таланта."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/euregio-jeugdorkest-royaal"
+    },
+    {
+      "id": "ronald-goedemondt-mijn-lieve-achterdocht-2026-11-28",
+      "title": {
+        "en": "Ronald Goedemondt: My Dear Suspicion",
+        "ru": "Рональд Гудемонт: Моя милая подозрительность"
+      },
+      "date": "2026-11-28",
+      "time": "20:15",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "sold-out",
+      "price": {
+        "en": "Waiting list",
+        "ru": "Лист ожидания"
+      },
+      "note": {
+        "en": "Cabaret show, currently waiting list only.",
+        "ru": "Кабаре-шоу, сейчас только лист ожидания."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/ronald-goedemondt-mijn-lieve-achterdocht"
+    },
+    {
+      "id": "robin-scherpen-memory-traces-2026-11-28",
+      "title": {
+        "en": "Robin Scherpen: Memory & Traces",
+        "ru": "Робин Схерпен: Память и следы"
+      },
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": {
+        "en": "Schouwburg & Concertzaal Tilburg",
+        "ru": "Схаубург и концертный зал Тилбурга"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "note": {
+        "en": "Neo-classical guitar concert in the Studio.",
+        "ru": "Неоклассический гитарный концерт в Студии."
+      },
+      "url": "https://www.schouwburgconcertzaaltilburg.nl/en/agenda/robin-scherpen-memory-traces"
+    },
+    {
+      "id": "emma-smith-afternoon-2026-11-28",
+      "title": {
+        "en": "Emma Smith (UK) Afternoon Concert",
+        "ru": "Эмма Смит (Великобритания) Дневной концерт"
+      },
+      "date": "2026-11-28",
+      "time": "16:00",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€25",
+        "ru": "€25"
+      },
+      "note": {
+        "en": "Vocal jazz by British singer.",
+        "ru": "Вокальный джаз британской певицы."
+      },
+      "url": "https://www.paradoxtilburg.nl/programma/emma-smith-uk-2/"
+    },
+    {
+      "id": "emma-smith-evening-2026-11-28",
+      "title": {
+        "en": "Emma Smith (UK) Evening Concert",
+        "ru": "Эмма Смит (Великобритания) Вечерний концерт"
+      },
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": {
+        "en": "Paradox",
+        "ru": "Paradox"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "on-sale",
+      "price": {
+        "en": "€25",
+        "ru": "€25"
+      },
+      "note": {
+        "en": "Vocal jazz by British singer.",
+        "ru": "Вокальный джаз британской певицы."
+      },
+      "url": "https://www.paradoxtilburg.nl/programma/emma-smith-uk/"
+    },
+    {
+      "id": "popcorn-talentenjacht-2026-11-28",
+      "title": {
+        "en": "POPCORN Talent Show",
+        "ru": "Шоу талантов POPCORN"
+      },
+      "date": "2026-11-28",
+      "time": "15:00",
+      "venue": {
+        "en": "Factorium",
+        "ru": "Factorium"
       },
       "city": {
         "en": "Tilburg",
@@ -251,14 +215,119 @@
       "category": "family",
       "status": "on-sale",
       "price": {
-        "en": "€13.50",
-        "ru": "€13.50"
+        "en": "€7.50",
+        "ru": "€7.50"
       },
       "note": {
-        "en": "Over 100 wines, snacks and music in Spoorzone",
-        "ru": "Более 100 вин, закуски и музыка в Спорзоне"
+        "en": "Youth talent show with singing, dance and more.",
+        "ru": "Шоу молодых талантов с пением, танцами и другим."
       },
-      "url": "https://tilburg.com/agenda/het-wijn-festijn-keert-terug-naar-de-koepelhal-in-tilburg-2/"
+      "url": "https://tilburg.com/agenda/popcorn-talentenjacht/"
+    },
+    {
+      "id": "sinterklaas-westermarkt-2026-11-28",
+      "title": {
+        "en": "Sinterklaas and his Pieters at Westermarkt",
+        "ru": "Синтерклаас и его Питеры на Вестермаркт"
+      },
+      "date": "2026-11-28",
+      "time": "12:00",
+      "end": "16:00",
+      "venue": {
+        "en": "Westermarkt",
+        "ru": "Вестермаркт"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "family",
+      "status": "free",
+      "price": {
+        "en": "Free",
+        "ru": "Бесплатно"
+      },
+      "note": {
+        "en": "Meet Sinterklaas, photos, pepernoten and music.",
+        "ru": "Встреча с Синтерклаасом, фото, пеперноты и музыка."
+      },
+      "url": "https://tilburg.com/agenda/sinterklaas-en-zijn-pieten-komen-naar-de-westermarkt/"
+    },
+    {
+      "id": "silence-of-the-dogs-2026-11-28",
+      "title": {
+        "en": "Silence of the Dogs",
+        "ru": "Тишина собак"
+      },
+      "date": "2026-11-28",
+      "time": "20:30",
+      "venue": {
+        "en": "De Nieuwe Vorst",
+        "ru": "Де Ньюве Ворст"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "theater",
+      "status": "on-sale",
+      "note": {
+        "en": "Theater by Het Zuidelijk Toneel.",
+        "ru": "Театр от Het Zuidelijk Toneel."
+      },
+      "url": "https://denieuwevorst.nl/programma"
+    },
+    {
+      "id": "vfest-2026-11-28",
+      "title": {
+        "en": "VFEST",
+        "ru": "VFEST"
+      },
+      "date": "2026-11-28",
+      "time": "15:00",
+      "venue": {
+        "en": "Hall of Fame",
+        "ru": "Hall of Fame"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "festival",
+      "status": "on-sale",
+      "price": {
+        "en": "From €12",
+        "ru": "От €12"
+      },
+      "note": {
+        "en": "Multidisciplinary festival celebrating body, gender and queerness.",
+        "ru": "Мультидисциплинарный фестиваль, отмечающий тело, гендер и квирность."
+      },
+      "url": "https://hall-fame.nl/"
+    },
+    {
+      "id": "sevendust-013-2026-11-29",
+      "title": {
+        "en": "Sevendust",
+        "ru": "Sevendust"
+      },
+      "date": "2026-11-29",
+      "time": "19:00",
+      "venue": {
+        "en": "013",
+        "ru": "013"
+      },
+      "city": {
+        "en": "Tilburg",
+        "ru": "Тилбург"
+      },
+      "category": "music",
+      "status": "sold-out",
+      "note": {
+        "en": "Soul metal from Atlanta, sold out.",
+        "ru": "Соул-метал из Атланты, распродано."
+      },
+      "url": "https://www.013.nl/"
     }
   ]
 }
